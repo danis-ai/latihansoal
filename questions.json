@@ -1,0 +1,1160 @@
+{
+    "manajemen": [
+        {
+            "question": "Definisi Organisasi adalah ...",
+            "choices": [
+                "sebagai sekelompok orang yang bekerja sama, berkoordinasi, untuk mencapai tujuan tertentu",
+                "sebagian orang yang bekerja untuk tujuan tertentu",
+                "bersifat bisnis dengan tujuan tertentu",
+                "sebagai perusahaan yang bersifat bisnis dengan tujuan mencari keuntungan sebesar-besarnya"
+            ],
+            "answer": "sebagai sekelompok orang yang bekerja sama, berkoordinasi, untuk mencapai tujuan tertentu"
+        },
+        {
+            "question": "Manajemen adalah suatu proses dimana suatu kelompok orang bekerja sama mengarahkan orang lainnya untuk bekerja mencapai tujuan yang sama, hal ini dikemukakan oleh ...",
+            "choices": [
+                "Massie dan Douglas",
+                "Kreitner",
+                "Koontz dan O’Donnel",
+                "Donnely, Gibson, dan Ivancevich"
+            ],
+            "answer": "Koontz dan O’Donnel"
+        },
+        {
+            "question": "Contoh organisasi terstruktur yang ketat adalah ...",
+            "choices": [
+                "kegiatan RT (Rumah Tangga)",
+                "RW (Rukun Warga)",
+                "Koperasi",
+                "Organisasi militer"
+            ],
+            "answer": "Organisasi militer"
+        },
+        {
+            "question": "Proses manajemen mencakup kegiatan .....",
+            "choices": [
+                "pengorganisasian, perencanaan, pengarahan, dan pengendalian",
+                "perencanaan, pengorganisasian, pengarahan, dan pengendalian",
+                "perencanaan, pengorganisasian, pengendalian dan pengarahan",
+                "pengarahan, perencanaan, pengorganisasian, dan pengendalian"
+            ],
+            "answer": "perencanaan, pengorganisasian, pengarahan, dan pengendalian"
+        },
+        {
+            "question": "Tugas manajemen puncak adalah …",
+            "choices": [
+                "menentukan tujuan, strategi, dan kebijakan perusahaan secara umum, yang kemudian akan diterjemahkan lebih spesifik oleh manajer di bawahnya",
+                "melaksanakan tujuan, strategi, dan kebijakan yang telah ditetapkan oleh manajer puncak serta mengkoordinasikan dan mengarahkan aktivitas manajer tingkat bawah dan juga karyawan",
+                "mengawasi dan mengkoordinasi kegiatan operasional yang dilakukan oleh karyawan",
+                "bertanggung jawab mengawasi unit tertentu yang mempunyai beberapa bidang sekaligus"
+            ],
+            "answer": "menentukan tujuan, strategi, dan kebijakan perusahaan secara umum, yang kemudian akan diterjemahkan lebih spesifik oleh manajer di bawahnya"
+        },
+        {
+            "question": "Berikut ini adalah yang termasuk dalam aliran manajemen klasik, kecuali",
+            "choices": [
+                "Henry Fayol",
+                "Max Weber",
+                "Adam Smith",
+                "Mary Parker Follet"
+            ],
+            "answer": "Adam Smith"
+        },
+        {
+            "question": "Lima kekuatan kompetisi bagi perusahaan untuk mencari keuntungan yang dikembangkan oleh Michael Porter adalah ...",
+            "choices": [
+                "ancaman pendatang baru atau halangan untuk masuk, produk substitusi, pemasok, pembeli, pesaing",
+                "ancaman pendatang baru atau halangan untuk masuk, produk, pemasok, pembeli, pesaing",
+                "ancaman pendatang baru, produk substitusi, pemasok, pembeli, pesaing",
+                "ancaman dari luar, produk substitusi, pemasok, pembeli, pesaing"
+            ],
+            "answer": "ancaman pendatang baru atau halangan untuk masuk, produk substitusi, pemasok, pembeli, pesaing"
+        },
+        {
+            "question": "Ada empat wilayah pengukuran tujuan sosial, dimana untuk setiap wilayah diperlukan pengukuran yang lebih spesifik, salah satunya adalah wilayah ekonomi. Yang dimaksud dengan wilayah ekonomi adalah ...",
+            "choices": [
+                "pengukuran dilakukan apakah organisasi melaksanakan tugas ekonomi yang dasar",
+                "pengukuran dilakukan untuk melihat apakah organisasi meningkatkan kualitas hidup secara umum",
+                "pengukuran dilakukan untuk melihat sejauh mana investasi sumberdaya (uang dan manusia) dilakukan organisasi untuk membantu persoalan yang dihadapi komunitas, seperti pendidikan, pengajian, dan sebagainya",
+                "pengukuran dalam wilayah ini ingin melihat sejauh mana organisasi berhasil memecahkan masalah sosial, bukannya mengatasi gejala-gejala yang muncul."
+            ],
+            "answer": "pengukuran dilakukan apakah organisasi melaksanakan tugas ekonomi yang dasar"
+        },
+        {
+            "question": "Berikut ini adalah jenis r encana sekali pakai dalam perencanaan operasional, kecuali …",
+            "choices": [
+                "program",
+                "proyek",
+                "anggaran",
+                "kebijakan"
+            ],
+            "answer": "kebijakan"
+        },
+        {
+            "question": "Salah satu implementasi strategi adalah model S7 yaitu Strategi (Strategy), Struktur (Structure), Sistem (Systems), Tujuan atau misi organisasi (Superordinate Goals), Kemampuan atau keterampilan (Skills), Staf (Staff), Pola perilaku atau pengambilan keputusan (Style). Model ini dikembangkan oleh ...",
+            "choices": [
+                "Thomas J. Peters dan Robert H. Waterman",
+                "Massie dan Douglas",
+                "Koontz dan O’Donnel",
+                "Donnely, Gibson, dan Ivancevich"
+            ],
+            "answer": "Thomas J. Peters dan Robert H. Waterman"
+        },
+        {
+            "question": "Salah satu faktor yang menghalangi pengambilan keputusan yang efektif adalah manajer cenderung tidak bersedia bertindak, setelah tahu konsekuensi tidak bertindak tidak terlalu besar. Hal ini disebut",
+            "choices": [
+                "relaxed change",
+                "defensive avoidance",
+                "relaxed Avoidance",
+                "panik"
+            ],
+            "answer": "relaxed Avoidance"
+        },
+        {
+            "question": "Berikut ini adalah keuntungan dari keputusan kelompok, kecuali …",
+            "choices": [
+                "Informasi dan pengetahuan lebih banyak",
+                "Lebih banyak alternatif yang dapat dihasilkan",
+                "Penerimaan terhadap hasil akhir akan lebih besar",
+                "Waktu yang lebih lama dan biaya lebih besar karena waktu yang hilang lebih banyak"
+            ],
+            "answer": "Waktu yang lebih lama dan biaya lebih besar karena waktu yang hilang lebih banyak"
+        },
+        {
+            "question": "Promosi mempengaruhi penjualan, tetapi dalam menetapkan promosi, perusahaan menggunakan target penjualan di masa mendatang. Dengan kata lain, penjualan juga dipengaruhi oleh promosi. Metode statistik yang sesuai untuk memecahkan persoalan di atas adalah ...",
+            "choices": [
+                "Jury of Executive Opinion Method",
+                "Sales-force-composition",
+                "Gantt chart",
+                "Penghalusan Eksponensial"
+            ],
+            "answer": "Penghalusan Eksponensial"
+        },
+        {
+            "question": "Berikut ini adalah yang termasuk dalam karakteristik organisasi birokrasi, kecuali …",
+            "choices": [
+                "pembagian kerja yang jelas (spesialisasi), dan setiap posisi diisi oleh orang yang memang ahli di bidang tersebut",
+                "seperangkat aturan yang konsisten dan jelas untuk menjamin keseragaman tugas",
+                "manajer dengan gaya tradisional (birokrasi) cenderung kurang efektif dibandingkan dengan manajer yang mendorong karyawannya dengan pendekatan manusiawi (menghargai kerja, mendorong tim kerja)",
+                "karir dalam organisasi didasarkan pada prestasi dan keahlian. Karyawan tidak boleh diperlakukan secara tidak adil"
+            ],
+            "answer": "manajer dengan gaya tradisional (birokrasi) cenderung kurang efektif dibandingkan dengan manajer yang mendorong karyawannya dengan pendekatan manusiawi (menghargai kerja, mendorong tim kerja)"
+        },
+        {
+            "question": "Tom Burns dan G.M. Stalker, dua peneliti dari Inggris, melalui buku mereka The Management of Information (1961), melihat kaitan antara elemen lingkungan dengan desain organisasi dan mereka membedakan dua jenis organisasi yaitu mekanistis dan organis. Berikut ini termasuk dalam Model Mekanis, kecuali …",
+            "choices": [
+                "pekerjaan sangat spesialis; sangat sedikit penjelasan terhadap hubungan antara pekerjaan dengan tujuan organisasi",
+                "pekerjaan ditetapkan secara kaku. Hanya dirubah secara formal oleh manajemen puncak organisasi",
+                "definisi peranan cukup spesifik (hak, kewajiban, dan metode kerja untuk setiap anggota)",
+                "pekerjaan saling tergantung. Penekanan pada relevansi pekerjaan dan tujuan organisasi"
+            ],
+            "answer": "pekerjaan saling tergantung. Penekanan pada relevansi pekerjaan dan tujuan organisasi"
+        },
+        {
+            "question": "Organisasi matriks pertama kali dikembangkan oleh industri luar angkasa, yaitu negara ...",
+            "choices": [
+                "Inggris",
+                "Amerika Serikat",
+                "Indonesia",
+                "Jerman"
+            ],
+            "answer": "Amerika Serikat"
+        },
+        {
+            "question": "Berikut adalah tahapan dalam perencanaan sumber daya manusia, kecuali …",
+            "choices": [
+                "memperkirakan kebutuhan tenaga kerja organisasi masa mendatang, meliputi jumlah (kuantitas) dan kualitas",
+                "merencanakan rekrutmen dan pemberhentian/pensiun kerja",
+                "merencanakan pelatihan dan pengembangan tenaga kerja",
+                "evaluasi latar belakang calon tenaga kerja"
+            ],
+            "answer": "evaluasi latar belakang calon tenaga kerja"
+        },
+        {
+            "question": "Salah satu sumber penolakan adalah …",
+            "choices": [
+                "ketidakpastian",
+                "partisipasi dan keterlibatan",
+                "penerangan dan komunikasi",
+                "negosiasi dan perjanjian"
+            ],
+            "answer": "ketidakpastian"
+        },
+        {
+            "question": "Metode yang bertujuan meningkatkan kejelasan individu dalam berkomunikasi adalah ...",
+            "choices": [
+                "training sensitivitas",
+                "analisis transaksi",
+                "membangun tim",
+                "konsultasi proses"
+            ],
+            "answer": "analisis transaksi"
+        },
+        {
+            "question": "Proses dimana penerima menerjemahkan atau mengartikan pesan yang diterima, disebut …",
+            "choices": [
+                "encoding",
+                "decoding",
+                "pesan",
+                "media komunikasi"
+            ],
+            "answer": "decoding"
+        },
+        {
+            "question": "Ciri-ciri orang yang mempunyai need for achievement yang tinggi menurut McClelland, kecuali …",
+            "choices": [
+                "suka mengambil tanggung jawab untuk menyelesaikan suatu persoalan",
+                "suka menetapkan tanggungjawab yang moderat, tidak terlalu tinggi, dan juga tidak terlalu rendah",
+                "suka feed-back yang cepat karena dengan feed-back tersebut akan diperoleh evaluasi mengenai pekerjaannya, dan sekaligus melihat apakah dapat perbaikan atau tidak",
+                "suka berprestasi, menurutnya program pendidikan akan membantu dalam meningkatkan kebutuhannya berprestasi"
+            ],
+            "answer": "suka berprestasi, menurutnya program pendidikan akan membantu dalam meningkatkan kebutuhannya berprestasi"
+        },
+        {
+            "question": "Motivasi seseorang akan tergantung pada antisipasi hasil dari tindakannya (dapat negatif atau positif) dikalikan dengan kekuatan pengharapan orang tersebut bahwa hasil yang diperoleh akan menghasilkan sesuatu yang dia inginkan, hal ini merupakan teori ...",
+            "choices": [
+                "Teori Pengharapan Vroom",
+                "Teori Motivasi Keadilan",
+                "Teori Penentuan Tujuan",
+                "Model Porter-Lawler"
+            ],
+            "answer": "Teori Pengharapan Vroom"
+        },
+        {
+            "question": "Konflik yang muncul karena ada perbedaan pandangan atau pendapat antar individu dalam suatu organisasi, disebut …",
+            "choices": [
+                "Konflik Interorganizational",
+                "Konflik Intergroup",
+                "Konflik Intragroup",
+                "Konflik Interpersonal"
+            ],
+            "answer": "Konflik Interpersonal"
+        },
+        {
+            "question": "Kekuasaan yang datang dari kemampuan seseorang memberikan balasan kepada orang lain yang melakukan pekerjaan tertentu, disebut ...",
+            "choices": [
+                "kekuasaan paksaan (coercive power)",
+                "kekuasaan balasan (reward power)",
+                "kekuasaan legitimasi (legitimate power)",
+                "kekuasaan kepakaran (expert power)"
+            ],
+            "answer": "kekuasaan balasan (reward power)"
+        },
+        {
+            "question": "Gaya kepemimpinan yang diajukan oleh Likert dikelompokkan ke dalam empat sistem, salah satunya adalah manajer yang memiliki tipe sangat otoriter, mempunyai kepercayaan yang rendah terhadap bawahannya, memotivasi bawahannya melalui ancaman atau hukuman, namun kadang-kadang melalui balasan (reward), komunikasi yang dilakukan satu arah (ke bawah atau top-down), dan membatasi pengambilan keputusan hanya untuk manajer. Gaya kepemimpinan ini disebut gaya kepemimpinan...",
+            "choices": [
+                "Otoriter - Eksploitatif (Exploitative - Authoritative)",
+                "Benevolent - Authoritative",
+                "Konsultatif (Consultative)",
+                "Partisipatif (Participative - Group)"
+            ],
+            "answer": "Otoriter - Eksploitatif (Exploitative - Authoritative)"
+        },
+        {
+            "question": "Salah satu gaya Keputusan dalam Model Vroom-Yetton-Jago, adalah CII, penjelasannya adalah …",
+            "choices": [
+                "Manajer membuat keputusan sendirian, berdasarkan informasi yang ada pada waktu itu",
+                "Manajer memberitahu permasalahan yang ada dengan bawahan yang relevan, dan meminta informasi dan evaluasi alternatif. Bawahan tidak bertemu sebagai suatu kelompok. Manajer mengambil keputusan sendirian, yang mungkin atau tidak mencerminkan pengaruh bawahan",
+                "Manajer dan bawahan bertemu sebagai kelompok dan mendiskusikan permasalahan yang ada. Kelompok mengambil keputusan. Manajer tidak berusaha mempengaruhi kelompok dalam pengambilan keputusan, dan bersedia melaksanakan keputusan yang diambil bersama",
+                "Manajer dan bawahan bertemu dan mendiskusikan permasalahan serta mengevaluasi alternatif pemecahan. Manajer kemudian mengambil keputusan, yang mungkin atau tidak mencerminkan pengaruh bawahan"
+            ],
+            "answer": "Manajer memberitahu permasalahan yang ada dengan bawahan yang relevan, dan meminta informasi dan evaluasi alternatif. Bawahan tidak bertemu sebagai suatu kelompok. Manajer mengambil keputusan sendirian, yang mungkin atau tidak mencerminkan pengaruh bawahan"
+        },
+        {
+            "question": "Berikut ini adalah fungsi dari kepemimpinan strategik, kecuali ...",
+            "choices": [
+                "perencanaan",
+                "pelaksanaan",
+                "pengawasan",
+                "evaluasi"
+            ],
+            "answer": "pengawasan"
+        },
+        {
+            "question": "Langkah-langkah kepemimpinan strategik adalah berikut ini, kecuali",
+            "choices": [
+                "mengevaluasi kondisi saat ini meliputi kondisi organisasi dan lingkungan",
+                "merumuskan kemana organisasi akan dibawa di masa depan, atau merumuskan visi dan misi organisasi",
+                "implementasi strategi yang telah dirumuskan",
+                "perumusan visi dan misi, kemana organisasi akan dibawa di masa mendatang"
+            ],
+            "answer": "perumusan visi dan misi, kemana organisasi akan dibawa di masa mendatang"
+        },
+        {
+            "question": "Pengawasan yang didesain untuk mendeteksi penyimpangan dari standar tertentu dan memungkinkan perbaikan dilakukan sebelum seluruh tahap kegiatan tertentu diselesaikan disebut ....",
+            "choices": [
+                "pengendalian concurrent (yes/no)",
+                "pengawasan pendahuluan (feedforward control atau steering control)",
+                "pengendalian umpan balik (post-action control)",
+                "management by exception (MBE)"
+            ],
+            "answer": "pengawasan pendahuluan (feedforward control atau steering control)"
+        },
+        {
+            "question": "Berikut ini adalah alasan sistem pengendalian kemungkinan ditolak oleh anggota organisasi, kecuali…",
+            "choices": [
+                "pengendalian yang berlebihan (overcontrol)",
+                "fokus yang tidak tepat",
+                "balasan positif untuk ketidakefisienan",
+                "mendorong partisipasi"
+            ],
+            "answer": "mendorong partisipasi"
+        },
+        {
+            "question": "Rasio untuk melihat kemampuan organisasi memenuhi kewajiban jangka panjangnya, yaitu kewajiban yang jatuh tempo lebih dari satu tahun disebut rasio …",
+            "choices": [
+                "Likuiditas",
+                "Solvabilitas",
+                "Aktivitas",
+                "Pasar"
+            ],
+            "answer": "Solvabilitas"
+        },
+        {
+            "question": "Anggaran yang merencanakan pengeluaran investasi di masa mendatang, seperti investasi pada bangunan, peralatan, dan sebagainya, disebut anggaran…",
+            "choices": [
+                "Modal",
+                "Pendanaan",
+                "Neraca",
+                "Keuangan"
+            ],
+            "answer": "Modal"
+        },
+        {
+            "question": "Efek fungsional anggaran adalah berikut ini, kecuali …",
+            "choices": [
+                "meningkatkan motivasi dan semangat kerja.",
+                "meningkatkan koordinasi organisasi.",
+                "komunikasi dan umpan balik dapat mengakibatkan ketidakpuasan manajer terhadap anggaran",
+                "sebagai alat evaluasi."
+            ],
+            "answer": "komunikasi dan umpan balik dapat mengakibatkan ketidakpuasan manajer terhadap anggaran"
+        },
+        {
+            "question": "Salah satu dari kegiatan pendukung dalam manajemen rantai nilai adalah…",
+            "choices": [
+                "manajemen rantai nilai",
+                "pemasaran dan penjualan",
+                "operasi",
+                "manajemen sumberdaya manusia"
+            ],
+            "answer": "manajemen rantai nilai"
+        },
+        {
+            "question": "Berikut ini adalah yang termasuk dalam dimensi kualitas, kecuali …",
+            "choices": [
+                "prestasi (performance), karakteristik operasional produk yang pokok, contoh kejelasan gambar televisi",
+                "tampilan (features), mendukung karakteristik fungsional dasar produk, contoh: power window untuk mobil",
+                "keterandalan (reliability), kemungkinan produk tidak berfungsi sebagaimana seharusnya (malfunction) selama periode tertentu",
+                "tidak mudah diperbaiki"
+            ],
+            "answer": "tidak mudah diperbaiki"
+        },
+        {
+            "question": "CIO adalah penghubung antara manajemen dengan informasi, sedangkan tugas dari CIO adalah …",
+            "choices": [
+                "mencakup penyiapan dan pelaksanaan prosedur dan kebijakan yang berkaitan dengan sistem informasi manajemen baik yang baru maupun yang lama",
+                "mencakup penyiapan dan pelaksanaan prosedur dan kebijakan yang berkaitan dengan sistem informasi",
+                "mencakup pelaksanaan prosedur dan kebijakan yang berkaitan dengan sistem informasi manajemen baik yang baru maupun yang lama",
+                "mencakup penyiapan dan pelaksanaan prosedur dan kebijakan yang berkaitan dengan manajemen baik yang baru maupun yang lama"
+            ],
+            "answer": "mencakup penyiapan dan pelaksanaan prosedur dan kebijakan yang berkaitan dengan sistem informasi manajemen baik yang baru maupun yang lama"
+        },
+        {
+            "question": "Keterbatasan dari sistem informasi manajemen (SIM) adalah berikut ini, kecuali ….",
+            "choices": [
+                "sistem informasi manajemen barangkali mahal dan sulit untuk dikembangkan dan diimplementasikan, khususnya apabila pengembangan sistem tersebut dilakukan secara bertahap",
+                "sistem informasi tidak selalu sesuai untuk semua tugas atau masalah",
+                "informasi yang diberikan ke manajer barangkali tidak selalu akurat, tepat waktu, lengkap, atau relevan. Input yang jelek akan menghasilkan output yang jelek juga",
+                "manajer kadangkala tidak terlalu mengandalkan sistem tersebut"
+            ],
+            "answer": "manajer kadangkala tidak terlalu mengandalkan sistem tersebut"
+        },
+        {
+            "question": "Ray Krock adalah contoh pengusaha yang sukses di Amerika dengan label ...",
+            "choices": [
+                "Ford",
+                "Amex",
+                "Microsoft",
+                "McDonald’s"
+            ],
+            "answer": "McDonald’s"
+        },
+        {
+            "question": "Inovasi yang memodifikasi produk, proses, atau teknologi, disebut inovasi …",
+            "choices": [
+                "Kecil",
+                "Radikal",
+                "Teknis",
+                "Manajerial"
+            ],
+            "answer": "Kecil"
+        },
+        {
+            "question": "Variabel yang dianggap bisa mendorong kreativitas adalah berikut ini, kecuali …",
+            "choices": [
+                "latar belakang kehidupan",
+                "kepribadian",
+                "kemampuan kognitif",
+                "verifikasi"
+            ],
+            "answer": "verifikasi"
+        }
+    ],
+    "pengantar_bisnis": [
+        {
+            "question": "Salah satu kegiatan bisnis yang harus dilakukan dalam mengembangkan produk menurut Brown dan Clow (2008) adalah…",
+            "choices": [
+                "mengelola produksi barang atau jasa",
+                "melakukan survey pasar",
+                "mencari pemasok",
+                "membangun pabrik"
+            ],
+            "answer": "mengelola produksi barang atau jasa"
+        },
+        {
+            "question": "Memberi otoritas dan kewenangan kepada karyawan dalam membuat keputusan dan mempertanggungjawabkan keputusan tersebut kepada perusahaan merupakan salah satu cara dalam membangun ....",
+            "choices": [
+                "kepercayaan pelanggan",
+                "komitmen karyawan",
+                "kualitas pelayanan",
+                "komunikasi sehat"
+            ],
+            "answer": "komitmen karyawan"
+        },
+        {
+            "question": "Sebagai seorang pelaku bisnis, Anda harus proaktif mengikuti trend yang selalu berubah dari masa ke masa dengan tidak membedakan gender, ras, etnis, dan agama. Hal tersebut merupakan kemampuan Anda dalam mengelola ...",
+            "choices": [
+                "Homogenitas",
+                "Diversitas",
+                "Kreatifitas",
+                "Produktifitas"
+            ],
+            "answer": "Diversitas"
+        },
+        {
+            "question": "Orang-orang yang memiliki kemampuan melihat dan menilai kesempatan-kesempatan bisnis, mengumpulkan sumber daya-sumber daya yang dibutuhkan untuk mengambil tindakan yang tepat, mengambil keuntungan serta memiliki sifat, watak dan kemauan untuk mewujudkan gagasan inovatif kedalam dunia nyata secara kreatif dalam rangka meraih sukses/meningkatkan pendapatan, merupakan pengertian dari...",
+            "choices": [
+                "inovator",
+                "wirausahawan",
+                "kreditor",
+                "manajer"
+            ],
+            "answer": "wirausahawan"
+        },
+        {
+            "question": "Salah satu perbedaan sistem perekonomian sosialis dan komunisme adalah ...",
+            "choices": [
+                "pada perekonomian sosialis, keuntungan diambil pemerintah, sedangkan pada perekonomian komunisme, diambil oleh perusahaan",
+                "pada perekonomian sosialis, sebagian besar bisnis dimiliki dan dioperasionalkan oleh pemerintah, sedangkan pada perekonomian komunisme, Pemerintah memiliki dan mengoperasionalkan industri utama",
+                "pada perekonomian sosialis, harga biasanya tinggi, sedangkan pada perekonomian komunisme, harga ditentukan oleh penawaran dan permintaan",
+                "pada perekonomian sosialis, ada hambatan dalam industri utama, mendorong bisnis kecil harga biasanya tinggi sedangkan pada perekonomian komunisme, tidak ada persaingan"
+            ],
+            "answer": "pada perekonomian sosialis, sebagian besar bisnis dimiliki dan dioperasionalkan oleh pemerintah, sedangkan pada perekonomian komunisme, Pemerintah memiliki dan mengoperasionalkan industri utama"
+        },
+        {
+            "question": "Dampak pelaksanaan globalisasi ekonomi dalam suatu negara, dapat dilihat dari salah satu indikator utama ……",
+            "choices": [
+                "tumbuhnya jalinan sosial politik yang meliputi seluruh dunia",
+                "rasio perdagangan internasional (ekspor dan impor) negara tersebut",
+                "perubahan yang cepat dan tidak terus-menerus",
+                "bertambahnya partisipan yang berbeda"
+            ],
+            "answer": "rasio perdagangan internasional (ekspor dan impor) negara tersebut"
+        },
+        {
+            "question": "Yang dimaksud dengan defisit neraca perdagangan adalah...",
+            "choices": [
+                "ekspor di suatu negara lebih kecil daripada impornya",
+                "ekspor di suatu negara lebih besar daripada impornya",
+                "suatu negara melakukan suatu perdagangan dengan negara lain dan rugi",
+                "suatu bentuk perdagangan antardua negara dengan suatu kesepakatan bersama"
+            ],
+            "answer": "ekspor di suatu negara lebih kecil daripada impornya"
+        },
+        {
+            "question": "Aspek tenaga kerja, modal, kewirausahaan, sumber daya fisik, dan sumber daya informasi merupakan bagian dari salah satu faktor yang mempengaruhi keunggulan kompetitif nasional, yaitu...",
+            "choices": [
+                "Kondisi faktor produksi",
+                "Kondisi permintaan",
+                "Industri-industri yang berhubungan dan yang mendukung",
+                "Strategi, struktur, dan persaingan"
+            ],
+            "answer": "Kondisi faktor produksi"
+        },
+        {
+            "question": "Teori perdagangan internasional yang menyatakan bahwa perdagangan adalah zero-sum game dimana satu negara akan mendapatkan satu hasil, sedangkan negara lain justru bisa kehilangan merupakan teori ...",
+            "choices": [
+                "Keunggulan Absolut",
+                "Keunggulan Komparatif",
+                "Merkantilisme",
+                "Perdagangan Baru"
+            ],
+            "answer": "Merkantilisme"
+        },
+        {
+            "question": "Apabila suatu perusahaan atau negara yang memutuskan untuk berdagang dengan negara lain di pasar internasional harus menghadapi hambatan berupa tarif yang dipungut sebagai proporsi dari nilai barang yang diimpor, maka tarif tersebut disebut dengan tarif .....",
+            "choices": [
+                "ad valorem",
+                "ekspor",
+                "transit",
+                "impor"
+            ],
+            "answer": "ad valorem"
+        },
+        {
+            "question": "Dengan alasan tertentu suatu negara atau bisnis mengambil tindakan dengan menjual produk pada harga yang lebih rendah daripada biaya untuk menghasilkan produk tersebut. Tindakan demikian disebut...",
+            "choices": [
+                "embargo",
+                "subsidi",
+                "proteksionisme",
+                "dumping"
+            ],
+            "answer": "dumping"
+        },
+        {
+            "question": "Pernyataan tentang kebijakan yang berfokus pada permasalahan benar atau salah, dan bukan merupakan standar perilaku merupakan pengertian dari ...",
+            "choices": [
+                "etika bisnis",
+                "perilaku etis",
+                "kode etik",
+                "isu-isu etika"
+            ],
+            "answer": "kode etik"
+        },
+        {
+            "question": "Salah satu contoh isu –isu etika bisnis dalam komunikasi dengan pelanggan adalah…",
+            "choices": [
+                "menggunakan sumber daya perusahaan untuk kepentingan pribadi",
+                "mempromosikan janji-janji palsu yang tidak sesuai dengan produk",
+                "memukul bawahan sebagai hukuman karena tidak mampu mencapai target produksi tertentu",
+                "menerima komisi atau uang pelicin saat penerimaan karyawan baru"
+            ],
+            "answer": "mempromosikan janji-janji palsu yang tidak sesuai dengan produk"
+        },
+        {
+            "question": "Salah satu teori dalam menganalisis perilaku etis yang menyatakan bahwa setiap keputusan yang diambil diasumsikan menganut prinsip keadilan, kesamaan, dan obyektif adalah teori...",
+            "choices": [
+                "Hak",
+                "Kewajiban",
+                "Utilitarianisme",
+                "Whistleblowing"
+            ],
+            "answer": "Kewajiban"
+        },
+        {
+            "question": "Salah satu bentuk tanggung jawab sosial suatu organisasi bisnis pada lingkungan adalah dalam ….",
+            "choices": [
+                "menghasilkan produk dan jasa ketika melakukan produksi atau penjualan kepada pelanggan",
+                "menjamin keselamatan kerja karyawan dan keadilan bagi seluruh karyawan",
+                "menghasilkan produk yang menguntungkan bagi para pemangku kepentingan",
+                "mengendalikan dampak negatif lingkungan"
+            ],
+            "answer": "mengendalikan dampak negatif lingkungan"
+        },
+        {
+            "question": "Metode “iterative clinical interview” yang disusun oleh Schein, ditujukan untuk...",
+            "choices": [
+                "memperkenalkan budaya kepada pihak luar maupun membantu pemahaman insider",
+                "memprediksi bahwa tidak semua nilai-nilai pada kerangka kerja budaya yang umum akan sama dalam implementasi berbagai inovasi",
+                "menunjukkan tidak semua elemen budaya tercapai pada inovasi khusus",
+                "menangani multikulturalisme"
+            ],
+            "answer": "memperkenalkan budaya kepada pihak luar maupun membantu pemahaman insider"
+        },
+        {
+            "question": "Perusahaan listrik negara dan perusahaan air minum merupakan contoh organisasi bisnis yang termasuk kedalam kelompok bisnis…",
+            "choices": [
+                "finansial",
+                "jasa",
+                "utilitas",
+                "distributor"
+            ],
+            "answer": "utilitas"
+        },
+        {
+            "question": "Salah satu keuntungan dari mendirikan perusahaan persekutuan adalah…",
+            "choices": [
+                "tidak ada tarip pajak khusus untuk bentuk persekutuan",
+                "tidak terbatasnya tanggung jawab masing-masing anggota sekutu akan membuat bisnis ini semakin mudah dikelola",
+                "keberlanjutannya dapat dengan mudah dipertahankan apabila salah satu pihak yang berkerjasama tersebut meninggal",
+                "transfer kepemilikan dapat dilakukan dengan mudah"
+            ],
+            "answer": "tidak ada tarip pajak khusus untuk bentuk persekutuan"
+        },
+        {
+            "question": "Kepemilikan bisnis dimana pemilik mengijinkan pihak lain atau pembeli (franchisee) menggunakan merek dagangnya atau menggunakan semua proses bisnisnya pada kondisi tertentu dan di bawah ijin pemilik, disebut dengan ......",
+            "choices": [
+                "divestiture",
+                "waralaba",
+                "merger",
+                "spin off"
+            ],
+            "answer": "waralaba"
+        },
+        {
+            "question": "Jenis organisasi bisnis yang dimiliki dan dikendalikan oleh orang- orang yang memiliki kebutuhan yang sama dengan menggabungkan sumber daya mereka untuk keuntungan bersama, adalah...",
+            "choices": [
+                "Koperasi",
+                "Joint venture",
+                "Perusahaan perseorangan",
+                "Korporasi"
+            ],
+            "answer": "Koperasi"
+        },
+        {
+            "question": "Salah satu kemampuan diri dari seorang wirausaha adalah harus yakin terhadap ideidenya walaupun orang lain tidak mampu melakukannya, yang merupakan kemampuan dalam hal...",
+            "choices": [
+                "pengarahan diri (self-directed)",
+                "bersemangat tinggi (highly energetic)",
+                "memaklumi adanya ketidakpastian",
+                "pengembangan diri (self-nurturing)"
+            ],
+            "answer": "pengembangan diri (self-nurturing)"
+        },
+        {
+            "question": "Fungsi perencanaan merupakan kegiatan yang sangat penting dan dasar untuk melakukan fungsi manajemen lainnya. Salah satu perencanaan yang dibuat oleh suatu organisasi bisnis adalah perencanaan strategis yang berarti .....",
+            "choices": [
+                "deklarasi atau pernyataan organisasi yang mendasar dan berisi tujuan dan filosofi dasar organisasi",
+                "perencanaan jangka panjang beserta semua strategi untuk pencapaian misi perusahaan atau organisasi",
+                "perencanaan jangka pendek yang disusun untuk mengimplementasikan kegiatan dan tujuan khusus",
+                "perencanaan yang sangat pendek mengenai kegiatan khusus individu, kelompok kerja /tim, atau departemen"
+            ],
+            "answer": "perencanaan jangka panjang beserta semua strategi untuk pencapaian misi perusahaan atau organisasi"
+        },
+        {
+            "question": "Manajer merupakan pemimpin dalam organisasi yang berperan dalam memotivasi karyawan dengan memberikan penghargaan dan insentif bagi karyawan yang berprestasi. Hal ini merupakan pelaksanaan fungsi ...",
+            "choices": [
+                "pengarahan",
+                "penyusunan staf",
+                "pengorganisasian",
+                "pengendalian"
+            ],
+            "answer": "pengarahan"
+        },
+        {
+            "question": "PT. Extravaganza, yang bergerak dalam pembuatan produk dari kulit, membagi departemennya dengan berbasis produk yang dihasilkan: Departemen Jaket, Departemen Sepatu, dan lain-lain. Dengan demikian PT. Extravaganza menganut struktur organisasi...",
+            "choices": [
+                "matriks",
+                "fungsional",
+                "lini",
+                "divisional"
+            ],
+            "answer": "divisional"
+        },
+        {
+            "question": "Salah satu nilai (value) yang mendasari pengembangan organisasional adalah .,,,..",
+            "choices": [
+                "kepercayaan dan dukungan",
+                "survei",
+                "teknik",
+                "membangun tim"
+            ],
+            "answer": "kepercayaan dan dukungan"
+        },
+        {
+            "question": "Berikut ini pernyataan yang benar mengenai konflik dalam berbagai iklim organisasi..",
+            "choices": [
+                "konflik yang sehat merupakan contoh desain struktur tradisional",
+                "orang yang kreatif biasanya cenderung untuk meredam konflik",
+                "dalam iklim birokratik, konflik karena perbedaan pendapat tidak pernah berakhir, tidak diharapkan, dan dipandang tidak sah",
+                "konflik biasanya disebabkan oleh masalah perilaku"
+            ],
+            "answer": "dalam iklim birokratik, konflik karena perbedaan pendapat tidak pernah berakhir, tidak diharapkan, dan dipandang tidak sah"
+        },
+        {
+            "question": "Salah satu fungsi manajemen operasional adalah penjadwalan operasional yang terdiri dari ….",
+            "choices": [
+                "kapasitas dan layanan",
+                "produksi dan karyawan",
+                "bahan baku dan manajemen rantai pasokan",
+                "produksi dan pengendalian kualitas"
+            ],
+            "answer": "produksi dan karyawan"
+        },
+        {
+            "question": "Apabila kondisi suatu kantor langsung berhubungan dengan pelanggan (front office) dengan aliran kerja beragam, volume rendah, dan kastemisasinya tinggi, maka dapat menggunakan tata letak ….",
+            "choices": [
+                "proses",
+                "produk",
+                "campuran",
+                "flexible manufacturing system atau FMS"
+            ],
+            "answer": "proses"
+        },
+        {
+            "question": "Berikut ini pernyataan yang benar tentang manajemen rantai pasokan adalah...",
+            "choices": [
+                "Manajemen rantai pasokan didefinsikan sebagai integrasi proses bisnis dari pelanggan akhir melalui pemasok yang menyediakan produk, pelayanan dan informasi yang menambah nilai bagi pelanggan",
+                "Konsep manajemen rantai pasokan diadopsi oleh berbagai perusahaan sebagai cara yang penting dalam meraih posisi sebagai pemimpin pasar di pasar dalam negeri",
+                "Manajemen rantai pasokan merupakan pendekatan per bagian yang berkaitan dengan perencanaan dan pengendalian bahan baku dan informasi dari perusahaan ke pelanggan akhir",
+                "Struktur proses rantai pasokan meliputi perencanaan, pengalokasian sumber daya, dan produksi"
+            ],
+            "answer": "Manajemen rantai pasokan didefinsikan sebagai integrasi proses bisnis dari pelanggan akhir melalui pemasok yang menyediakan produk, pelayanan dan informasi yang menambah nilai bagi pelanggan"
+        },
+        {
+            "question": "Salah satu alat yang sering digunakan dalam pengendalian mutu harian secara rutin yaitu dengan cara memacu pemikiran kreatif guna mengumpulkan ide-ide dari suatu kelompok dalam waktu yang relatif singkat atau disebut dengan...",
+            "choices": [
+                "Flow chart",
+                "Cause and effect diagram",
+                "Affinity diagram",
+                "Brainstorming"
+            ],
+            "answer": "Brainstorming"
+        },
+        {
+            "question": "Salah satu kelemahan dari penerapan ISO 9000 adalah...",
+            "choices": [
+                "perubahan kepercayaan dan reputasi organisasi atau pelanggan",
+                "memperkecil kreatifitas dan pemikiran kritis organisasi",
+                "kekaburan struktur dan tanggung jawab organisasi",
+                "menurunkan tingkat kepuasan pelanggan"
+            ],
+            "answer": "memperkecil kreatifitas dan pemikiran kritis organisasi"
+        },
+        {
+            "question": "Teori X dan Y, yang berpendapat bahwa Teori X mempunyai keyakinan bahwa orang pada dasarnya malas, sedangkan Teori Y yang meyakini bahwa orang pada dasarnya bersemangat dan memiliki motivasi tinggi, merupakan teori yang dikemukakan oleh ...",
+            "choices": [
+                "Douglas McGregor",
+                "Frederick Herzberg",
+                "Maslow",
+                "Clayton Alderfer"
+            ],
+            "answer": "Douglas McGregor"
+        },
+        {
+            "question": "Teori motivasi yang menyatakan bahwa karyawan akan termotivasi untuk bekerja agar mendapatkan penghargaan yang mereka inginkan dan mereka percaya bahwa kesempatan atau harapan mereka akan tercapai, yaitu merupakan teori ...",
+            "choices": [
+                "keadilan",
+                "dua faktor",
+                "hirarki kebutuhan",
+                "pengharapan"
+            ],
+            "answer": "pengharapan"
+        },
+        {
+            "question": "Salah satu teknik yang digunakan dalam menilai person-organization fit dalam proses seleksi adalah q methodology yaitu mengukur…",
+            "choices": [
+                "fit dalam dua studi",
+                "korelasi antara application’s response dengan organizational profile",
+                "kepribadian seseorang",
+                "menilai pelamar secara komprehensif"
+            ],
+            "answer": "korelasi antara application’s response dengan organizational profile"
+        },
+        {
+            "question": "Untuk menilai kinerja karyawan yang berada dalam kondisi yang tetap dan tidak memungkinkan untuk diperbaiki dengan keterbatasan kemampuan, motivasi, atau ciri pekerjaannya, maka digunakan penilaian ...",
+            "choices": [
+                "pengembangan",
+                "penampilan",
+                "perbaikan",
+                "pemeliharaan"
+            ],
+            "answer": "pemeliharaan"
+        },
+        {
+            "question": "Salah satu teori yang dapat mendasari penilaian kinerja menyatakan bahwa penilaian kinerja sebaiknya menggunakan berbagai observasi dari waktu ke waktu dan mengadakan analisis terhadap informasi yang diperoleh dari berbagai sumber. Hal ini merupakan isi dari teori..",
+            "choices": [
+                "kognitif sosial (social cognitive theory)",
+                "identitas (identity theory)",
+                "atribusi",
+                "kepribadian implisit"
+            ],
+            "answer": "kognitif sosial (social cognitive theory)"
+        },
+        {
+            "question": "Perencanaan tenagakerja, pelatihan kerja, penempatan tenagakerja, perluasan kesempatan kerja, dan penggunaan tenagakerja asing merupakan aspek-aspek yang terdapat dalam UU ketenagakerjaaan, yaitu ....",
+            "choices": [
+                "UU No.21 Tahun 2000",
+                "UU No.21 Tahun 2001",
+                "UU No.13 Tahun 2002",
+                "UU No.13 Tahun 2003"
+            ],
+            "answer": "UU No.13 Tahun 2003"
+        },
+        {
+            "question": "Variabel demografi merupakan salah satu variabel penting untuk menyusun segmentasi pasar yang meliputi aspek-aspek ….",
+            "choices": [
+                "umur, gender, ras, etnik, pendapatan, pendidikan, agama dan kepercayaan",
+                "iklim, sumber daya alam, kepadatan penduduk, nilai budaya, dan lingkungan",
+                "kepribadian, motivasi, dan gaya hidup",
+                "perilaku konsumen terhadap produk, nilai budaya, dan lingkungan"
+            ],
+            "answer": "umur, gender, ras, etnik, pendapatan, pendidikan, agama dan kepercayaan"
+        },
+        {
+            "question": "Salah satu fungsi pemasaran yang merupakan kegiatan pemisahan produk atau jasa yang ditawarkan kepada pelanggan sesuai dengan kualitas dan karakteristiknya agar mudah dipahami pelanggan adalah fungsi...",
+            "choices": [
+                "pengiriman",
+                "pengendalian resiko",
+                "standarisasi",
+                "penggudangan"
+            ],
+            "answer": "standarisasi"
+        },
+        {
+            "question": "Salah satu metode promosi yang merupakan metode yang tidak mahal untuk membangun imej terhadap perusahaan dan produk adalah...",
+            "choices": [
+                "Periklanan",
+                "Penjualan personal",
+                "Promosi penjualan",
+                "Hubungan masyarakat"
+            ],
+            "answer": "Hubungan masyarakat"
+        },
+        {
+            "question": "Orang yang ahli dalam menginterpretasikan laporan keuangan dan membuat rekomendasi terhadap kondisi keuangan perusahaan atau organisasi yaitu ....",
+            "choices": [
+                "manajer keuangan",
+                "auditor",
+                "akuntan publik",
+                "investor"
+            ],
+            "answer": "manajer keuangan"
+        },
+        {
+            "question": "Apabila pemilik perusahaan menginvestasikan kembali pendapatannya, membuat kontribusi, menjual aset, menjual saham ke masyarakat, atau menambah modal yang berasal dari investor untuk menambah dana yang ada dalam perusahaan, disebut dengan..",
+            "choices": [
+                "Debt capital",
+                "Equity capital",
+                "Cost of capital",
+                "Venture capital"
+            ],
+            "answer": "Equity capital"
+        },
+        {
+            "question": "Kegunaan dari rasio profitabilitas adalah mengukur …",
+            "choices": [
+                "seberapa besar perusahaan meminjam dana utuk kegiatan operasionalnya",
+                "seberapa efektif perusahaan menggunakan berbagai sumber dana untuk mencapai laba atau keuntungan",
+                "kemampuan aset untuk membayar hutang jangka pendek perusahaan",
+                "mengukur kecepatan perusahaan pergerak dari barang mentah menjadi barang jadi yang siap dipasarkan"
+            ],
+            "answer": "seberapa efektif perusahaan menggunakan berbagai sumber dana untuk mencapai laba atau keuntungan"
+        },
+        {
+            "question": "Agar tidak mudah dipalsukan, uang memiliki karakteristik yang sulit ditiru yang diistilahkan dengan ...",
+            "choices": [
+                "portability",
+                "divisibility",
+                "durability",
+                "difficulty in counterfeiting"
+            ],
+            "answer": "difficulty in counterfeiting"
+        },
+        {
+            "question": "Yang membedakan Bank Syariah dengan Bank Umum adalah ..…",
+            "choices": [
+                "beroperasi berdasarkan prinsip bagi hasil",
+                "tidak memberikan layanan kredit",
+                "tidak mengeluarkan deposito",
+                "hanya membatasi nasabah muslim saja"
+            ],
+            "answer": "beroperasi berdasarkan prinsip bagi hasil"
+        }
+    ]
+    ,
+    "matematika_ekonomi": [
+            {
+                "question": "Diketahui Himpunan universal U= (0,1,2,3,4,5,6,7,8,9), sedangkan p= (2,4,6,8), Q= (3,5,9), dan R=(3,7,9) tentukan P ∩ (Q∪R)...",
+                "choices": [
+                    "{ 3 }",
+                    "Ø",
+                    "{ 3, 9 }",
+                    "{ 6, 8 }"
+                ],
+                "answer": "Ø"
+            },
+            {
+                "question": "Diketahui suatu himpunan buah A = {anggur, apel, apricot}, hitunglah jumlah himpunan bagiannya...",
+                "choices": [
+                    "8",
+                    "0",
+                    "4",
+                    "16"
+                ],
+                "answer": "8"
+            },
+            {
+                "question": "Diketahui a = 100 dan S7 = 160, hitunglah nilai b …. ",
+                "choices": [
+                    "5",
+                    "8",
+                    "9",
+                    "10"
+                ],
+                "answer": "10"
+            },
+            {
+                "question": "Diketahui a = 100 dan n = 16, b = 10, hitunglah D16…",
+                "choices": [
+                    "2.000",
+                    "2.600",
+                    "2.800",
+                    "3.800"
+                ],
+                "answer": "2.800"
+            },
+            {
+                "question": "Penerimaan CV 'Kembang Jagung' dari penjualan hasil produksinya pada tahun kelima sebesar Rp 720 juta sedangkan pada tahun ketujuh sebesar Rp. 980 juta. Perkembangan penerimaan CV tersebut berpola mengikuti deret hitung. Berapa perkembangan penerimaannya per tahun…",
+                "choices": [
+                    "100",
+                    "130",
+                    "150",
+                    "160"
+                ],
+                "answer": "130"
+            },
+            {
+                "question": "Penerimaan PT 'Jingga Kuning' dari penjualan hasil produksinya pada tahun kelima sebesar Rp 720 juta sedangkan pada tahun ketujuh sebesar Rp. 980 juta dan perkembangan penerimaannya tiap tahun adalah sebesar Rp 130 juta. Perkembangan penerimaan PT tersebut berpola mengikuti deret hitung. Pada tahun ke berapa penerimannya sebesar Rp 460 juta?",
+                "choices": [
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ],
+                "answer": "3"
+            },
+            {
+                "question": "Pabrik kue 'Bagi Rata' menghasilkan satu juta bungkus kue pada tahun pertama produksinya dan 1,6 juta bungkus pada tahun ketujuh. Berapa tambahan produksinya per tahun jika perkembangan produksinya konstan?",
+                "choices": [
+                    "70.000",
+                    "80.000",
+                    "90.000",
+                    "100.000"
+                ],
+                "answer": "100.000"
+            },
+            {
+                "question": "Pabrik kue 'Regina' menghasilkan satu juta bungkus kue pada tahun pertama produksinya dan 1,6 juta bungkus pada tahun ketujuh dengan tambahan produksinya per tahun = 100.000 bungkus kue. Pada tahun keberapa produksinya mencapai 2,5 juta bungkus?",
+                "choices": [
+                    "13",
+                    "4",
+                    "16",
+                    "18"
+                ],
+                "answer": "16"
+            },
+            {
+                "question": "Tabungan Ani pada tiga tahun mendatang akan menjadi Rp 3.000.000,- dan suku bunga yang berlaku saat ini adalah 6 % per tahun. Hitung tabungan Ani saat ini…",
+                "choices": [
+                    "2.518.858",
+                    "2.538.858",
+                    "2.628.858",
+                    "2.638.858"
+                ],
+                "answer": "2.518.858"
+            },
+            {
+                "question": "Sabar meminjam uang di bank sebesar Rp 5.000.000,- untuk jangka waktu tiga tahun, dengan tingkat bunga 2 % per tahun. Berapa jumlah uang yang harus dikeluarkan sampai dengan saat pelunasan?",
+                "choices": [
+                    "5.106.060",
+                    "5.306.040",
+                    "5.326.060",
+                    "5.406.040"
+                ],
+                "answer": "5.306.040"
+            },
+            {
+                "question": "Adi harus membayar hutangnya kepada seorang pelepas uang tradisional sebesar Rp 4.000.000,- atas pinjamannya sebesar Rp 250.000,- beberapa tahun yang lalu. Bunga pinjaman yang dikenakan adalah sebesar 100 %. Berapa tahun Adi meminjam uang tersebut?",
+                "choices": [
+                    "2",
+                    "3",
+                    "4",
+                    "5"
+                ],
+                "answer": "4"
+            },
+            {
+                "question": "Carilah titik potong dari pasangan garis-garis y = - 2 + 4 x dan y = 2 + 2 x",
+                "choices": [
+                    "(2,2)",
+                    "(2,3)",
+                    "(2,5)",
+                    "(2,6)"
+                ],
+                "answer": "(2,6)"
+            },
+            {
+                "question": "Carilah titik potong dari pasangan garis-garis y = 2 + 2 x dan y = 10 – 2 x",
+                "choices": [
+                    "(1,6)",
+                    "(2,6)",
+                    "(2,8)",
+                    "(3,8)"
+                ],
+                "answer": "(2,6)"
+            },
+            {
+                "question": "Fungsi permintaan buku merk Kikan dicerminkan oleh perilaku sebagai berikut: jika dijual dengan harga Rp 5.000,- per buku akan laku sebanyak 3.000 buku dan jika di jual dengan harga Rp 4.000,- akan laku sebanyak 6.000 buku. Rumuskan fungsi permintaannya...",
+                "choices": [
+                    "Q = 16.000 – 3 P",
+                    "Q = 17.000 – 5 P",
+                    "Q = 18.000 – 3 P",
+                    "Q = 18.000 – 5 P"
+                ],
+                "answer": "Q = 18.000 – 3 P"
+            },
+            {
+                "question": "Fungsi permintaan buku merk Bunga dicerminkan oleh perilaku sebagai berikut: jika dijual dengan harga Rp 5.000,- per buku akan laku sebanyak 3.000 buku dan jika di jual dengan harga Rp 4.000,- akan laku sebanyak 6.000 buku. Berapa harga tertinggi buku tersebut agar terjangkau oleh daya beli konsumen, jika fungsi permintaannya Q = 18.000 – 3 P?",
+                "choices": [
+                    "± 6.000",
+                    "> 6.000",
+                    "= 6000",
+                    "< 6.000"
+                ],
+                "answer": "< 6.000"
+            },
+            {
+                "question": "Sebuah vulpen merk “Parkit” jika dijual dengan harga Rp 3.000,- akan laku sebanyak 1.000 biji. Pada setiap kenaikan Rp 1.000,- jumlah penjualannya bertambah sebanyak 400 biji. Bagaimanakah fungsi penawaran vulpen tersebut?",
+                "choices": [
+                    "Qs = 0,4 P – 200",
+                    "Qs = 0,4 P – 300",
+                    "Qs = 0,4 P – 500",
+                    "Qs = 0,4 P – 600"
+                ],
+                "answer": "Qs = 0,4 P – 200"
+            },
+            {
+                "question": "Fungsi penawaran suatu barang adalah Qs = - 8 + 2 P. Bagaimana fungsi penawarannya jika terdapat pajak sebesar 2?",
+                "choices": [
+                    "Qs = 12 + 2 P",
+                    "Qs = 10 + 2 P",
+                    "Qs = - 12 + 2 P",
+                    "Qs = - 10 + 2 P"
+                ],
+                "answer": "Qs = - 12 + 2 P"
+            },
+            {
+                "question": "Fungsi penawaran suatu barang adalah Qs = - 8 + 4 P. Bagaimana fungsi penawarannya jika terdapat subsidi sebesar 3?",
+                "choices": [
+                    "Qs = 4 + 2 P",
+                    "Qs = 4 - 4 P",
+                    "Qs = 2 + 4 P",
+                    "Qs = 4 + 4 P"
+                ],
+                "answer": "Qs = 4 + 4 P"
+            },
+            {
+                "question": "Suatu barang mempunyai kecenderungan permintaan sebagai berikut: jika harganya 2, jumlah yang diminta ada 12 unit; tetapi jika harganya naik menjadi 5, permintaannya hanya 6 unit. Sementara di lain pihak, jika harganya 2, produsen menawarkan barang tersebut sejumlah 2 unit, dan bila harganya naik menjadi 5, produsen menaikkan jumlah yang ditawarkan menjadi sebanyak 11 unit. Berapa harga keseimbangan dan jumlah keseimbangan barang tersebut di pasar?",
+                "choices": [
+                    "Peq = 8 dan Qeq = 4",
+                    "Peq = 4 dan Qeq = 8",
+                    "Peq = 6 dan Qeq = 8",
+                    "Peq = 4 dan Qeq = 6"
+                ],
+                "answer": "Peq = 4 dan Qeq = 8"
+            },
+            {
+                "question": "Permintaan akan suatu komoditi diketahui berfungsi P = 17 – QD, sedangkan penawarannya P = ¼ Qs + ¾. Berapa harga dan jumlah keseimbangan?",
+                "choices": [
+                    "Peq = 3 dan Qeq = 14",
+                    "Peq = 4 dan Qeq = 14",
+                    "Peq = 4 dan Qeq = 13",
+                    "Peq = 3 dan Qeq = 13"
+                ],
+                "answer": "Peq = 4 dan Qeq = 13"
+            },
+            {
+                "question": "Permintaan suatu komoditi diketahui berfungsi P = 17 – QD, sedangkan penawarannya P = ¼ Qs + ¾. Berapa subsidi yang harus diberikan agar komoditi tersebut menjadi gratis?",
+                "choices": [
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ],
+                "answer": "5"
+            },
+            {
+                "question": "Harga jual suatu barang Rp 50,00. Biaya tetap rata-ratanya Rp 10,00 dan biaya variabel rata-rata Rp 25,00. Berapa unit barang harus dihasilkan jika produsen ingin mendapatkan laba sebesar Rp 6.000,00?",
+                "choices": [
+                    "50",
+                    "700",
+                    "550",
+                    "400"
+                ],
+                "answer": "400"
+            },
+            {
+                "question": "Harga jual suatu barang Rp 50,00. Biaya tetap rata-ratanya Rp 10,00, biaya variabel rata-rata Rp 25,00. Biaya total tetapnya tidak berubah sampai dengan menghasilkan 400 unit. Berapa unit barang yang dihasilkannya kalau ternyata ia tidak memperoleh keuntungan tetapi juga tidak menderita kerugian?",
+                "choices": [
+                    "140",
+                    "160",
+                    "170",
+                    "180"
+                ],
+                "answer": "160"
+            },
+            {
+                "question": "Sabardi memelihara ayam pedaging sebanyak 1.000 ekor. Setelah berusia empat bulan semua ayamnya terjual dengan harga Rp 800,00/ekor. Biaya tetap yang telah dikeluarkan untuk memulai usahanya sebesar Rp 80.000,00, sedangkan biaya variabel selama empat bulan sebesar Rp 600.000,00. Tunjukkan fungsi biaya totalnya?",
+                "choices": [
+                    "70.000 + 800Q",
+                    "70.000 + 600Q",
+                    "80.000 + 600Q",
+                    "80.000 + 800Q"
+                ],
+                "answer": "80.000 + 600Q"
+            },
+            {
+                "question": "Burhan memelihara ayam pedaging sebanyak 1.000 ekor. Setelah berusia empat bulan semua ayamnya terjual dengan harga Rp 800,00/ekor. Biaya tetap yang telah dikeluarkan untuk memulai usahanya sebesar Rp 80.000,00, sedangkan biaya variabel selama empat bulan sebesar Rp 600.000,00 dan fungsi biaya total = 80.000 + 600 Q. Bagaimana kalau ia memelihara 350 ekor ayam?",
+                "choices": [
+                    "rugi Rp 10.000,00",
+                    "rugi Rp 20.000,00",
+                    "rugi Rp 25.000,00",
+                    "rugi Rp 30.000,00"
+                ],
+                "answer": "rugi Rp 10.000,00"
+            },
+            {
+                "question": "Fungsi konsumsi nasional negara Astanegara adalah: C = 400 + 0,8 YD. Pajak yang diterima pemerintah ditunjukkan oleh persamaan T = 60 + 0,05 Y, sedangkan pembayaran alihan sebesar 180. Berapa pendapatan disposable masyarakatnya jika pendapatan nasionalnya = 5.000?",
+                "choices": [
+                    "4.450",
+                    "4.500",
+                    "4.680",
+                    "4.870"
+                ],
+                "answer": "4.870"
+            },
+            {
+                "question": "Fungsi konsumsi nasional negara Wirata adalah: C = 400 + 0,8 Yd, dan pendapatan disposable sebesar 4.870. Berapa besarnya tabungan?",
+                "choices": [
+                    "574",
+                    "594",
+                    "600",
+                    "615"
+                ],
+                "answer": "574"
+            },
+            {
+                "question": "Apabila diketahui data negara Bangau Putih sebagai berikut: C = 20 milyar + 0,75 Yd, I = 48 milyar, G = 60 milyar, T = 10 milyar + 0,05 Y dan R = 6 milyar. Hitunglah pendapatan nasional dan konsumsi nasional (hasil akhir dibulatkan sedang untuk perhitungan tetap menggunakan hasil yang sebenarnya).",
+                "choices": [
+                    "Y = 434 dan C = 326",
+                    "Y = 435 dan C = 327",
+                    "Y = 435 dan C = 372",
+                    "Y = 453 dan C = 327"
+                ],
+                "answer": "Y = 435 dan C = 327"
+            },
+            {
+                "question": "Persamaan TC = 5 Q2 – 1.000 Q + 85.000, merupakan biaya total yang dikeluarkan oleh perusahaan kue RisA. Berapa besarnya biaya total (TC) tersebut jika perusahaan memproduksi 90 unit output?",
+                "choices": [
+                    "34.500",
+                    "35.000",
+                    "35.500",
+                    "36.000"
+                ],
+                "answer": "35.500"
+            },
+            {
+                "question": "Fungsi produksi yang dihadapi oleh seorang produsen ditunjukkan oleh: P = 150 X2 – 2 X3, dimana P adalah jumlah produk yang dihasilkan dan X adalah jumlah input yang digunakan. Berapa produk rata-rata jika digunakan faktor produksi sebanyak 70 unit dan bagaimana kondisi perusahaan jika input ditambah satu unit?",
+                "choices": [
+                    "produk rata-rata = 600 dan perusahaan rugi",
+                    "produk rata-rata = 700 dan perusahaan untung",
+                    "produk rata-rata = 650 dan perusahaan untung",
+                    "produk rata-rata = 700 dan perusahaan rugi"
+                ],
+                "answer": "produk rata-rata = 700 dan perusahaan rugi"
+            }
+        ]
+  }
+  

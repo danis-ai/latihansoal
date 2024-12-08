@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latihan Soal</title>
+    <!-- Import Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main-container">
+        <!-- Sidebar untuk Daftar Soal -->
+        <div class="sidebar" id="sidebar">
+            <h3>Soal Latihan</h3>
+            <ul id="question-list">
+                <!-- Daftar nomor soal akan diisi oleh JavaScript -->
+            </ul>
+        </div>
+
+        <!-- Kontainer Quiz -->
+        <div class="quiz-container" id="quiz">
+            <div id="question-container">
+                <div id="question">Pertanyaan akan muncul di sini</div>
+                <div class="choices" id="choices">
+                    <!-- Pilihan jawaban akan dimasukkan di sini -->
+                </div>
+            </div>
+            <button id="next-btn" class="next-btn" disabled>Save and Next</button>
+        </div>
+    </div>
+
+    <!-- Overlay untuk Papan Skor -->
+    <div class="overlay hidden" id="overlay"></div>
+
+    <!-- Kontainer Skor -->
+    <div class="score-container hidden" id="score-container">
+        <div id="score">
+            <!-- Skor akan diisi oleh JavaScript -->
+        </div>
+    </div>
+
+    <!-- Kontainer Review Soal -->
+    <div class="review-container hidden" id="review-container">
+        <h2>Review Soal</h2>
+        <div id="review-list">
+            <!-- Daftar review soal akan diisi oleh JavaScript -->
+        </div>
+        <button id="close-review-btn" class="close-review-btn">Tutup</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

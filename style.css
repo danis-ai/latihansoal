@@ -1,0 +1,531 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+/* Reset beberapa gaya dasar */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #f06, #f79);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+    transition: background 0.5s ease;
+}
+
+/* Layout Flex untuk Sidebar dan Kontainer Quiz */
+.main-container {
+    display: flex;
+    width: 100%;
+    max-width: 1000px;
+}
+
+/* Sidebar Styling */
+.sidebar {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+    width: 278px;
+    margin-right: 20px;
+    height: fit-content;
+    animation: fadeIn 1s ease-in-out;
+}
+
+.sidebar h3 {
+    margin-bottom: 15px;
+    text-align: center;
+    color: #333;
+}
+
+
+.sidebar ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 5px;
+}
+
+.sidebar ul li {
+    background: #ff6b6b;
+    color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+    font-weight: 600;
+}
+
+.sidebar ul li.correct {
+    background: #28a745; /* Hijau untuk benar */
+}
+
+.sidebar ul li.wrong {
+    background: #dc3545; /* Merah untuk salah */
+}
+
+.sidebar ul li.completed {
+    background: #1e90ff;
+}
+
+.sidebar ul li.active {
+    background: #3742fa;
+    transform: scale(1.05);
+}
+
+.sidebar ul li:hover {
+    background: #ff4757;
+    transform: scale(1.05);
+}
+
+.sidebar ul li.completed:hover {
+    background: #1e90ff;
+    transform: none;
+    cursor: default;
+}
+
+.sidebar ul li.correct:hover,
+.sidebar ul li.wrong:hover {
+    background: inherit;
+    transform: none;
+    cursor: default;
+}
+
+/* Overlay Styling */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 999; /* Pastikan overlay berada di bawah papan skor */
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.overlay.hidden {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.overlay:not(.hidden) {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* Papan Skor */
+.score-container {
+    /* Posisikan papan skor di tengah layar */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    /* Latar belakang yang harmonis dan tidak bertabrakan */
+    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+    color: #fff;
+    border-radius: 20px;
+    padding: 40px 30px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    max-width: 500px;
+    width: 90%;
+    text-align: center;
+    z-index: 1000; /* Pastikan papan skor berada di atas elemen lain */
+    animation: fadeIn 0.8s ease-in-out;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+/* Struktur Skor */
+.score-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.score-circle {
+    margin-top: 10px;
+    background: #fff;
+    color: black;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border: 4px solid #28a745;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.score-percentage {
+    font-size: 2em;
+    font-weight: 700;
+}
+
+.score-details {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 300px;
+    gap: 20px;
+}
+
+.detail {
+    background: #fff;
+    color: #333;
+    padding: 15px 20px;
+    border-radius: 10px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.detail p {
+    font-size: 1em;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.detail span {
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.detail.benar {
+    border-top: 5px solid #28a745; /* Hijau untuk benar */
+}
+
+.detail.salah {
+    border-top: 5px solid #dc3545; /* Merah untuk salah */
+}
+
+.score-message {
+    font-size: 1.2em;
+    font-weight: 500;
+    color: #333;
+    padding: 10px 20px;
+    border-radius: 20px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.view-questions-btn {
+    background: #3742fa;
+    color: #fff;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 8px 0 0 8px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.view-questions-btn:hover {
+    background: #2f54eb;
+    transform: scale(1.02);
+}
+
+/* Review Container */
+.review-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.95);
+    color: #333;
+    border-radius: 20px;
+    padding: 40px 30px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    max-width: 800px;
+    width: 90%;
+    z-index: 1000;
+    overflow-y: auto;
+    max-height: 90vh;
+    animation: fadeIn 0.8s ease-in-out;
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.review-container.hidden {
+    display: none;
+}
+
+.review-container h2 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.review-question {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background: #f9f9f9;
+}
+
+.review-question.correct {
+    border-color: #28a745;
+    background: #e6ffe6;
+}
+
+.review-question.wrong {
+    border-color: #dc3545;
+    background: #ffe6e6;
+}
+
+.review-question h3 {
+    margin-bottom: 10px;
+}
+
+.review-question p {
+    margin-bottom: 5px;
+}
+
+.review-question .user-answer {
+    font-weight: bold;
+}
+
+.review-question.correct .user-answer::after {
+    content: " (Benar)";
+    color: #28a745;
+}
+
+.review-question.wrong .user-answer::after {
+    content: " (Salah)";
+    color: #dc3545;
+}
+
+.user-benar::after{
+    content: " (Benar)";
+    color: #28a745;
+    font-weight: bold;
+}
+
+
+.close-review-btn {
+    background: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+    transition: background 0.3s ease, transform 0.2s ease;
+    margin-top: 20px;
+}
+
+.close-review-btn:hover {
+    background: #c82333;
+    transform: scale(1.02);
+}
+
+/* Quiz dan Score Container */
+.quiz-container, .score-container {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 30px 40px;
+    border-radius: 12px;
+    box-shadow: 0 15px 25px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 500px;
+    animation: fadeIn 1s ease-in-out;
+}
+
+.hidden {
+    display: none;
+}
+
+#question {
+    font-size: 1em;
+    margin-bottom: 25px;
+    color: #000000;
+    font-weight: 300;
+}
+
+.choices {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.choice {
+    background: #fff;
+    border: 2px solid #ff6b6b;
+    border-radius: 8px;
+    padding: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 1em;
+    color: #333;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.choice:hover {
+    background: #ff6b6b;
+    color: #fff;
+    border-color: #ff4757;
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.choice.selected {
+    background: #1e90ff;
+    border-color: #3742fa;
+    color: #fff;
+}
+
+.next-btn, .restart-btn {
+    background: #3742fa;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 600;
+    transition: background 0.3s ease, transform 0.2s ease;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.next-btn:hover:not(:disabled), .restart-btn:hover {
+    background: #2f54eb;
+    transform: scale(1.02);
+}
+
+.next-btn:disabled {
+    background: #a0a0a0;
+    cursor: not-allowed;
+}
+
+/* Transisi untuk papan skor */
+.score-container {
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.btnBwh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+    margin-top: 20px;
+}
+
+.btn {
+    background: #fff;
+    border: 2px solid #3742fa;
+    padding: 9px 11px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* Responsif */
+@media (max-width: 800px) {
+    .main-container {
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .sidebar {
+        width: 438px;
+        margin-top: 10px;
+        margin-right: 0;
+    }
+
+    .sidebar ul {
+        display: grid;
+        grid-template-columns: repeat(8, 1fr);
+        gap: 5px;
+    }
+
+    .sidebar ul li {
+        transform: none !important;
+    }
+}
+
+@media (max-width: 600px) {
+
+    .quiz-container, .score-container, .review-container {
+        padding: 20px;
+    }
+
+    #question {
+        font-size: 1.2em;
+    }
+
+    .choice {
+        padding: 12px;
+        font-size: 0.95em;
+    }
+
+    .next-btn, .restart-btn, .close-review-btn {
+        padding: 10px 15px;
+        font-size: 0.95em;
+    }
+
+    .score-container h2 {
+        font-size: 1.6em;
+    }
+
+    .score-container {
+        width: 93%;
+    }
+
+    .score-container p {
+        font-size: 1.2em;
+    }
+
+    /* Penyesuaian pada Score Circle dan Persentase */
+    .score-circle {
+        width: 80px;
+        height: 80px;
+    }
+
+    .score-percentage {
+        font-size: 1.5em;
+    }
+
+    /* Penyesuaian pada Score Details */
+    .score-details {
+        flex-direction: row;
+        gap: 10px;
+        align-items: center;
+    }
+
+    .score-details .detail {
+        width: 100%;
+        max-width: 200px;
+    }
+
+    /* Penyesuaian pada Score Message */
+    .score-message {
+        font-size: 1em;
+        padding: 8px 16px;
+    }
+
+    /* Penyesuaian pada Review Container */
+    .review-container {
+        max-width: 95%;
+    }
+}

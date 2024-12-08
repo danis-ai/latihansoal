@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Latihan Soal Persiapan UAS</title>
+    <!-- Import Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- Import Google Material Icons -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        /* Reset default margin dan padding */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f0f4f8;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #333;
+            position: relative;
+        }
+
+        .selection-container {
+            text-align: center;
+            padding: 50px 40px;
+            background-color: #ffffff;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            max-width: 900px;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Decorative subtle lines */
+        .selection-container::before,
+        .selection-container::after {
+            content: '';
+            position: absolute;
+            background: linear-gradient(45deg, rgba(0, 0, 0, 0.05), transparent);
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            top: -50px;
+            left: -50px;
+            z-index: 0;
+        }
+
+        .selection-container::after {
+            top: auto;
+            bottom: -50px;
+            left: auto;
+            right: -50px;
+            transform: rotate(180deg);
+        }
+
+        .selection-container h1 {
+            margin-bottom: 40px;
+            font-size: 2.5rem;
+            color: #2c3e50;
+            font-weight: 700;
+            position: relative;
+            z-index: 1;
+        }
+
+        .subjects {
+            display: flex;
+            justify-content: center;
+            gap: 25px;
+            flex-wrap: wrap;
+            position: relative;
+            z-index: 1;
+        }
+
+        .subject-card {
+            background-color: #e8f0fe;
+            width: 240px;
+            height: 240px;
+            border-radius: 12px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+            cursor: pointer;
+            transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: #2c3e50;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .subject-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(0, 0, 0, 0.05));
+            transition: background 0.3s;
+            border-radius: 12px;
+            z-index: 0;
+        }
+
+        .subject-card:hover::before {
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.15), rgba(0, 0, 0, 0.1));
+        }
+
+        .subject-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
+            background-color: #d1e4ff;
+        }
+
+        .subject-card .material-icons {
+            font-size: 3rem;
+            margin-bottom: 15px;
+            color: #f39c12;
+            transition: color 0.3s, transform 0.3s;
+            z-index: 1;
+            position: relative;
+        }
+
+        .subject-card:hover .material-icons {
+            color: #e67e22;
+            transform: scale(1.1);
+        }
+
+        .subject-card h2 {
+            font-size: 1.4rem;
+            font-weight: 500;
+            color: #2c3e50;
+            z-index: 1;
+            position: relative;
+        }
+
+        /* Gaya untuk footer */
+        .footer {
+            position: fixed; /* Posisi tetap */
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: #333; /* Warna latar belakang */
+            color: #fff; /* Warna teks */
+            text-align: center; /* Posisikan teks di tengah */
+            padding: 10px 0; /* Memberikan sedikit ruang di atas dan bawah */
+            font-size: 14px;
+            font-family: Arial, sans-serif;
+        }
+
+        .footer p {
+            margin: 0; /* Menghapus margin default */
+        }
+
+        /* Responsivitas */
+        @media (max-width: 1024px) {
+            .selection-container {
+                padding: 40px 30px;
+            }
+
+            .selection-container h1 {
+                font-size: 2.2rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .subjects {
+                gap: 20px;
+            }
+
+            .subject-card {
+                width: 200px;
+                height: 200px;
+            }
+
+            .subject-card .material-icons {
+                font-size: 2.5rem;
+                margin-bottom: 10px;
+            }
+
+            .subject-card h2 {
+                font-size: 1.2rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .selection-container {
+                padding: 30px 20px;
+            }
+
+            .selection-container h1 {
+                font-size: 2rem;
+            }
+
+            .subjects {
+                gap: 15px;
+            }
+
+            .subject-card {
+                width: 160px;
+                height: 160px;
+            }
+
+            .subject-card .material-icons {
+                font-size: 2rem;
+                margin-bottom: 8px;
+            }
+
+            .subject-card h2 {
+                font-size: 1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="selection-container">
+        <h1>Pilih Mata Pelajaran</h1>
+        <div class="subjects">
+            <div class="subject-card" data-subject="manajemen">
+                <span class="material-icons">work</span>
+                <h2>Manajemen</h2>
+            </div>
+            <div class="subject-card" data-subject="pengantar_bisnis">
+                <span class="material-icons">trending_up</span>
+                <h2>Pengantar Bisnis</h2>
+            </div>
+            <div class="subject-card" data-subject="matematika_ekonomi">
+                <span class="material-icons">calculate</span>
+                <h2>Matematika Ekonomi</h2>
+            </div>
+            <!-- Tambahkan lebih banyak kartu mata pelajaran sesuai kebutuhan -->
+        </div>
+    </div>
+    <footer class="footer">
+        <p>&copy; 2024 Danis. All rights reserved.</p>
+    </footer>
+
+    <script>
+        // Menangani klik pada setiap kartu mata pelajaran
+        document.querySelectorAll('.subject-card').forEach(card => {
+            card.addEventListener('click', () => {
+                const selectedSubject = card.getAttribute('data-subject');
+                // Simpan pilihan ke localStorage
+                localStorage.setItem('mataPelajaran', selectedSubject);
+                // Arahkan ke halaman quiz
+                window.location.href = 'quiz.html';
+            });
+        });
+    </script>
+</body>
+</html>
