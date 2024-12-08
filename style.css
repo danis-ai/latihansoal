@@ -448,14 +448,14 @@ body {
     }
 
     .sidebar {
-        width: 438px;
+        width: 373px;
         margin-top: 10px;
         margin-right: 0;
     }
 
     .sidebar ul {
         display: grid;
-        grid-template-columns: repeat(8, 1fr);
+        grid-template-columns: repeat(6, 1fr);
         gap: 5px;
     }
 
