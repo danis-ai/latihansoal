@@ -331,7 +331,7 @@ marquee {
 }
 
 #question {
-  font-size: .3em;
+  font-size: 1em;
   margin-bottom: 25px;
   color: #000000;
   font-weight: 300;
@@ -440,6 +440,9 @@ marquee {
   .sidebar ul li {
     transform: none !important;
   }
+  #question {
+  font-size: .3em;
+}
 }
 
 @media (max-width: 600px) {
