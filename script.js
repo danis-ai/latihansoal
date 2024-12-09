@@ -19,6 +19,12 @@ const reviewContainer = document.getElementById("review-container");
 const reviewList = document.getElementById("review-list");
 const closeReviewBtn = document.getElementById("close-review-btn");
 
+document.addEventListener('keydown', function(e) {
+    if (e.ctrlKey && (e.key === 'c' || e.key === 'u' || e.key === 'i')) {
+        e.preventDefault();
+    }
+});
+
 // Mengambil mata pelajaran dari localStorage
 const mataPelajaran = localStorage.getItem("mataPelajaran");
 
