@@ -145,17 +145,29 @@ function updateSidebar() {
   });
 }
 
+// Fungsi untuk menampilkan soal
 function showQuestion() {
   resetState();
   let currentQuestion = questions[currentQuestionIndex];
-  questionEl.innerHTML = `<strong>${currentQuestionIndex + 1}</strong>. ${currentQuestion.question}`; // Menambahkan tag <strong> untuk nomor soal
+  
+  // Menampilkan soal
+  questionEl.innerHTML = `<strong>${currentQuestionIndex + 1}</strong>. ${currentQuestion.question}`;
 
   // Update sidebar
   updateSidebar();
 
-  // Mengacak urutan pilihan jawaban
-  let shuffledChoices = shuffleArray(currentQuestion.choices);
-  shuffledChoices.forEach((choice) => {
+  // Cek apakah pilihan jawaban sudah pernah diacak sebelumnya
+  if (!currentQuestion.shuffled) {
+    // Jika belum, acak pilihan jawaban dan tandai soal ini sudah diacak
+    currentQuestion.shuffledChoices = shuffleArray(currentQuestion.choices);
+    currentQuestion.shuffled = true;
+  } else {
+    // Jika sudah, gunakan pilihan jawaban yang sudah diacak
+    currentQuestion.shuffledChoices = currentQuestion.shuffledChoices || shuffleArray(currentQuestion.choices);
+  }
+
+  // Tampilkan pilihan jawaban
+  currentQuestion.shuffledChoices.forEach((choice) => {
     const button = document.createElement("button");
     button.classList.add("choice");
     button.textContent = choice;
@@ -174,6 +186,7 @@ function showQuestion() {
     nextBtn.disabled = false;
   }
 }
+
 
 // Reset tampilan sebelum menampilkan soal baru
 function resetState() {
