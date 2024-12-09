@@ -345,6 +345,7 @@ marquee {
 }
 
 .choice {
+  text-align: start;
   background: #fff;
   border: 0;
   border-radius: 8px;
