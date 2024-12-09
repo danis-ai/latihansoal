@@ -335,6 +335,7 @@ marquee {
   margin-bottom: 25px;
   color: #000000;
   font-weight: 300;
+  text-align: justify;
 }
 
 .choices {
