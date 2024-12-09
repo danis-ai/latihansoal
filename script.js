@@ -145,13 +145,10 @@ function updateSidebar() {
   });
 }
 
-// Menampilkan soal saat ini
 function showQuestion() {
   resetState();
   let currentQuestion = questions[currentQuestionIndex];
-  questionEl.textContent = `${currentQuestionIndex + 1}. ${
-    currentQuestion.question
-  }`; // Menambahkan penomoran
+  questionEl.innerHTML = `<strong>${currentQuestionIndex + 1}</strong>. ${currentQuestion.question}`; // Menambahkan tag <strong> untuk nomor soal
 
   // Update sidebar
   updateSidebar();
