@@ -91,6 +91,42 @@
         line-height: 1.5;
       }
 
+      /* Gaya untuk Promosi Media Sosial */
+      .social-media {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+        gap: 20px;
+      }
+
+      .social-media a {
+        text-decoration: none;
+        color: inherit;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .social-media img {
+        width: 50px;
+        height: 50px;
+        margin-bottom: 5px;
+      }
+
+      .social-media p {
+        font-size: 14px;
+        color: #333;
+        text-align: center;
+      }
+
+      /* Keterangan */
+      .social-media .thank-you {
+        margin-top: 20px;
+        font-size: 16px;
+        color: #333;
+      }
+
       /* Responsif */
       @media (max-width: 600px) {
         .modal-content {
@@ -98,6 +134,19 @@
         }
 
         .warning-message p {
+          font-size: 14px;
+        }
+
+        .social-media img {
+          width: 40px;
+          height: 40px;
+        }
+
+        .social-media p {
+          font-size: 12px;
+        }
+
+        .social-media .thank-you {
           font-size: 14px;
         }
       }
@@ -151,14 +200,27 @@
             seberapa jauh pemahaman Anda tentang materi yang sudah Anda pelajari.
           </p>
         </div>
+        <!-- Promosi Media Sosial -->
+        <div class="social-media">
+          <!-- TikTok -->
+          <a href="https://www.tiktok.com/@danis" target="_blank" rel="noopener noreferrer">
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" alt="TikTok">
+            <p>TikTok: danis</p>
+          </a>
+          <!-- Instagram -->
+          <a href="https://www.instagram.com/danis" target="_blank" rel="noopener noreferrer">
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram">
+            <p>Instagram: danis</p>
+          </a>
+        </div>
+        <!-- Keterangan -->
+        <div class="thank-you">
+          <p>Sebagai ucapan terimakasih, cukup follow aja ya..</p>
+        </div>
       </div>
     </div>
 
-    <!-- Pesan Marquee -->
-    <marquee>
-      Saya berterima kasih bagi kalian yang sudah memercayai platform ini,
-      semoga dengan adanya platform ini akan membantu kalian dalam belajar.. semangat rek
-    </marquee>
+    <!-- Pesan Marquee Dihapus dan Diganti dengan Promosi Media Sosial -->
 
     <div class="main-container">
       <!-- Sidebar untuk Daftar Soal -->
@@ -217,7 +279,7 @@
       // Tambahkan event listener ke tombol close
       document.querySelector(".close-button").addEventListener("click", closeModal);
 
-      // Tutup modal jika pengguna mengklik di mana saja
+      // Tutup modal jika pengguna mengklik di mana saja pada halaman
       window.addEventListener("click", function (event) {
         closeModal();
       });
