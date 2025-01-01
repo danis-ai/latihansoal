@@ -384,3 +384,38 @@ document.querySelector(".close-button").addEventListener("click", closeModal);
 window.addEventListener("click", function (event) {
   closeModal();
 });
+
+// Fungsi untuk menutup modal
+function closeModal() {
+  document.getElementById("myModal").style.display = "none";
+}
+
+// Tampilkan modal setelah 1 detik (1000 milidetik) setelah halaman dimuat
+window.onload = function () {
+  setTimeout(function () {
+    document.getElementById("myModal").style.display = "flex";
+  }, 1000);
+};
+
+// Tambahkan event listener ke tombol close
+document.querySelector(".close-button").addEventListener("click", closeModal);
+
+// Tutup modal jika pengguna mengklik di mana saja pada halaman
+window.addEventListener("click", function (event) {
+  closeModal();
+});
+
+document.addEventListener("keydown", function (event) {
+  if (
+    event.ctrlKey &&
+    (event.key === "c" || event.key === "x" || event.key === "v")
+  ) {
+    event.preventDefault();
+    alert("jangan copas ya. kerjakan sebisamu");
+  }
+});
+
+document.addEventListener("contextmenu", function (event) {
+  event.preventDefault();
+  alert("kamu mau copas ya. jangan ya! kerjakan sebisamu");
+});
