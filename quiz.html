@@ -15,8 +15,98 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="style.css" />
+    <style>        .modal {
+            display: none; /* Tersembunyi secara default */
+            position: fixed; /* Tetap di layar */
+            z-index: 1000; /* Pastikan di atas konten lain */
+            left: 0;
+            top: 0;
+            width: 100%; /* Lebar penuh */
+            height: 100%; /* Tinggi penuh */
+            overflow: auto; /* Scroll jika perlu */
+            background-color: rgba(0,0,0,0.5); /* Latar belakang transparan */
+            justify-content: center; /* Pusat horizontal */
+            align-items: center; /* Pusat vertikal */
+            display: flex; /* Gunakan flexbox */
+        }
+
+        /* Konten Modal */
+        .modal-content {
+            background-color: #fff;
+            padding: 30px 20px 20px 20px;
+            border-radius: 10px;
+            width: 80%;
+            max-width: 600px;
+            position: relative;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+            text-align: center;
+            animation: fadeIn 0.5s ease-in-out;
+        }
+
+        /* Animasi Fade In */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: scale(0.8); }
+            to { opacity: 1; transform: scale(1); }
+        }
+
+        /* Tombol Close */
+        .close-button {
+            position: absolute;
+            top: 15px;
+            right: 20px;
+            font-size: 28px;
+            cursor: pointer;
+            color: #aaa;
+            transition: color 0.3s;
+        }
+
+        .close-button:hover {
+            color: #000;
+        }
+
+        /* Gaya untuk Pesan Peringatan */
+        .warning-message {
+            background-color: #ffdddd; /* Latar belakang merah muda */
+            border-left: 6px solid #f44336; /* Garis merah di kiri */
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+
+        .warning-message h2 {
+            color: #f44336; /* Teks merah */
+            margin-bottom: 10px;
+        }
+
+        .warning-message p {
+            color: #000; /* Teks hitam */
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        /* Responsif */
+        @media (max-width: 600px) {
+            .modal-content {
+                width: 90%;
+            }
+
+            .warning-message p {
+                font-size: 14px;
+            }
+        }</style>
   </head>
   <body>
+        <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close-button">
+                <i class="material-icons">close</i>
+            </span>
+            <div class="warning-message">
+                <h2>Peringatan!</h2>
+                <p>Soal yang berada di sini hanya untuk Anda berlatih dan mengetahui seberapa jauh pemahaman Anda tentang materi yang sudah Anda pelajari.</p>
+            </div>
+        </div>
+    </div>
     <marquee>saya berterima kasih bagi kalian yang sudah memercayai platform ini, semoga dengan adanya platform ini akan membantu kalian dalam belajar.. semangat rek</marquee>
     <div class="main-container">
       <!-- Sidebar untuk Daftar Soal -->
@@ -58,6 +148,30 @@
       <button id="close-review-btn" class="close-review-btn">Tutup</button>
     </div>
 
-    <script src="script.js"></script>
+    <script src="script.js">
+        // Tunggu hingga seluruh halaman dimuat
+        window.onload = function() {
+            // Tampilkan modal setelah 1 detik (1000 milidetik)
+            setTimeout(function() {
+                document.getElementById('myModal').style.display = 'flex';
+            }, 1000);
+        };
+
+        // Fungsi untuk menutup modal
+        function closeModal() {
+            document.getElementById('myModal').style.display = 'none';
+        }
+
+        // Tambahkan event listener ke tombol close
+        document.querySelector('.close-button').addEventListener('click', closeModal);
+
+        // Tutup modal jika pengguna mengklik di luar konten modal
+        window.addEventListener('click', function(event) {
+            const modal = document.getElementById('myModal');
+            if (event.target == modal) {
+                modal.style.display = 'none';
+            }
+        });
+    </script>
   </body>
 </html>
