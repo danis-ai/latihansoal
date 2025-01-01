@@ -16,6 +16,14 @@
     />
     <link rel="stylesheet" href="style.css" />
     <style>
+      /* Reset Margin dan Padding */
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Poppins', sans-serif;
+      }
+
       /* Gaya untuk Modal */
       .modal {
         display: none; /* Tersembunyi secara default */
@@ -91,40 +99,44 @@
         line-height: 1.5;
       }
 
-      /* Gaya untuk Promosi Media Sosial */
-      .social-media {
+      /* Gaya untuk Promosi Media Sosial yang Fixed di Atas */
+      .social-media-fixed {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        background-color: #333;
+        color: #fff;
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-top: 20px;
-        gap: 20px;
+        padding: 10px 0;
+        z-index: 999; /* Agar berada di bawah modal */
       }
 
-      .social-media a {
+      .social-media-fixed a {
         text-decoration: none;
-        color: inherit;
+        color: #fff;
         display: flex;
         flex-direction: column;
         align-items: center;
+        margin: 0 15px;
       }
 
-      .social-media img {
-        width: 50px;
-        height: 50px;
+      .social-media-fixed img {
+        width: 30px;
+        height: 30px;
         margin-bottom: 5px;
       }
 
-      .social-media p {
-        font-size: 14px;
-        color: #333;
+      .social-media-fixed p {
+        font-size: 12px;
         text-align: center;
       }
 
-      /* Keterangan */
-      .social-media .thank-you {
-        margin-top: 20px;
-        font-size: 16px;
-        color: #333;
+      .social-media-fixed .thank-you {
+        margin-left: 20px;
+        font-size: 14px;
+        color: #fff;
       }
 
       /* Responsif */
@@ -137,17 +149,18 @@
           font-size: 14px;
         }
 
-        .social-media img {
-          width: 40px;
-          height: 40px;
+        .social-media-fixed img {
+          width: 25px;
+          height: 25px;
         }
 
-        .social-media p {
+        .social-media-fixed p {
+          font-size: 10px;
+        }
+
+        .social-media-fixed .thank-you {
           font-size: 12px;
-        }
-
-        .social-media .thank-you {
-          font-size: 14px;
+          margin-left: 10px;
         }
       }
 
@@ -184,9 +197,32 @@
         color: #333;
         text-align: center;
       }
+
+      /* Padding untuk Konten di Bawah Social Media Fixed */
+      body {
+        padding-top: 60px; /* Sesuaikan dengan tinggi .social-media-fixed */
+      }
     </style>
   </head>
   <body>
+    <!-- Promosi Media Sosial yang Fixed di Atas -->
+    <div class="social-media-fixed">
+      <!-- TikTok -->
+      <a href="https://www.tiktok.com/@danis" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" alt="TikTok">
+        <p>TikTok: danis</p>
+      </a>
+      <!-- Instagram -->
+      <a href="https://www.instagram.com/danis" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram">
+        <p>Instagram: danis</p>
+      </a>
+      <!-- Keterangan -->
+      <div class="thank-you">
+        <p>Sebagai ucapan terimakasih, cukup follow aja ya..</p>
+      </div>
+    </div>
+
     <!-- Popup Modal -->
     <div id="myModal" class="modal">
       <div class="modal-content">
@@ -200,27 +236,10 @@
             seberapa jauh pemahaman Anda tentang materi yang sudah Anda pelajari.
           </p>
         </div>
-        <!-- Promosi Media Sosial -->
-        <div class="social-media">
-          <!-- TikTok -->
-          <a href="https://www.tiktok.com/@danis" target="_blank" rel="noopener noreferrer">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" alt="TikTok">
-            <p>TikTok: daniswendo</p>
-          </a>
-          <!-- Instagram -->
-          <a href="https://www.instagram.com/danis" target="_blank" rel="noopener noreferrer">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram">
-            <p>Instagram: daniswendo29</p>
-          </a>
-        </div>
-        <!-- Keterangan -->
-        <div class="thank-you">
-          <p>Sebagai ucapan terimakasih, cukup follow aja :)</p>
-        </div>
+        <!-- Promosi Media Sosial dalam Modal (Opsional) -->
+        <!-- Jika Anda ingin menambahkan promosi media sosial di dalam modal, bisa ditambahkan di sini -->
       </div>
     </div>
-
-    <!-- Pesan Marquee Dihapus dan Diganti dengan Promosi Media Sosial -->
 
     <div class="main-container">
       <!-- Sidebar untuk Daftar Soal -->
@@ -263,7 +282,7 @@
     </div>
 
     <!-- JavaScript -->
-    <script>
+    <script src="script.js">
       // Fungsi untuk menutup modal
       function closeModal() {
         document.getElementById("myModal").style.display = "none";
