@@ -14,6 +14,15 @@
       href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet"
     />
+    <!-- Ionicons -->
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
     <link rel="stylesheet" href="style.css" />
     <style>
       /* Reset Margin dan Padding */
@@ -21,26 +30,25 @@
         margin: 0;
         padding: 0;
         box-sizing: border-box;
-        font-family: 'Poppins', sans-serif;
+        font-family: "Poppins", sans-serif;
       }
 
-      /* Gaya untuk Modal */
+      /* Popup Modal */
       .modal {
-        display: none; /* Tersembunyi secara default */
-        position: fixed; /* Tetap di layar */
-        z-index: 1000; /* Pastikan di atas konten lain */
+        display: none;
+        position: fixed;
+        z-index: 1000;
         left: 0;
         top: 0;
-        width: 100%; /* Lebar penuh */
-        height: 100%; /* Tinggi penuh */
-        overflow: auto; /* Scroll jika perlu */
-        background-color: rgba(0, 0, 0, 0.5); /* Latar belakang transparan */
-        justify-content: center; /* Pusat horizontal */
-        align-items: center; /* Pusat vertikal */
-        display: flex; /* Gunakan flexbox */
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0, 0, 0, 0.5);
+        justify-content: center;
+        align-items: center;
+        display: flex;
       }
 
-      /* Konten Modal */
       .modal-content {
         background-color: #fff;
         padding: 30px 20px 20px 20px;
@@ -50,22 +58,8 @@
         position: relative;
         box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
         text-align: center;
-        animation: fadeIn 0.5s ease-in-out;
       }
 
-      /* Animasi Fade In */
-      @keyframes fadeIn {
-        from {
-          opacity: 0;
-          transform: scale(0.8);
-        }
-        to {
-          opacity: 1;
-          transform: scale(1);
-        }
-      }
-
-      /* Tombol Close */
       .close-button {
         position: absolute;
         top: 15px;
@@ -80,88 +74,36 @@
         color: #000;
       }
 
-      /* Gaya untuk Pesan Peringatan */
-      .warning-message {
-        background-color: #f44336; /* Latar belakang merah */
-        padding: 20px;
-        margin-top: 20px;
-        border-radius: 5px;
+      /* Peringatan Khusus */
+      /* Animasi Teks Berkedip */
+      @keyframes blink {
+        0% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 1;
+        }
       }
 
-      .warning-message h2 {
-        color: #000; /* Teks hitam */
-        margin-bottom: 10px;
+      .warning-title {
+        background-color: #f44336;
+        color: #fff;
+        display: inline-block;
+        padding: 5px 10px;
+        border-radius: 5px;
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 20px;
+        animation: blink 1s infinite; /* Durasi 1 detik, mengulang tanpa batas */
       }
 
       .warning-message p {
-        color: #000; /* Teks hitam */
+        color: #000;
         font-size: 16px;
         line-height: 1.5;
-      }
-
-      /* Gaya untuk Promosi Media Sosial yang Fixed di Atas */
-      .social-media-fixed {
-        position: fixed;
-        top: 0;
-        width: 100%;
-        background-color: #333;
-        color: #fff;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        padding: 10px 0;
-        z-index: 999; /* Agar berada di bawah modal */
-      }
-
-      .social-media-fixed a {
-        text-decoration: none;
-        color: #fff;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        margin: 0 15px;
-      }
-
-      .social-media-fixed img {
-        width: 30px;
-        height: 30px;
-        margin-bottom: 5px;
-      }
-
-      .social-media-fixed p {
-        font-size: 12px;
-        text-align: center;
-      }
-
-      .social-media-fixed .thank-you {
-        margin-left: 20px;
-        font-size: 14px;
-        color: #fff;
-      }
-
-      /* Responsif */
-      @media (max-width: 600px) {
-        .modal-content {
-          width: 90%;
-        }
-
-        .warning-message p {
-          font-size: 14px;
-        }
-
-        .social-media-fixed img {
-          width: 25px;
-          height: 25px;
-        }
-
-        .social-media-fixed p {
-          font-size: 10px;
-        }
-
-        .social-media-fixed .thank-you {
-          font-size: 12px;
-          margin-left: 10px;
-        }
       }
 
       /* Gaya untuk Subject Cards */
@@ -198,31 +140,48 @@
         text-align: center;
       }
 
-      /* Padding untuk Konten di Bawah Social Media Fixed */
+      /* Responsif */
+      @media (max-width: 600px) {
+        .modal-content {
+          width: 90%;
+        }
+
+        .modal-content {
+          width: 90%;
+        }
+
+        .warning-message p {
+          font-size: 14px;
+        }
+      }
+
+      /* Padding untuk konten utama */
       body {
-        padding-top: 60px; /* Sesuaikan dengan tinggi .social-media-fixed */
+        padding-top: 70px;
       }
     </style>
   </head>
   <body>
-    <!-- Promosi Media Sosial yang Fixed di Atas -->
+    <!-- Promosi Media Sosial -->
     <div class="social-media-fixed">
-      <!-- TikTok -->
-      <a href="https://www.tiktok.com/@danis" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tiktok.svg" alt="TikTok">
-        <p>TikTok: danis</p>
-      </a>
-      <!-- Instagram -->
-      <a href="https://www.instagram.com/danis" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram">
-        <p>Instagram: danis</p>
-      </a>
-      <!-- Keterangan -->
-      <div class="thank-you">
-        <p>Sebagai ucapan terimakasih, cukup follow aja ya..</p>
+      <div class="social-item">
+        <ion-icon name="logo-tiktok"></ion-icon>
+        <div class="social-details">
+          <div class="social-name">TikTok</div>
+          <div class="social-account">daniswendo</div>
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <div class="social-item">
+        <ion-icon name="logo-instagram"></ion-icon>
+        <div class="social-details">
+          <div class="social-name">Instagram</div>
+          <div class="social-account">daniswendo29</div>
+        </div>
       </div>
     </div>
-
     <!-- Popup Modal -->
     <div id="myModal" class="modal">
       <div class="modal-content">
@@ -230,17 +189,13 @@
           <i class="material-icons">close</i>
         </span>
         <div class="warning-message">
-          <h2>Peringatan!</h2>
+          <h2 class="warning-title">Peringatan!</h2>
           <p>
-            Soal yang berada di sini hanya untuk Anda berlatih dan mengetahui
-            seberapa jauh pemahaman Anda tentang materi yang sudah Anda pelajari.
+            Ini bukan bocoran soal, ya, melainkan hanya sekadar untuk kalian latihan. Semoga soal-soal ini bisa membantu kalian dalam belajar. Semangat terus!
           </p>
         </div>
-        <!-- Promosi Media Sosial dalam Modal (Opsional) -->
-        <!-- Jika Anda ingin menambahkan promosi media sosial di dalam modal, bisa ditambahkan di sini -->
       </div>
     </div>
-
     <div class="main-container">
       <!-- Sidebar untuk Daftar Soal -->
       <div class="sidebar" id="sidebar">
@@ -282,26 +237,6 @@
     </div>
 
     <!-- JavaScript -->
-    <script src="script.js">
-      // Fungsi untuk menutup modal
-      function closeModal() {
-        document.getElementById("myModal").style.display = "none";
-      }
-
-      // Tampilkan modal setelah 1 detik (1000 milidetik) setelah halaman dimuat
-      window.onload = function () {
-        setTimeout(function () {
-          document.getElementById("myModal").style.display = "flex";
-        }, 1000);
-      };
-
-      // Tambahkan event listener ke tombol close
-      document.querySelector(".close-button").addEventListener("click", closeModal);
-
-      // Tutup modal jika pengguna mengklik di mana saja pada halaman
-      window.addEventListener("click", function (event) {
-        closeModal();
-      });
-    </script>
+    <script src="script.js"></script>
   </body>
 </html>
