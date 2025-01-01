@@ -19,22 +19,61 @@ body {
   transition: background 0.5s ease;
 }
 
-marquee {
-  position: fixed;
-  top: 0;
-  left: 0;
-  background: #1e90ff;
-  border: 3px solid #1e90ff;
-  font-size: 12px;
-  color: black;
-}
-
 /* Layout Flex untuk Sidebar dan Kontainer Quiz */
 .main-container {
   margin-top: 20px;
   display: flex;
   width: 100%;
   max-width: 1000px;
+}
+
+/* Promosi Media Sosial */
+.social-media-fixed {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 999;
+}
+
+.social-media-fixed .social-item {
+  display: flex;
+  align-items: center;
+  margin: 0 15px;
+}
+
+.social-media-fixed ion-icon {
+  font-size: 30px;
+  color: #000;
+  margin-right: 10px;
+}
+
+.social-media-fixed .social-details {
+  display: flex;
+  flex-direction: column;
+}
+
+.social-media-fixed .social-name {
+  font-size: 12px;
+  color: #555;
+  font-weight: bold;
+}
+
+.social-media-fixed .social-account {
+  font-size: 14px;
+  color: #000;
+}
+
+.divider {
+  width: 1px;
+  height: 40px;
+  background-color: #ddd;
+  margin: 0 20px;
 }
 
 /* Sidebar Styling */
@@ -442,12 +481,26 @@ marquee {
   .sidebar ul li {
     transform: none !important;
   }
-  #question {
-  font-size: .3em;
-}
 }
 
 @media (max-width: 600px) {
+  .social-media-fixed ion-icon {
+    font-size: 25px;
+  }
+
+  .social-media-fixed .social-name {
+    font-size: 11px;
+  }
+
+  .social-media-fixed .social-account {
+    font-size: 12px;
+  }
+
+  .divider {
+    height: 30px;
+    margin: 0 10px;
+  }
+
   .quiz-container,
   .score-container,
   .review-container {
