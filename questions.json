@@ -1,1160 +1,1158 @@
 {
-    "manajemen": [
-        {
-            "question": "Definisi Organisasi adalah ...",
-            "choices": [
-                "sebagai sekelompok orang yang bekerja sama, berkoordinasi, untuk mencapai tujuan tertentu",
-                "sebagian orang yang bekerja untuk tujuan tertentu",
-                "bersifat bisnis dengan tujuan tertentu",
-                "sebagai perusahaan yang bersifat bisnis dengan tujuan mencari keuntungan sebesar-besarnya"
-            ],
-            "answer": "sebagai sekelompok orang yang bekerja sama, berkoordinasi, untuk mencapai tujuan tertentu"
-        },
-        {
-            "question": "Manajemen adalah suatu proses dimana suatu kelompok orang bekerja sama mengarahkan orang lainnya untuk bekerja mencapai tujuan yang sama, hal ini dikemukakan oleh ...",
-            "choices": [
-                "Massie dan Douglas",
-                "Kreitner",
-                "Koontz dan O’Donnel",
-                "Donnely, Gibson, dan Ivancevich"
-            ],
-            "answer": "Koontz dan O’Donnel"
-        },
-        {
-            "question": "Contoh organisasi terstruktur yang ketat adalah ...",
-            "choices": [
-                "kegiatan RT (Rumah Tangga)",
-                "RW (Rukun Warga)",
-                "Koperasi",
-                "Organisasi militer"
-            ],
-            "answer": "Organisasi militer"
-        },
-        {
-            "question": "Proses manajemen mencakup kegiatan .....",
-            "choices": [
-                "pengorganisasian, perencanaan, pengarahan, dan pengendalian",
-                "perencanaan, pengorganisasian, pengarahan, dan pengendalian",
-                "perencanaan, pengorganisasian, pengendalian dan pengarahan",
-                "pengarahan, perencanaan, pengorganisasian, dan pengendalian"
-            ],
-            "answer": "perencanaan, pengorganisasian, pengarahan, dan pengendalian"
-        },
-        {
-            "question": "Tugas manajemen puncak adalah …",
-            "choices": [
-                "menentukan tujuan, strategi, dan kebijakan perusahaan secara umum, yang kemudian akan diterjemahkan lebih spesifik oleh manajer di bawahnya",
-                "melaksanakan tujuan, strategi, dan kebijakan yang telah ditetapkan oleh manajer puncak serta mengkoordinasikan dan mengarahkan aktivitas manajer tingkat bawah dan juga karyawan",
-                "mengawasi dan mengkoordinasi kegiatan operasional yang dilakukan oleh karyawan",
-                "bertanggung jawab mengawasi unit tertentu yang mempunyai beberapa bidang sekaligus"
-            ],
-            "answer": "menentukan tujuan, strategi, dan kebijakan perusahaan secara umum, yang kemudian akan diterjemahkan lebih spesifik oleh manajer di bawahnya"
-        },
-        {
-            "question": "Berikut ini adalah yang termasuk dalam aliran manajemen klasik, kecuali",
-            "choices": [
-                "Henry Fayol",
-                "Max Weber",
-                "Adam Smith",
-                "Mary Parker Follet"
-            ],
-            "answer": "Adam Smith"
-        },
-        {
-            "question": "Lima kekuatan kompetisi bagi perusahaan untuk mencari keuntungan yang dikembangkan oleh Michael Porter adalah ...",
-            "choices": [
-                "ancaman pendatang baru atau halangan untuk masuk, produk substitusi, pemasok, pembeli, pesaing",
-                "ancaman pendatang baru atau halangan untuk masuk, produk, pemasok, pembeli, pesaing",
-                "ancaman pendatang baru, produk substitusi, pemasok, pembeli, pesaing",
-                "ancaman dari luar, produk substitusi, pemasok, pembeli, pesaing"
-            ],
-            "answer": "ancaman pendatang baru atau halangan untuk masuk, produk substitusi, pemasok, pembeli, pesaing"
-        },
-        {
-            "question": "Ada empat wilayah pengukuran tujuan sosial, dimana untuk setiap wilayah diperlukan pengukuran yang lebih spesifik, salah satunya adalah wilayah ekonomi. Yang dimaksud dengan wilayah ekonomi adalah ...",
-            "choices": [
-                "pengukuran dilakukan apakah organisasi melaksanakan tugas ekonomi yang dasar",
-                "pengukuran dilakukan untuk melihat apakah organisasi meningkatkan kualitas hidup secara umum",
-                "pengukuran dilakukan untuk melihat sejauh mana investasi sumberdaya (uang dan manusia) dilakukan organisasi untuk membantu persoalan yang dihadapi komunitas, seperti pendidikan, pengajian, dan sebagainya",
-                "pengukuran dalam wilayah ini ingin melihat sejauh mana organisasi berhasil memecahkan masalah sosial, bukannya mengatasi gejala-gejala yang muncul."
-            ],
-            "answer": "pengukuran dilakukan apakah organisasi melaksanakan tugas ekonomi yang dasar"
-        },
-        {
-            "question": "Berikut ini adalah jenis r encana sekali pakai dalam perencanaan operasional, kecuali …",
-            "choices": [
-                "program",
-                "proyek",
-                "anggaran",
-                "kebijakan"
-            ],
-            "answer": "kebijakan"
-        },
-        {
-            "question": "Salah satu implementasi strategi adalah model S7 yaitu Strategi (Strategy), Struktur (Structure), Sistem (Systems), Tujuan atau misi organisasi (Superordinate Goals), Kemampuan atau keterampilan (Skills), Staf (Staff), Pola perilaku atau pengambilan keputusan (Style). Model ini dikembangkan oleh ...",
-            "choices": [
-                "Thomas J. Peters dan Robert H. Waterman",
-                "Massie dan Douglas",
-                "Koontz dan O’Donnel",
-                "Donnely, Gibson, dan Ivancevich"
-            ],
-            "answer": "Thomas J. Peters dan Robert H. Waterman"
-        },
-        {
-            "question": "Salah satu faktor yang menghalangi pengambilan keputusan yang efektif adalah manajer cenderung tidak bersedia bertindak, setelah tahu konsekuensi tidak bertindak tidak terlalu besar. Hal ini disebut",
-            "choices": [
-                "relaxed change",
-                "defensive avoidance",
-                "relaxed Avoidance",
-                "panik"
-            ],
-            "answer": "relaxed Avoidance"
-        },
-        {
-            "question": "Berikut ini adalah keuntungan dari keputusan kelompok, kecuali …",
-            "choices": [
-                "Informasi dan pengetahuan lebih banyak",
-                "Lebih banyak alternatif yang dapat dihasilkan",
-                "Penerimaan terhadap hasil akhir akan lebih besar",
-                "Waktu yang lebih lama dan biaya lebih besar karena waktu yang hilang lebih banyak"
-            ],
-            "answer": "Waktu yang lebih lama dan biaya lebih besar karena waktu yang hilang lebih banyak"
-        },
-        {
-            "question": "Promosi mempengaruhi penjualan, tetapi dalam menetapkan promosi, perusahaan menggunakan target penjualan di masa mendatang. Dengan kata lain, penjualan juga dipengaruhi oleh promosi. Metode statistik yang sesuai untuk memecahkan persoalan di atas adalah ...",
-            "choices": [
-                "Jury of Executive Opinion Method",
-                "Sales-force-composition",
-                "Gantt chart",
-                "Penghalusan Eksponensial"
-            ],
-            "answer": "Penghalusan Eksponensial"
-        },
-        {
-            "question": "Berikut ini adalah yang termasuk dalam karakteristik organisasi birokrasi, kecuali …",
-            "choices": [
-                "pembagian kerja yang jelas (spesialisasi), dan setiap posisi diisi oleh orang yang memang ahli di bidang tersebut",
-                "seperangkat aturan yang konsisten dan jelas untuk menjamin keseragaman tugas",
-                "manajer dengan gaya tradisional (birokrasi) cenderung kurang efektif dibandingkan dengan manajer yang mendorong karyawannya dengan pendekatan manusiawi (menghargai kerja, mendorong tim kerja)",
-                "karir dalam organisasi didasarkan pada prestasi dan keahlian. Karyawan tidak boleh diperlakukan secara tidak adil"
-            ],
-            "answer": "manajer dengan gaya tradisional (birokrasi) cenderung kurang efektif dibandingkan dengan manajer yang mendorong karyawannya dengan pendekatan manusiawi (menghargai kerja, mendorong tim kerja)"
-        },
-        {
-            "question": "Tom Burns dan G.M. Stalker, dua peneliti dari Inggris, melalui buku mereka The Management of Information (1961), melihat kaitan antara elemen lingkungan dengan desain organisasi dan mereka membedakan dua jenis organisasi yaitu mekanistis dan organis. Berikut ini termasuk dalam Model Mekanis, kecuali …",
-            "choices": [
-                "pekerjaan sangat spesialis; sangat sedikit penjelasan terhadap hubungan antara pekerjaan dengan tujuan organisasi",
-                "pekerjaan ditetapkan secara kaku. Hanya dirubah secara formal oleh manajemen puncak organisasi",
-                "definisi peranan cukup spesifik (hak, kewajiban, dan metode kerja untuk setiap anggota)",
-                "pekerjaan saling tergantung. Penekanan pada relevansi pekerjaan dan tujuan organisasi"
-            ],
-            "answer": "pekerjaan saling tergantung. Penekanan pada relevansi pekerjaan dan tujuan organisasi"
-        },
-        {
-            "question": "Organisasi matriks pertama kali dikembangkan oleh industri luar angkasa, yaitu negara ...",
-            "choices": [
-                "Inggris",
-                "Amerika Serikat",
-                "Indonesia",
-                "Jerman"
-            ],
-            "answer": "Amerika Serikat"
-        },
-        {
-            "question": "Berikut adalah tahapan dalam perencanaan sumber daya manusia, kecuali …",
-            "choices": [
-                "memperkirakan kebutuhan tenaga kerja organisasi masa mendatang, meliputi jumlah (kuantitas) dan kualitas",
-                "merencanakan rekrutmen dan pemberhentian/pensiun kerja",
-                "merencanakan pelatihan dan pengembangan tenaga kerja",
-                "evaluasi latar belakang calon tenaga kerja"
-            ],
-            "answer": "evaluasi latar belakang calon tenaga kerja"
-        },
-        {
-            "question": "Salah satu sumber penolakan adalah …",
-            "choices": [
-                "ketidakpastian",
-                "partisipasi dan keterlibatan",
-                "penerangan dan komunikasi",
-                "negosiasi dan perjanjian"
-            ],
-            "answer": "ketidakpastian"
-        },
-        {
-            "question": "Metode yang bertujuan meningkatkan kejelasan individu dalam berkomunikasi adalah ...",
-            "choices": [
-                "training sensitivitas",
-                "analisis transaksi",
-                "membangun tim",
-                "konsultasi proses"
-            ],
-            "answer": "analisis transaksi"
-        },
-        {
-            "question": "Proses dimana penerima menerjemahkan atau mengartikan pesan yang diterima, disebut …",
-            "choices": [
-                "encoding",
-                "decoding",
-                "pesan",
-                "media komunikasi"
-            ],
-            "answer": "decoding"
-        },
-        {
-            "question": "Ciri-ciri orang yang mempunyai need for achievement yang tinggi menurut McClelland, kecuali …",
-            "choices": [
-                "suka mengambil tanggung jawab untuk menyelesaikan suatu persoalan",
-                "suka menetapkan tanggungjawab yang moderat, tidak terlalu tinggi, dan juga tidak terlalu rendah",
-                "suka feed-back yang cepat karena dengan feed-back tersebut akan diperoleh evaluasi mengenai pekerjaannya, dan sekaligus melihat apakah dapat perbaikan atau tidak",
-                "suka berprestasi, menurutnya program pendidikan akan membantu dalam meningkatkan kebutuhannya berprestasi"
-            ],
-            "answer": "suka berprestasi, menurutnya program pendidikan akan membantu dalam meningkatkan kebutuhannya berprestasi"
-        },
-        {
-            "question": "Motivasi seseorang akan tergantung pada antisipasi hasil dari tindakannya (dapat negatif atau positif) dikalikan dengan kekuatan pengharapan orang tersebut bahwa hasil yang diperoleh akan menghasilkan sesuatu yang dia inginkan, hal ini merupakan teori ...",
-            "choices": [
-                "Teori Pengharapan Vroom",
-                "Teori Motivasi Keadilan",
-                "Teori Penentuan Tujuan",
-                "Model Porter-Lawler"
-            ],
-            "answer": "Teori Pengharapan Vroom"
-        },
-        {
-            "question": "Konflik yang muncul karena ada perbedaan pandangan atau pendapat antar individu dalam suatu organisasi, disebut …",
-            "choices": [
-                "Konflik Interorganizational",
-                "Konflik Intergroup",
-                "Konflik Intragroup",
-                "Konflik Interpersonal"
-            ],
-            "answer": "Konflik Interpersonal"
-        },
-        {
-            "question": "Kekuasaan yang datang dari kemampuan seseorang memberikan balasan kepada orang lain yang melakukan pekerjaan tertentu, disebut ...",
-            "choices": [
-                "kekuasaan paksaan (coercive power)",
-                "kekuasaan balasan (reward power)",
-                "kekuasaan legitimasi (legitimate power)",
-                "kekuasaan kepakaran (expert power)"
-            ],
-            "answer": "kekuasaan balasan (reward power)"
-        },
-        {
-            "question": "Gaya kepemimpinan yang diajukan oleh Likert dikelompokkan ke dalam empat sistem, salah satunya adalah manajer yang memiliki tipe sangat otoriter, mempunyai kepercayaan yang rendah terhadap bawahannya, memotivasi bawahannya melalui ancaman atau hukuman, namun kadang-kadang melalui balasan (reward), komunikasi yang dilakukan satu arah (ke bawah atau top-down), dan membatasi pengambilan keputusan hanya untuk manajer. Gaya kepemimpinan ini disebut gaya kepemimpinan...",
-            "choices": [
-                "Otoriter - Eksploitatif (Exploitative - Authoritative)",
-                "Benevolent - Authoritative",
-                "Konsultatif (Consultative)",
-                "Partisipatif (Participative - Group)"
-            ],
-            "answer": "Otoriter - Eksploitatif (Exploitative - Authoritative)"
-        },
-        {
-            "question": "Salah satu gaya Keputusan dalam Model Vroom-Yetton-Jago, adalah CII, penjelasannya adalah …",
-            "choices": [
-                "Manajer membuat keputusan sendirian, berdasarkan informasi yang ada pada waktu itu",
-                "Manajer memberitahu permasalahan yang ada dengan bawahan yang relevan, dan meminta informasi dan evaluasi alternatif. Bawahan tidak bertemu sebagai suatu kelompok. Manajer mengambil keputusan sendirian, yang mungkin atau tidak mencerminkan pengaruh bawahan",
-                "Manajer dan bawahan bertemu sebagai kelompok dan mendiskusikan permasalahan yang ada. Kelompok mengambil keputusan. Manajer tidak berusaha mempengaruhi kelompok dalam pengambilan keputusan, dan bersedia melaksanakan keputusan yang diambil bersama",
-                "Manajer dan bawahan bertemu dan mendiskusikan permasalahan serta mengevaluasi alternatif pemecahan. Manajer kemudian mengambil keputusan, yang mungkin atau tidak mencerminkan pengaruh bawahan"
-            ],
-            "answer": "Manajer memberitahu permasalahan yang ada dengan bawahan yang relevan, dan meminta informasi dan evaluasi alternatif. Bawahan tidak bertemu sebagai suatu kelompok. Manajer mengambil keputusan sendirian, yang mungkin atau tidak mencerminkan pengaruh bawahan"
-        },
-        {
-            "question": "Berikut ini adalah fungsi dari kepemimpinan strategik, kecuali ...",
-            "choices": [
-                "perencanaan",
-                "pelaksanaan",
-                "pengawasan",
-                "evaluasi"
-            ],
-            "answer": "pengawasan"
-        },
-        {
-            "question": "Langkah-langkah kepemimpinan strategik adalah berikut ini, kecuali",
-            "choices": [
-                "mengevaluasi kondisi saat ini meliputi kondisi organisasi dan lingkungan",
-                "merumuskan kemana organisasi akan dibawa di masa depan, atau merumuskan visi dan misi organisasi",
-                "implementasi strategi yang telah dirumuskan",
-                "perumusan visi dan misi, kemana organisasi akan dibawa di masa mendatang"
-            ],
-            "answer": "perumusan visi dan misi, kemana organisasi akan dibawa di masa mendatang"
-        },
-        {
-            "question": "Pengawasan yang didesain untuk mendeteksi penyimpangan dari standar tertentu dan memungkinkan perbaikan dilakukan sebelum seluruh tahap kegiatan tertentu diselesaikan disebut ....",
-            "choices": [
-                "pengendalian concurrent (yes/no)",
-                "pengawasan pendahuluan (feedforward control atau steering control)",
-                "pengendalian umpan balik (post-action control)",
-                "management by exception (MBE)"
-            ],
-            "answer": "pengawasan pendahuluan (feedforward control atau steering control)"
-        },
-        {
-            "question": "Berikut ini adalah alasan sistem pengendalian kemungkinan ditolak oleh anggota organisasi, kecuali…",
-            "choices": [
-                "pengendalian yang berlebihan (overcontrol)",
-                "fokus yang tidak tepat",
-                "balasan positif untuk ketidakefisienan",
-                "mendorong partisipasi"
-            ],
-            "answer": "mendorong partisipasi"
-        },
-        {
-            "question": "Rasio untuk melihat kemampuan organisasi memenuhi kewajiban jangka panjangnya, yaitu kewajiban yang jatuh tempo lebih dari satu tahun disebut rasio …",
-            "choices": [
-                "Likuiditas",
-                "Solvabilitas",
-                "Aktivitas",
-                "Pasar"
-            ],
-            "answer": "Solvabilitas"
-        },
-        {
-            "question": "Anggaran yang merencanakan pengeluaran investasi di masa mendatang, seperti investasi pada bangunan, peralatan, dan sebagainya, disebut anggaran…",
-            "choices": [
-                "Modal",
-                "Pendanaan",
-                "Neraca",
-                "Keuangan"
-            ],
-            "answer": "Modal"
-        },
-        {
-            "question": "Efek fungsional anggaran adalah berikut ini, kecuali …",
-            "choices": [
-                "meningkatkan motivasi dan semangat kerja.",
-                "meningkatkan koordinasi organisasi.",
-                "komunikasi dan umpan balik dapat mengakibatkan ketidakpuasan manajer terhadap anggaran",
-                "sebagai alat evaluasi."
-            ],
-            "answer": "komunikasi dan umpan balik dapat mengakibatkan ketidakpuasan manajer terhadap anggaran"
-        },
-        {
-            "question": "Salah satu dari kegiatan pendukung dalam manajemen rantai nilai adalah…",
-            "choices": [
-                "manajemen rantai nilai",
-                "pemasaran dan penjualan",
-                "operasi",
-                "manajemen sumberdaya manusia"
-            ],
-            "answer": "manajemen rantai nilai"
-        },
-        {
-            "question": "Berikut ini adalah yang termasuk dalam dimensi kualitas, kecuali …",
-            "choices": [
-                "prestasi (performance), karakteristik operasional produk yang pokok, contoh kejelasan gambar televisi",
-                "tampilan (features), mendukung karakteristik fungsional dasar produk, contoh: power window untuk mobil",
-                "keterandalan (reliability), kemungkinan produk tidak berfungsi sebagaimana seharusnya (malfunction) selama periode tertentu",
-                "tidak mudah diperbaiki"
-            ],
-            "answer": "tidak mudah diperbaiki"
-        },
-        {
-            "question": "CIO adalah penghubung antara manajemen dengan informasi, sedangkan tugas dari CIO adalah …",
-            "choices": [
-                "mencakup penyiapan dan pelaksanaan prosedur dan kebijakan yang berkaitan dengan sistem informasi manajemen baik yang baru maupun yang lama",
-                "mencakup penyiapan dan pelaksanaan prosedur dan kebijakan yang berkaitan dengan sistem informasi",
-                "mencakup pelaksanaan prosedur dan kebijakan yang berkaitan dengan sistem informasi manajemen baik yang baru maupun yang lama",
-                "mencakup penyiapan dan pelaksanaan prosedur dan kebijakan yang berkaitan dengan manajemen baik yang baru maupun yang lama"
-            ],
-            "answer": "mencakup penyiapan dan pelaksanaan prosedur dan kebijakan yang berkaitan dengan sistem informasi manajemen baik yang baru maupun yang lama"
-        },
-        {
-            "question": "Keterbatasan dari sistem informasi manajemen (SIM) adalah berikut ini, kecuali ….",
-            "choices": [
-                "sistem informasi manajemen barangkali mahal dan sulit untuk dikembangkan dan diimplementasikan, khususnya apabila pengembangan sistem tersebut dilakukan secara bertahap",
-                "sistem informasi tidak selalu sesuai untuk semua tugas atau masalah",
-                "informasi yang diberikan ke manajer barangkali tidak selalu akurat, tepat waktu, lengkap, atau relevan. Input yang jelek akan menghasilkan output yang jelek juga",
-                "manajer kadangkala tidak terlalu mengandalkan sistem tersebut"
-            ],
-            "answer": "manajer kadangkala tidak terlalu mengandalkan sistem tersebut"
-        },
-        {
-            "question": "Ray Krock adalah contoh pengusaha yang sukses di Amerika dengan label ...",
-            "choices": [
-                "Ford",
-                "Amex",
-                "Microsoft",
-                "McDonald’s"
-            ],
-            "answer": "McDonald’s"
-        },
-        {
-            "question": "Inovasi yang memodifikasi produk, proses, atau teknologi, disebut inovasi …",
-            "choices": [
-                "Kecil",
-                "Radikal",
-                "Teknis",
-                "Manajerial"
-            ],
-            "answer": "Kecil"
-        },
-        {
-            "question": "Variabel yang dianggap bisa mendorong kreativitas adalah berikut ini, kecuali …",
-            "choices": [
-                "latar belakang kehidupan",
-                "kepribadian",
-                "kemampuan kognitif",
-                "verifikasi"
-            ],
-            "answer": "verifikasi"
-        }
-    ],
-    "pengantar_bisnis": [
-        {
-            "question": "Salah satu kegiatan bisnis yang harus dilakukan dalam mengembangkan produk menurut Brown dan Clow (2008) adalah…",
-            "choices": [
-                "mengelola produksi barang atau jasa",
-                "melakukan survey pasar",
-                "mencari pemasok",
-                "membangun pabrik"
-            ],
-            "answer": "mengelola produksi barang atau jasa"
-        },
-        {
-            "question": "Memberi otoritas dan kewenangan kepada karyawan dalam membuat keputusan dan mempertanggungjawabkan keputusan tersebut kepada perusahaan merupakan salah satu cara dalam membangun ....",
-            "choices": [
-                "kepercayaan pelanggan",
-                "komitmen karyawan",
-                "kualitas pelayanan",
-                "komunikasi sehat"
-            ],
-            "answer": "komitmen karyawan"
-        },
-        {
-            "question": "Sebagai seorang pelaku bisnis, Anda harus proaktif mengikuti trend yang selalu berubah dari masa ke masa dengan tidak membedakan gender, ras, etnis, dan agama. Hal tersebut merupakan kemampuan Anda dalam mengelola ...",
-            "choices": [
-                "Homogenitas",
-                "Diversitas",
-                "Kreatifitas",
-                "Produktifitas"
-            ],
-            "answer": "Diversitas"
-        },
-        {
-            "question": "Orang-orang yang memiliki kemampuan melihat dan menilai kesempatan-kesempatan bisnis, mengumpulkan sumber daya-sumber daya yang dibutuhkan untuk mengambil tindakan yang tepat, mengambil keuntungan serta memiliki sifat, watak dan kemauan untuk mewujudkan gagasan inovatif kedalam dunia nyata secara kreatif dalam rangka meraih sukses/meningkatkan pendapatan, merupakan pengertian dari...",
-            "choices": [
-                "inovator",
-                "wirausahawan",
-                "kreditor",
-                "manajer"
-            ],
-            "answer": "wirausahawan"
-        },
-        {
-            "question": "Salah satu perbedaan sistem perekonomian sosialis dan komunisme adalah ...",
-            "choices": [
-                "pada perekonomian sosialis, keuntungan diambil pemerintah, sedangkan pada perekonomian komunisme, diambil oleh perusahaan",
-                "pada perekonomian sosialis, sebagian besar bisnis dimiliki dan dioperasionalkan oleh pemerintah, sedangkan pada perekonomian komunisme, Pemerintah memiliki dan mengoperasionalkan industri utama",
-                "pada perekonomian sosialis, harga biasanya tinggi, sedangkan pada perekonomian komunisme, harga ditentukan oleh penawaran dan permintaan",
-                "pada perekonomian sosialis, ada hambatan dalam industri utama, mendorong bisnis kecil harga biasanya tinggi sedangkan pada perekonomian komunisme, tidak ada persaingan"
-            ],
-            "answer": "pada perekonomian sosialis, sebagian besar bisnis dimiliki dan dioperasionalkan oleh pemerintah, sedangkan pada perekonomian komunisme, Pemerintah memiliki dan mengoperasionalkan industri utama"
-        },
-        {
-            "question": "Dampak pelaksanaan globalisasi ekonomi dalam suatu negara, dapat dilihat dari salah satu indikator utama ……",
-            "choices": [
-                "tumbuhnya jalinan sosial politik yang meliputi seluruh dunia",
-                "rasio perdagangan internasional (ekspor dan impor) negara tersebut",
-                "perubahan yang cepat dan tidak terus-menerus",
-                "bertambahnya partisipan yang berbeda"
-            ],
-            "answer": "rasio perdagangan internasional (ekspor dan impor) negara tersebut"
-        },
-        {
-            "question": "Yang dimaksud dengan defisit neraca perdagangan adalah...",
-            "choices": [
-                "ekspor di suatu negara lebih kecil daripada impornya",
-                "ekspor di suatu negara lebih besar daripada impornya",
-                "suatu negara melakukan suatu perdagangan dengan negara lain dan rugi",
-                "suatu bentuk perdagangan antardua negara dengan suatu kesepakatan bersama"
-            ],
-            "answer": "ekspor di suatu negara lebih kecil daripada impornya"
-        },
-        {
-            "question": "Aspek tenaga kerja, modal, kewirausahaan, sumber daya fisik, dan sumber daya informasi merupakan bagian dari salah satu faktor yang mempengaruhi keunggulan kompetitif nasional, yaitu...",
-            "choices": [
-                "Kondisi faktor produksi",
-                "Kondisi permintaan",
-                "Industri-industri yang berhubungan dan yang mendukung",
-                "Strategi, struktur, dan persaingan"
-            ],
-            "answer": "Kondisi faktor produksi"
-        },
-        {
-            "question": "Teori perdagangan internasional yang menyatakan bahwa perdagangan adalah zero-sum game dimana satu negara akan mendapatkan satu hasil, sedangkan negara lain justru bisa kehilangan merupakan teori ...",
-            "choices": [
-                "Keunggulan Absolut",
-                "Keunggulan Komparatif",
-                "Merkantilisme",
-                "Perdagangan Baru"
-            ],
-            "answer": "Merkantilisme"
-        },
-        {
-            "question": "Apabila suatu perusahaan atau negara yang memutuskan untuk berdagang dengan negara lain di pasar internasional harus menghadapi hambatan berupa tarif yang dipungut sebagai proporsi dari nilai barang yang diimpor, maka tarif tersebut disebut dengan tarif .....",
-            "choices": [
-                "ad valorem",
-                "ekspor",
-                "transit",
-                "impor"
-            ],
-            "answer": "ad valorem"
-        },
-        {
-            "question": "Dengan alasan tertentu suatu negara atau bisnis mengambil tindakan dengan menjual produk pada harga yang lebih rendah daripada biaya untuk menghasilkan produk tersebut. Tindakan demikian disebut...",
-            "choices": [
-                "embargo",
-                "subsidi",
-                "proteksionisme",
-                "dumping"
-            ],
-            "answer": "dumping"
-        },
-        {
-            "question": "Pernyataan tentang kebijakan yang berfokus pada permasalahan benar atau salah, dan bukan merupakan standar perilaku merupakan pengertian dari ...",
-            "choices": [
-                "etika bisnis",
-                "perilaku etis",
-                "kode etik",
-                "isu-isu etika"
-            ],
-            "answer": "kode etik"
-        },
-        {
-            "question": "Salah satu contoh isu –isu etika bisnis dalam komunikasi dengan pelanggan adalah…",
-            "choices": [
-                "menggunakan sumber daya perusahaan untuk kepentingan pribadi",
-                "mempromosikan janji-janji palsu yang tidak sesuai dengan produk",
-                "memukul bawahan sebagai hukuman karena tidak mampu mencapai target produksi tertentu",
-                "menerima komisi atau uang pelicin saat penerimaan karyawan baru"
-            ],
-            "answer": "mempromosikan janji-janji palsu yang tidak sesuai dengan produk"
-        },
-        {
-            "question": "Salah satu teori dalam menganalisis perilaku etis yang menyatakan bahwa setiap keputusan yang diambil diasumsikan menganut prinsip keadilan, kesamaan, dan obyektif adalah teori...",
-            "choices": [
-                "Hak",
-                "Kewajiban",
-                "Utilitarianisme",
-                "Whistleblowing"
-            ],
-            "answer": "Kewajiban"
-        },
-        {
-            "question": "Salah satu bentuk tanggung jawab sosial suatu organisasi bisnis pada lingkungan adalah dalam ….",
-            "choices": [
-                "menghasilkan produk dan jasa ketika melakukan produksi atau penjualan kepada pelanggan",
-                "menjamin keselamatan kerja karyawan dan keadilan bagi seluruh karyawan",
-                "menghasilkan produk yang menguntungkan bagi para pemangku kepentingan",
-                "mengendalikan dampak negatif lingkungan"
-            ],
-            "answer": "mengendalikan dampak negatif lingkungan"
-        },
-        {
-            "question": "Metode “iterative clinical interview” yang disusun oleh Schein, ditujukan untuk...",
-            "choices": [
-                "memperkenalkan budaya kepada pihak luar maupun membantu pemahaman insider",
-                "memprediksi bahwa tidak semua nilai-nilai pada kerangka kerja budaya yang umum akan sama dalam implementasi berbagai inovasi",
-                "menunjukkan tidak semua elemen budaya tercapai pada inovasi khusus",
-                "menangani multikulturalisme"
-            ],
-            "answer": "memperkenalkan budaya kepada pihak luar maupun membantu pemahaman insider"
-        },
-        {
-            "question": "Perusahaan listrik negara dan perusahaan air minum merupakan contoh organisasi bisnis yang termasuk kedalam kelompok bisnis…",
-            "choices": [
-                "finansial",
-                "jasa",
-                "utilitas",
-                "distributor"
-            ],
-            "answer": "utilitas"
-        },
-        {
-            "question": "Salah satu keuntungan dari mendirikan perusahaan persekutuan adalah…",
-            "choices": [
-                "tidak ada tarip pajak khusus untuk bentuk persekutuan",
-                "tidak terbatasnya tanggung jawab masing-masing anggota sekutu akan membuat bisnis ini semakin mudah dikelola",
-                "keberlanjutannya dapat dengan mudah dipertahankan apabila salah satu pihak yang berkerjasama tersebut meninggal",
-                "transfer kepemilikan dapat dilakukan dengan mudah"
-            ],
-            "answer": "tidak ada tarip pajak khusus untuk bentuk persekutuan"
-        },
-        {
-            "question": "Kepemilikan bisnis dimana pemilik mengijinkan pihak lain atau pembeli (franchisee) menggunakan merek dagangnya atau menggunakan semua proses bisnisnya pada kondisi tertentu dan di bawah ijin pemilik, disebut dengan ......",
-            "choices": [
-                "divestiture",
-                "waralaba",
-                "merger",
-                "spin off"
-            ],
-            "answer": "waralaba"
-        },
-        {
-            "question": "Jenis organisasi bisnis yang dimiliki dan dikendalikan oleh orang- orang yang memiliki kebutuhan yang sama dengan menggabungkan sumber daya mereka untuk keuntungan bersama, adalah...",
-            "choices": [
-                "Koperasi",
-                "Joint venture",
-                "Perusahaan perseorangan",
-                "Korporasi"
-            ],
-            "answer": "Koperasi"
-        },
-        {
-            "question": "Salah satu kemampuan diri dari seorang wirausaha adalah harus yakin terhadap ideidenya walaupun orang lain tidak mampu melakukannya, yang merupakan kemampuan dalam hal...",
-            "choices": [
-                "pengarahan diri (self-directed)",
-                "bersemangat tinggi (highly energetic)",
-                "memaklumi adanya ketidakpastian",
-                "pengembangan diri (self-nurturing)"
-            ],
-            "answer": "pengembangan diri (self-nurturing)"
-        },
-        {
-            "question": "Fungsi perencanaan merupakan kegiatan yang sangat penting dan dasar untuk melakukan fungsi manajemen lainnya. Salah satu perencanaan yang dibuat oleh suatu organisasi bisnis adalah perencanaan strategis yang berarti .....",
-            "choices": [
-                "deklarasi atau pernyataan organisasi yang mendasar dan berisi tujuan dan filosofi dasar organisasi",
-                "perencanaan jangka panjang beserta semua strategi untuk pencapaian misi perusahaan atau organisasi",
-                "perencanaan jangka pendek yang disusun untuk mengimplementasikan kegiatan dan tujuan khusus",
-                "perencanaan yang sangat pendek mengenai kegiatan khusus individu, kelompok kerja /tim, atau departemen"
-            ],
-            "answer": "perencanaan jangka panjang beserta semua strategi untuk pencapaian misi perusahaan atau organisasi"
-        },
-        {
-            "question": "Manajer merupakan pemimpin dalam organisasi yang berperan dalam memotivasi karyawan dengan memberikan penghargaan dan insentif bagi karyawan yang berprestasi. Hal ini merupakan pelaksanaan fungsi ...",
-            "choices": [
-                "pengarahan",
-                "penyusunan staf",
-                "pengorganisasian",
-                "pengendalian"
-            ],
-            "answer": "pengarahan"
-        },
-        {
-            "question": "PT. Extravaganza, yang bergerak dalam pembuatan produk dari kulit, membagi departemennya dengan berbasis produk yang dihasilkan: Departemen Jaket, Departemen Sepatu, dan lain-lain. Dengan demikian PT. Extravaganza menganut struktur organisasi...",
-            "choices": [
-                "matriks",
-                "fungsional",
-                "lini",
-                "divisional"
-            ],
-            "answer": "divisional"
-        },
-        {
-            "question": "Salah satu nilai (value) yang mendasari pengembangan organisasional adalah .,,,..",
-            "choices": [
-                "kepercayaan dan dukungan",
-                "survei",
-                "teknik",
-                "membangun tim"
-            ],
-            "answer": "kepercayaan dan dukungan"
-        },
-        {
-            "question": "Berikut ini pernyataan yang benar mengenai konflik dalam berbagai iklim organisasi..",
-            "choices": [
-                "konflik yang sehat merupakan contoh desain struktur tradisional",
-                "orang yang kreatif biasanya cenderung untuk meredam konflik",
-                "dalam iklim birokratik, konflik karena perbedaan pendapat tidak pernah berakhir, tidak diharapkan, dan dipandang tidak sah",
-                "konflik biasanya disebabkan oleh masalah perilaku"
-            ],
-            "answer": "dalam iklim birokratik, konflik karena perbedaan pendapat tidak pernah berakhir, tidak diharapkan, dan dipandang tidak sah"
-        },
-        {
-            "question": "Salah satu fungsi manajemen operasional adalah penjadwalan operasional yang terdiri dari ….",
-            "choices": [
-                "kapasitas dan layanan",
-                "produksi dan karyawan",
-                "bahan baku dan manajemen rantai pasokan",
-                "produksi dan pengendalian kualitas"
-            ],
-            "answer": "produksi dan karyawan"
-        },
-        {
-            "question": "Apabila kondisi suatu kantor langsung berhubungan dengan pelanggan (front office) dengan aliran kerja beragam, volume rendah, dan kastemisasinya tinggi, maka dapat menggunakan tata letak ….",
-            "choices": [
-                "proses",
-                "produk",
-                "campuran",
-                "flexible manufacturing system atau FMS"
-            ],
-            "answer": "proses"
-        },
-        {
-            "question": "Berikut ini pernyataan yang benar tentang manajemen rantai pasokan adalah...",
-            "choices": [
-                "Manajemen rantai pasokan didefinsikan sebagai integrasi proses bisnis dari pelanggan akhir melalui pemasok yang menyediakan produk, pelayanan dan informasi yang menambah nilai bagi pelanggan",
-                "Konsep manajemen rantai pasokan diadopsi oleh berbagai perusahaan sebagai cara yang penting dalam meraih posisi sebagai pemimpin pasar di pasar dalam negeri",
-                "Manajemen rantai pasokan merupakan pendekatan per bagian yang berkaitan dengan perencanaan dan pengendalian bahan baku dan informasi dari perusahaan ke pelanggan akhir",
-                "Struktur proses rantai pasokan meliputi perencanaan, pengalokasian sumber daya, dan produksi"
-            ],
-            "answer": "Manajemen rantai pasokan didefinsikan sebagai integrasi proses bisnis dari pelanggan akhir melalui pemasok yang menyediakan produk, pelayanan dan informasi yang menambah nilai bagi pelanggan"
-        },
-        {
-            "question": "Salah satu alat yang sering digunakan dalam pengendalian mutu harian secara rutin yaitu dengan cara memacu pemikiran kreatif guna mengumpulkan ide-ide dari suatu kelompok dalam waktu yang relatif singkat atau disebut dengan...",
-            "choices": [
-                "Flow chart",
-                "Cause and effect diagram",
-                "Affinity diagram",
-                "Brainstorming"
-            ],
-            "answer": "Brainstorming"
-        },
-        {
-            "question": "Salah satu kelemahan dari penerapan ISO 9000 adalah...",
-            "choices": [
-                "perubahan kepercayaan dan reputasi organisasi atau pelanggan",
-                "memperkecil kreatifitas dan pemikiran kritis organisasi",
-                "kekaburan struktur dan tanggung jawab organisasi",
-                "menurunkan tingkat kepuasan pelanggan"
-            ],
-            "answer": "memperkecil kreatifitas dan pemikiran kritis organisasi"
-        },
-        {
-            "question": "Teori X dan Y, yang berpendapat bahwa Teori X mempunyai keyakinan bahwa orang pada dasarnya malas, sedangkan Teori Y yang meyakini bahwa orang pada dasarnya bersemangat dan memiliki motivasi tinggi, merupakan teori yang dikemukakan oleh ...",
-            "choices": [
-                "Douglas McGregor",
-                "Frederick Herzberg",
-                "Maslow",
-                "Clayton Alderfer"
-            ],
-            "answer": "Douglas McGregor"
-        },
-        {
-            "question": "Teori motivasi yang menyatakan bahwa karyawan akan termotivasi untuk bekerja agar mendapatkan penghargaan yang mereka inginkan dan mereka percaya bahwa kesempatan atau harapan mereka akan tercapai, yaitu merupakan teori ...",
-            "choices": [
-                "keadilan",
-                "dua faktor",
-                "hirarki kebutuhan",
-                "pengharapan"
-            ],
-            "answer": "pengharapan"
-        },
-        {
-            "question": "Salah satu teknik yang digunakan dalam menilai person-organization fit dalam proses seleksi adalah q methodology yaitu mengukur…",
-            "choices": [
-                "fit dalam dua studi",
-                "korelasi antara application’s response dengan organizational profile",
-                "kepribadian seseorang",
-                "menilai pelamar secara komprehensif"
-            ],
-            "answer": "korelasi antara application’s response dengan organizational profile"
-        },
-        {
-            "question": "Untuk menilai kinerja karyawan yang berada dalam kondisi yang tetap dan tidak memungkinkan untuk diperbaiki dengan keterbatasan kemampuan, motivasi, atau ciri pekerjaannya, maka digunakan penilaian ...",
-            "choices": [
-                "pengembangan",
-                "penampilan",
-                "perbaikan",
-                "pemeliharaan"
-            ],
-            "answer": "pemeliharaan"
-        },
-        {
-            "question": "Salah satu teori yang dapat mendasari penilaian kinerja menyatakan bahwa penilaian kinerja sebaiknya menggunakan berbagai observasi dari waktu ke waktu dan mengadakan analisis terhadap informasi yang diperoleh dari berbagai sumber. Hal ini merupakan isi dari teori..",
-            "choices": [
-                "kognitif sosial (social cognitive theory)",
-                "identitas (identity theory)",
-                "atribusi",
-                "kepribadian implisit"
-            ],
-            "answer": "kognitif sosial (social cognitive theory)"
-        },
-        {
-            "question": "Perencanaan tenagakerja, pelatihan kerja, penempatan tenagakerja, perluasan kesempatan kerja, dan penggunaan tenagakerja asing merupakan aspek-aspek yang terdapat dalam UU ketenagakerjaaan, yaitu ....",
-            "choices": [
-                "UU No.21 Tahun 2000",
-                "UU No.21 Tahun 2001",
-                "UU No.13 Tahun 2002",
-                "UU No.13 Tahun 2003"
-            ],
-            "answer": "UU No.13 Tahun 2003"
-        },
-        {
-            "question": "Variabel demografi merupakan salah satu variabel penting untuk menyusun segmentasi pasar yang meliputi aspek-aspek ….",
-            "choices": [
-                "umur, gender, ras, etnik, pendapatan, pendidikan, agama dan kepercayaan",
-                "iklim, sumber daya alam, kepadatan penduduk, nilai budaya, dan lingkungan",
-                "kepribadian, motivasi, dan gaya hidup",
-                "perilaku konsumen terhadap produk, nilai budaya, dan lingkungan"
-            ],
-            "answer": "umur, gender, ras, etnik, pendapatan, pendidikan, agama dan kepercayaan"
-        },
-        {
-            "question": "Salah satu fungsi pemasaran yang merupakan kegiatan pemisahan produk atau jasa yang ditawarkan kepada pelanggan sesuai dengan kualitas dan karakteristiknya agar mudah dipahami pelanggan adalah fungsi...",
-            "choices": [
-                "pengiriman",
-                "pengendalian resiko",
-                "standarisasi",
-                "penggudangan"
-            ],
-            "answer": "standarisasi"
-        },
-        {
-            "question": "Salah satu metode promosi yang merupakan metode yang tidak mahal untuk membangun imej terhadap perusahaan dan produk adalah...",
-            "choices": [
-                "Periklanan",
-                "Penjualan personal",
-                "Promosi penjualan",
-                "Hubungan masyarakat"
-            ],
-            "answer": "Hubungan masyarakat"
-        },
-        {
-            "question": "Orang yang ahli dalam menginterpretasikan laporan keuangan dan membuat rekomendasi terhadap kondisi keuangan perusahaan atau organisasi yaitu ....",
-            "choices": [
-                "manajer keuangan",
-                "auditor",
-                "akuntan publik",
-                "investor"
-            ],
-            "answer": "manajer keuangan"
-        },
-        {
-            "question": "Apabila pemilik perusahaan menginvestasikan kembali pendapatannya, membuat kontribusi, menjual aset, menjual saham ke masyarakat, atau menambah modal yang berasal dari investor untuk menambah dana yang ada dalam perusahaan, disebut dengan..",
-            "choices": [
-                "Debt capital",
-                "Equity capital",
-                "Cost of capital",
-                "Venture capital"
-            ],
-            "answer": "Equity capital"
-        },
-        {
-            "question": "Kegunaan dari rasio profitabilitas adalah mengukur …",
-            "choices": [
-                "seberapa besar perusahaan meminjam dana utuk kegiatan operasionalnya",
-                "seberapa efektif perusahaan menggunakan berbagai sumber dana untuk mencapai laba atau keuntungan",
-                "kemampuan aset untuk membayar hutang jangka pendek perusahaan",
-                "mengukur kecepatan perusahaan pergerak dari barang mentah menjadi barang jadi yang siap dipasarkan"
-            ],
-            "answer": "seberapa efektif perusahaan menggunakan berbagai sumber dana untuk mencapai laba atau keuntungan"
-        },
-        {
-            "question": "Agar tidak mudah dipalsukan, uang memiliki karakteristik yang sulit ditiru yang diistilahkan dengan ...",
-            "choices": [
-                "portability",
-                "divisibility",
-                "durability",
-                "difficulty in counterfeiting"
-            ],
-            "answer": "difficulty in counterfeiting"
-        },
-        {
-            "question": "Yang membedakan Bank Syariah dengan Bank Umum adalah ..…",
-            "choices": [
-                "beroperasi berdasarkan prinsip bagi hasil",
-                "tidak memberikan layanan kredit",
-                "tidak mengeluarkan deposito",
-                "hanya membatasi nasabah muslim saja"
-            ],
-            "answer": "beroperasi berdasarkan prinsip bagi hasil"
-        }
-    ]
-    ,
-    "matematika_ekonomi": [
-            {
-                "question": "Diketahui Himpunan universal U= (0,1,2,3,4,5,6,7,8,9), sedangkan p= (2,4,6,8), Q= (3,5,9), dan R=(3,7,9) tentukan P ∩ (Q∪R)...",
-                "choices": [
-                    "{ 3 }",
-                    "Ø",
-                    "{ 3, 9 }",
-                    "{ 6, 8 }"
-                ],
-                "answer": "Ø"
-            },
-            {
-                "question": "Diketahui suatu himpunan buah A = {anggur, apel, apricot}, hitunglah jumlah himpunan bagiannya...",
-                "choices": [
-                    "8",
-                    "0",
-                    "4",
-                    "16"
-                ],
-                "answer": "8"
-            },
-            {
-                "question": "Diketahui a = 100 dan S7 = 160, hitunglah nilai b …. ",
-                "choices": [
-                    "5",
-                    "8",
-                    "9",
-                    "10"
-                ],
-                "answer": "10"
-            },
-            {
-                "question": "Diketahui a = 100 dan n = 16, b = 10, hitunglah D16…",
-                "choices": [
-                    "2.000",
-                    "2.600",
-                    "2.800",
-                    "3.800"
-                ],
-                "answer": "2.800"
-            },
-            {
-                "question": "Penerimaan CV 'Kembang Jagung' dari penjualan hasil produksinya pada tahun kelima sebesar Rp 720 juta sedangkan pada tahun ketujuh sebesar Rp. 980 juta. Perkembangan penerimaan CV tersebut berpola mengikuti deret hitung. Berapa perkembangan penerimaannya per tahun…",
-                "choices": [
-                    "100",
-                    "130",
-                    "150",
-                    "160"
-                ],
-                "answer": "130"
-            },
-            {
-                "question": "Penerimaan PT 'Jingga Kuning' dari penjualan hasil produksinya pada tahun kelima sebesar Rp 720 juta sedangkan pada tahun ketujuh sebesar Rp. 980 juta dan perkembangan penerimaannya tiap tahun adalah sebesar Rp 130 juta. Perkembangan penerimaan PT tersebut berpola mengikuti deret hitung. Pada tahun ke berapa penerimannya sebesar Rp 460 juta?",
-                "choices": [
-                    "3",
-                    "4",
-                    "5",
-                    "6"
-                ],
-                "answer": "3"
-            },
-            {
-                "question": "Pabrik kue 'Bagi Rata' menghasilkan satu juta bungkus kue pada tahun pertama produksinya dan 1,6 juta bungkus pada tahun ketujuh. Berapa tambahan produksinya per tahun jika perkembangan produksinya konstan?",
-                "choices": [
-                    "70.000",
-                    "80.000",
-                    "90.000",
-                    "100.000"
-                ],
-                "answer": "100.000"
-            },
-            {
-                "question": "Pabrik kue 'Regina' menghasilkan satu juta bungkus kue pada tahun pertama produksinya dan 1,6 juta bungkus pada tahun ketujuh dengan tambahan produksinya per tahun = 100.000 bungkus kue. Pada tahun keberapa produksinya mencapai 2,5 juta bungkus?",
-                "choices": [
-                    "13",
-                    "4",
-                    "16",
-                    "18"
-                ],
-                "answer": "16"
-            },
-            {
-                "question": "Tabungan Ani pada tiga tahun mendatang akan menjadi Rp 3.000.000,- dan suku bunga yang berlaku saat ini adalah 6 % per tahun. Hitung tabungan Ani saat ini…",
-                "choices": [
-                    "2.518.858",
-                    "2.538.858",
-                    "2.628.858",
-                    "2.638.858"
-                ],
-                "answer": "2.518.858"
-            },
-            {
-                "question": "Sabar meminjam uang di bank sebesar Rp 5.000.000,- untuk jangka waktu tiga tahun, dengan tingkat bunga 2 % per tahun. Berapa jumlah uang yang harus dikeluarkan sampai dengan saat pelunasan?",
-                "choices": [
-                    "5.106.060",
-                    "5.306.040",
-                    "5.326.060",
-                    "5.406.040"
-                ],
-                "answer": "5.306.040"
-            },
-            {
-                "question": "Adi harus membayar hutangnya kepada seorang pelepas uang tradisional sebesar Rp 4.000.000,- atas pinjamannya sebesar Rp 250.000,- beberapa tahun yang lalu. Bunga pinjaman yang dikenakan adalah sebesar 100 %. Berapa tahun Adi meminjam uang tersebut?",
-                "choices": [
-                    "2",
-                    "3",
-                    "4",
-                    "5"
-                ],
-                "answer": "4"
-            },
-            {
-                "question": "Carilah titik potong dari pasangan garis-garis y = - 2 + 4 x dan y = 2 + 2 x",
-                "choices": [
-                    "(2,2)",
-                    "(2,3)",
-                    "(2,5)",
-                    "(2,6)"
-                ],
-                "answer": "(2,6)"
-            },
-            {
-                "question": "Carilah titik potong dari pasangan garis-garis y = 2 + 2 x dan y = 10 – 2 x",
-                "choices": [
-                    "(1,6)",
-                    "(2,6)",
-                    "(2,8)",
-                    "(3,8)"
-                ],
-                "answer": "(2,6)"
-            },
-            {
-                "question": "Fungsi permintaan buku merk Kikan dicerminkan oleh perilaku sebagai berikut: jika dijual dengan harga Rp 5.000,- per buku akan laku sebanyak 3.000 buku dan jika di jual dengan harga Rp 4.000,- akan laku sebanyak 6.000 buku. Rumuskan fungsi permintaannya...",
-                "choices": [
-                    "Q = 16.000 – 3 P",
-                    "Q = 17.000 – 5 P",
-                    "Q = 18.000 – 3 P",
-                    "Q = 18.000 – 5 P"
-                ],
-                "answer": "Q = 18.000 – 3 P"
-            },
-            {
-                "question": "Fungsi permintaan buku merk Bunga dicerminkan oleh perilaku sebagai berikut: jika dijual dengan harga Rp 5.000,- per buku akan laku sebanyak 3.000 buku dan jika di jual dengan harga Rp 4.000,- akan laku sebanyak 6.000 buku. Berapa harga tertinggi buku tersebut agar terjangkau oleh daya beli konsumen, jika fungsi permintaannya Q = 18.000 – 3 P?",
-                "choices": [
-                    "± 6.000",
-                    "> 6.000",
-                    "= 6000",
-                    "< 6.000"
-                ],
-                "answer": "< 6.000"
-            },
-            {
-                "question": "Sebuah vulpen merk “Parkit” jika dijual dengan harga Rp 3.000,- akan laku sebanyak 1.000 biji. Pada setiap kenaikan Rp 1.000,- jumlah penjualannya bertambah sebanyak 400 biji. Bagaimanakah fungsi penawaran vulpen tersebut?",
-                "choices": [
-                    "Qs = 0,4 P – 200",
-                    "Qs = 0,4 P – 300",
-                    "Qs = 0,4 P – 500",
-                    "Qs = 0,4 P – 600"
-                ],
-                "answer": "Qs = 0,4 P – 200"
-            },
-            {
-                "question": "Fungsi penawaran suatu barang adalah Qs = - 8 + 2 P. Bagaimana fungsi penawarannya jika terdapat pajak sebesar 2?",
-                "choices": [
-                    "Qs = 12 + 2 P",
-                    "Qs = 10 + 2 P",
-                    "Qs = - 12 + 2 P",
-                    "Qs = - 10 + 2 P"
-                ],
-                "answer": "Qs = - 12 + 2 P"
-            },
-            {
-                "question": "Fungsi penawaran suatu barang adalah Qs = - 8 + 4 P. Bagaimana fungsi penawarannya jika terdapat subsidi sebesar 3?",
-                "choices": [
-                    "Qs = 4 + 2 P",
-                    "Qs = 4 - 4 P",
-                    "Qs = 2 + 4 P",
-                    "Qs = 4 + 4 P"
-                ],
-                "answer": "Qs = 4 + 4 P"
-            },
-            {
-                "question": "Suatu barang mempunyai kecenderungan permintaan sebagai berikut: jika harganya 2, jumlah yang diminta ada 12 unit; tetapi jika harganya naik menjadi 5, permintaannya hanya 6 unit. Sementara di lain pihak, jika harganya 2, produsen menawarkan barang tersebut sejumlah 2 unit, dan bila harganya naik menjadi 5, produsen menaikkan jumlah yang ditawarkan menjadi sebanyak 11 unit. Berapa harga keseimbangan dan jumlah keseimbangan barang tersebut di pasar?",
-                "choices": [
-                    "Peq = 8 dan Qeq = 4",
-                    "Peq = 4 dan Qeq = 8",
-                    "Peq = 6 dan Qeq = 8",
-                    "Peq = 4 dan Qeq = 6"
-                ],
-                "answer": "Peq = 4 dan Qeq = 8"
-            },
-            {
-                "question": "Permintaan akan suatu komoditi diketahui berfungsi P = 17 – QD, sedangkan penawarannya P = ¼ Qs + ¾. Berapa harga dan jumlah keseimbangan?",
-                "choices": [
-                    "Peq = 3 dan Qeq = 14",
-                    "Peq = 4 dan Qeq = 14",
-                    "Peq = 4 dan Qeq = 13",
-                    "Peq = 3 dan Qeq = 13"
-                ],
-                "answer": "Peq = 4 dan Qeq = 13"
-            },
-            {
-                "question": "Permintaan suatu komoditi diketahui berfungsi P = 17 – QD, sedangkan penawarannya P = ¼ Qs + ¾. Berapa subsidi yang harus diberikan agar komoditi tersebut menjadi gratis?",
-                "choices": [
-                    "5",
-                    "6",
-                    "7",
-                    "8"
-                ],
-                "answer": "5"
-            },
-            {
-                "question": "Harga jual suatu barang Rp 50,00. Biaya tetap rata-ratanya Rp 10,00 dan biaya variabel rata-rata Rp 25,00. Berapa unit barang harus dihasilkan jika produsen ingin mendapatkan laba sebesar Rp 6.000,00?",
-                "choices": [
-                    "50",
-                    "700",
-                    "550",
-                    "400"
-                ],
-                "answer": "400"
-            },
-            {
-                "question": "Harga jual suatu barang Rp 50,00. Biaya tetap rata-ratanya Rp 10,00, biaya variabel rata-rata Rp 25,00. Biaya total tetapnya tidak berubah sampai dengan menghasilkan 400 unit. Berapa unit barang yang dihasilkannya kalau ternyata ia tidak memperoleh keuntungan tetapi juga tidak menderita kerugian?",
-                "choices": [
-                    "140",
-                    "160",
-                    "170",
-                    "180"
-                ],
-                "answer": "160"
-            },
-            {
-                "question": "Sabardi memelihara ayam pedaging sebanyak 1.000 ekor. Setelah berusia empat bulan semua ayamnya terjual dengan harga Rp 800,00/ekor. Biaya tetap yang telah dikeluarkan untuk memulai usahanya sebesar Rp 80.000,00, sedangkan biaya variabel selama empat bulan sebesar Rp 600.000,00. Tunjukkan fungsi biaya totalnya?",
-                "choices": [
-                    "70.000 + 800Q",
-                    "70.000 + 600Q",
-                    "80.000 + 600Q",
-                    "80.000 + 800Q"
-                ],
-                "answer": "80.000 + 600Q"
-            },
-            {
-                "question": "Burhan memelihara ayam pedaging sebanyak 1.000 ekor. Setelah berusia empat bulan semua ayamnya terjual dengan harga Rp 800,00/ekor. Biaya tetap yang telah dikeluarkan untuk memulai usahanya sebesar Rp 80.000,00, sedangkan biaya variabel selama empat bulan sebesar Rp 600.000,00 dan fungsi biaya total = 80.000 + 600 Q. Bagaimana kalau ia memelihara 350 ekor ayam?",
-                "choices": [
-                    "rugi Rp 10.000,00",
-                    "rugi Rp 20.000,00",
-                    "rugi Rp 25.000,00",
-                    "rugi Rp 30.000,00"
-                ],
-                "answer": "rugi Rp 10.000,00"
-            },
-            {
-                "question": "Fungsi konsumsi nasional negara Astanegara adalah: C = 400 + 0,8 YD. Pajak yang diterima pemerintah ditunjukkan oleh persamaan T = 60 + 0,05 Y, sedangkan pembayaran alihan sebesar 180. Berapa pendapatan disposable masyarakatnya jika pendapatan nasionalnya = 5.000?",
-                "choices": [
-                    "4.450",
-                    "4.500",
-                    "4.680",
-                    "4.870"
-                ],
-                "answer": "4.870"
-            },
-            {
-                "question": "Fungsi konsumsi nasional negara Wirata adalah: C = 400 + 0,8 Yd, dan pendapatan disposable sebesar 4.870. Berapa besarnya tabungan?",
-                "choices": [
-                    "574",
-                    "594",
-                    "600",
-                    "615"
-                ],
-                "answer": "574"
-            },
-            {
-                "question": "Apabila diketahui data negara Bangau Putih sebagai berikut: C = 20 milyar + 0,75 Yd, I = 48 milyar, G = 60 milyar, T = 10 milyar + 0,05 Y dan R = 6 milyar. Hitunglah pendapatan nasional dan konsumsi nasional (hasil akhir dibulatkan sedang untuk perhitungan tetap menggunakan hasil yang sebenarnya).",
-                "choices": [
-                    "Y = 434 dan C = 326",
-                    "Y = 435 dan C = 327",
-                    "Y = 435 dan C = 372",
-                    "Y = 453 dan C = 327"
-                ],
-                "answer": "Y = 435 dan C = 327"
-            },
-            {
-                "question": "Persamaan TC = 5 Q2 – 1.000 Q + 85.000, merupakan biaya total yang dikeluarkan oleh perusahaan kue RisA. Berapa besarnya biaya total (TC) tersebut jika perusahaan memproduksi 90 unit output?",
-                "choices": [
-                    "34.500",
-                    "35.000",
-                    "35.500",
-                    "36.000"
-                ],
-                "answer": "35.500"
-            },
-            {
-                "question": "Fungsi produksi yang dihadapi oleh seorang produsen ditunjukkan oleh: P = 150 X2 – 2 X3, dimana P adalah jumlah produk yang dihasilkan dan X adalah jumlah input yang digunakan. Berapa produk rata-rata jika digunakan faktor produksi sebanyak 70 unit dan bagaimana kondisi perusahaan jika input ditambah satu unit?",
-                "choices": [
-                    "produk rata-rata = 600 dan perusahaan rugi",
-                    "produk rata-rata = 700 dan perusahaan untung",
-                    "produk rata-rata = 650 dan perusahaan untung",
-                    "produk rata-rata = 700 dan perusahaan rugi"
-                ],
-                "answer": "produk rata-rata = 700 dan perusahaan rugi"
-            }
-        ]
-  }
-  
+  "pai": [
+    {
+      "question": "Menurut ilmu tata bahasa arab kata iman berasal dari kata dasar “aamana”, kata tersebut menunjukkan bentuk kata yang berarti telah dilakukan. Dalam tata bahasa arab kata aamana tersebut adalah kata kerja (fi’il). Kata aamana di sini disebut fi’il....",
+      "choices": ["madhi", "mudhari", "amar", "nahyi"],
+      "answer": "madhi"
+    },
+    {
+      "question": "Seseorang tidak terpengaruh oleh berbagai kasus dari mana datangnya, baik dari kalangan jin dan manusia bahkan mungkin juga datang dari dirinya sendiri. Penjelasan tersebut jika diartikan lebih mendekati kepada pengertian....",
+      "choices": ["tawakal", "mawas diri", "bersikap ilmiah", "optimis"],
+      "answer": "mawas diri"
+    },
+    {
+      "question": "Pembinaan menurut etimologi berasal dari kata bana yang berarti....",
+      "choices": ["membangun", "mengembangkan", "mengadakan", "merenovasi"],
+      "answer": "membangun"
+    },
+    {
+      "question": "Pokok keutamaan hidup manusia yang tidak dimiliki hewan atau makhluk lainnya adalah....",
+      "choices": [
+        "harta, keturunan, jiwa",
+        "agama, akal, harta",
+        "agama, akal, jiwa",
+        "jiwa, akal, keturunan"
+      ],
+      "answer": "agama, akal, jiwa"
+    },
+    {
+      "question": "Akhlak yang mencerminkan sikap bertauhid adalah....",
+      "choices": [
+        "tidak riya’",
+        "menyembah berhala",
+        "main jelangkung",
+        "mempercayai ramalan zodiak"
+      ],
+      "answer": "tidak riya’"
+    },
+    {
+      "question": "Nikah yang hanya bersifat sementara dan sekadar bersenang-senang disebut nikah….",
+      "choices": ["muhallil", "mut’ah", "ziwaj", "sunnah"],
+      "answer": "mut’ah"
+    },
+    {
+      "question": "Berikut ini penjelasan Al-qur’an surat Ath-Thaariq ayat 6-7, kecuali",
+      "choices": [
+        "manusia diciptakan dari air yang terpancar",
+        "yang keluar dari antara tulang sulbi laki-laki",
+        "yang keluar dari tulang dada perempuan",
+        "yang masuk dari tulang sulbi laki-laki dan tulang dada perempuan"
+      ],
+      "answer": "yang masuk dari tulang sulbi laki-laki dan tulang dada perempuan"
+    },
+    {
+      "question": "Hakikat manusia menurut Al Mu’minun : 12 : 14, manusia adalah....",
+      "choices": [
+        "bersifat lahir dan gaib",
+        "makhluk sempurna",
+        "gumpalan daging",
+        "makhluk yang berbentuk"
+      ],
+      "answer": "bersifat lahir dan gaib"
+    },
+    {
+      "question": "Menurut surat Al Hujurat : 10 “ sesungguhnya orang muslim adalah..",
+      "choices": [
+        "bersaudara",
+        "orang yang adil",
+        "orang bertaqwa",
+        "orang yang menegakkan kebenaran"
+      ],
+      "answer": "bersaudara"
+    },
+    {
+      "question": "Allah tidak akan melihat rupa kalian, tampan atau jelek, dan tidak melihat materi kalian, kaya atau miskin, tetapi yang dilihat Allah adalah….",
+      "choices": ["amal ibadah", "sikap baik", "tingkah laku", "kesempatan"],
+      "answer": "amal ibadah"
+    },
+    {
+      "question": "Berikut ini adalah sebutan manusia dalam Al-qur’an, kecuali....",
+      "choices": ["Al-insan", "An-Naas", "Al-basyar", "An-Nisyan"],
+      "answer": "An-Nisyan"
+    },
+    {
+      "question": "Masyarakat beradab dan sejahtera dapat dikonseptualisasikan sebagai masyarakat....",
+      "choices": ["demokratis", "terbuka", "kota", "madani"],
+      "answer": "kota"
+    },
+    {
+      "question": "Ciri masyarakat menurut Soerjono Soekanto adalah di dalam diri manusia pada dasarnya telah terdapat keinginan untuk menjadi satu dengan manusia lainnya dan keinginan untuk....",
+      "choices": [
+        "beradaptasi dengan masyarakat di lingkungannya",
+        "menjadi satu dengan alam sekitarnya",
+        "mencari kehidupan yang layak",
+        "untuk berkarya dan berbudi daya"
+      ],
+      "answer": "menjadi satu dengan alam sekitarnya"
+    },
+    {
+      "question": "Asal-usul masyarakat menunjukkan fitrah manusia sebagai makhluk sosial dan dari fitrah tersebut kemudian melahirkan masyarakat. Hal tersebut terdapat dalam Al-qur’an Surat....",
+      "choices": [
+        "Ali Imran ayat 195",
+        "Al-Furqan ayat 45",
+        "Az-Zukhruuf ayat 32",
+        "At-Takatsur ayat 1-8"
+      ],
+      "answer": "Ali Imran ayat 195"
+    },
+    {
+      "question": "Sesungguhnya semulia-mulianya kalian di sisi Allah adalah yang paling bertakwa di antara kalian”. Ayat Alqur’an tersebut merupakan....",
+      "choices": [
+        "ayat penjelasan",
+        "ayat tuntutan",
+        "ayat larangan",
+        "ayat perintah"
+      ],
+      "answer": "ayat penjelasan"
+    },
+    {
+      "question": "Supremasi hukum adalah menempatkan hukum di atas segalanya dan menempatkannya tanpa memandang....",
+      "choices": [
+        "pelanggaran terhadap kebiasaan",
+        "pelanggaran terhadap perundang-undangan",
+        "pelanggaran terhadap norma adat",
+        "pelanggaran terhadap konvensi"
+      ],
+      "answer": "pelanggaran terhadap perundang-undangan"
+    },
+    {
+      "question": "Ketidakadilan merupakan suatu bentuk penyelewengan dari hakikat kemanusiaan yang dikutuk keras oleh Alqur’an. Ekspresi ketidakadilan tersebut tersirat dalam surat....",
+      "choices": [
+        "At-Takatsur dan Al-Humazah",
+        "An-Nisa dan Al-Maidah",
+        "Al-Hujurat dan Yunus",
+        "At-Takatsur dan Al-Maidah"
+      ],
+      "answer": "At-Takatsur dan Al-Humazah"
+    },
+    {
+      "question": "Keadilan sosial adalah tindakan adil terhadap setiap orang dan....",
+      "choices": [
+        "membebaskan segala penindasan",
+        "memperlakukan kesamarataan",
+        "melindungi kehidupan",
+        "menjamin kehidupan yang layak"
+      ],
+      "answer": "membebaskan segala penindasan"
+    },
+    {
+      "question": "Dalam perspektif Al-qur’an, Pancasila merupakan kalimat sawa di antara pelbagai kelompok yang ada di IndonesiA. Pendapat tersebut dikemukakan oleh....",
+      "choices": [
+        "Nurcholis Madjid",
+        "Amien Rais",
+        "Mukti Ali",
+        "Syafi’i Ma’arif"
+      ],
+      "answer": "Nurcholis Madjid"
+    },
+    {
+      "question": "Pesan penting Rasulullah tentang hak asasi manusia dikemukakan pada peristiwa....",
+      "choices": [
+        "Hijrah",
+        "Isra Mi'raj",
+        "menerima ayat pertama",
+        "Haji Wada"
+      ],
+      "answer": "menerima ayat pertama"
+    },
+    {
+      "question": "Sejarah demokrasi sudah dimulai sejak zaman Yunani Kuno. Demokrasi modern berkembang dengan ide-ide dan lembaga-lembaga dari tradisi pencerahan yang dimulai pada abad ke-16. tradisi tersebut berasal salah satunya dari ide “negara kontrak” yang digagas....",
+      "choices": [
+        "John Locke (1932-1704)",
+        "Machiavelli (1469-1527)",
+        "Thomas Hobbes (1588-1679)",
+        "Baron de Montesqueu (1689-1755)"
+      ],
+      "answer": "Thomas Hobbes (1588-1679)"
+    },
+    {
+      "question": "Wajib, sunah, makruh, haram dan mubah adalah merupakan garis besar hukum....",
+      "choices": ["agama", "Syari'at", "peradilan", "Syara'"],
+      "answer": "Syari'at"
+    },
+    {
+      "question": "Dua perkara yang diwariskan Nabi SAW dan apabila umat Islam berpegang teguh kepada keduanya maka akan selamat, kedua hal tersebut adalah...",
+      "choices": [
+        "Al-qur’an dan sunnah",
+        "segala bentuk perintah dan larangan",
+        "keluarga dan para sahabatnya",
+        "ilmu dan kekuasaan"
+      ],
+      "answer": "Al-qur’an dan sunnah"
+    },
+    {
+      "question": "Tidak semua yang dikerjakan Nabi SAW menjadi sumber hukum adalah sebagai berikut, kecuali....",
+      "choices": [
+        "segala sesuatu yang dianjurkan oleh Nabi SAW untuk dikerjakan",
+        "segala sesuatu yang berasal dari Nabi dalam kedudukannya sebagai manusia biasa; seperti cara beliau berjalan, duduk dan aktivitas lainnya yang tidak dikaitkan dengan hukum syari’at",
+        "segala sesuatu yang berasal dari beliau yang semata-mata hanya sebagai kebijaksanaan dalam masalah keduniaan",
+        "segala sesuatu yang dilakukan Nabi SAW dan dijelaskan oleh hukum syari’at baik al-qur’an maupun Hadits bahwa apa yang beliau lakukan hanya khusus berlaku bagi beliau sendiri, tidak untuk diikuti olehnya"
+      ],
+      "answer": "segala sesuatu yang dianjurkan oleh Nabi SAW untuk dikerjakan"
+    },
+    {
+      "question": "Yang termasuk agama wahyu adalah....",
+      "choices": ["Islam", "Kristen", "Yahudi", "Hindu"],
+      "answer": "Islam"
+    },
+    {
+      "question": "Agama masih memiliki peranan yang besar bagi kehidupan manusia modern untuk menghindari krisis moral. Hal tersebut karena ajaran-ajaran agama bersifat.....",
+      "choices": [
+        "relatif",
+        "absolut",
+        "bisa berubah",
+        "dapat disesuaikan dengan perubahan"
+      ],
+      "answer": "relatif"
+    },
+    {
+      "question": "Pernyataan berikut adalah termasuk klasifikasi agama, kecuali....",
+      "choices": [
+        "agama misionaris dan non misionaris",
+        "agama rasial dan agama universal",
+        "agama wahyu dan non wahyu",
+        "agama nabi dan agama manusia"
+      ],
+      "answer": "agama nabi dan agama manusia"
+    },
+    {
+      "question": "Budi pekerti yang berlandaskan nilai-nilai iman, Islam, ihsan merupakan definisi dari....",
+      "choices": ["muhsin", "akhlakul karimah", "ihsan", "akhlak"],
+      "answer": "akhlakul karimah"
+    },
+    {
+      "question": "Selain manusia didorong untuk mencari dan menggunakan ilmu, juga dia diwajibkan untuk menyebarluaskan ilmu, hal ini terdapat dalam Al-qur’an surat....",
+      "choices": [
+        "At-Taubat 122",
+        "Al-Baqarah 122",
+        "Al-Maidah 122",
+        "Ali Imran 122"
+      ],
+      "answer": "At-Taubat 122"
+    },
+    {
+      "question": "Dalam Al-qur’an terdapat 620 kata amal, padanan kata amal adalah....",
+      "choices": ["berpikir", "bertahan", "berjanji", "bekerja"],
+      "answer": "berpikir"
+    },
+    {
+      "question": "Prinsip tanggung jawab menurut pandangan agama Islam adalah, kecuali....",
+      "choices": [
+        "prinsip amanah",
+        "prinsip iman",
+        "prinsip prestasi",
+        "prinsip kekeluargaan"
+      ],
+      "answer": "prinsip kekeluargaan"
+    },
+    {
+      "question": "Budaya akademik dan Islam mengandung arti....",
+      "choices": [
+        "kebiasaan menyangkut masalah keilmuan dalam Islam",
+        "kebiasaan tentang tata cara beribadah dalam Islam",
+        "tradisi yang berkaitan dengan masalah ketuhanan",
+        "tradisi yang berhubungan dengan masalah keimanan"
+      ],
+      "answer": "kebiasaan menyangkut masalah keilmuan dalam Islam"
+    },
+    {
+      "question": "Berpikir rasional adalah ciri utama ajaran Islam maka Al-qur’an menantang setiap orang yang meragukan ajaran Islam untuk menggunakan budaya akademik, yaitu menggunakan tradisi keilmuan yang didasarkan prinsip-prinsip rasionalitas yang lurus. Di antara pernyataan Al-qur’an yang menunjukkan hal tersebut adalah surat....",
+      "choices": [
+        "Al-Qalam: ayat 4",
+        "Al-Fatihah ayat 2",
+        "Al-‘Alaq ayat 5",
+        "Al-Baqarah ayat 111"
+      ],
+      "answer": "Al-Qalam: ayat 4"
+    },
+    {
+      "question": "Di antara ajaran Al-quran agar seseorang memiliki etos kerja yang tinggi adalah bekerja sesuai dengan kompetensi, hal ini diisyaratkan dalam…",
+      "choices": [
+        "surat al-Baqarah ayat 28",
+        "surat ali-Imran ayat 110",
+        "surat al-Isra ayat 84",
+        "surat al-Jumu’ah ayat 9"
+      ],
+      "answer": "surat al-Baqarah ayat 28"
+    },
+    {
+      "question": "Islam sangat menekankan supaya manusia bersikap jujur. Di antara ayat-ayat yang memerintahkan supaya bersikap jujur adalah....",
+      "choices": [
+        "Al-Ahzab ayat 70",
+        "Al-Baqarah ayat 28",
+        "Ali-Imran ayat 110",
+        "Al-Isra ayat 84"
+      ],
+      "answer": "Al-Ahzab ayat 70"
+    },
+    {
+      "question": "Para ulama merumuskan tentang konsep politik yang diajarkan oleh Islam (Al-qur’an) meliputi, kecuali....",
+      "choices": [
+        "kewajiban untuk menunaikan amanah",
+        "perintah untuk menetapkan hukum dengan adil",
+        "perintah taat kepada Allah, Rasul dan Ulil Amr",
+        "perintah untuk taat kepada pimpinan walaupun diktator"
+      ],
+      "answer": "perintah untuk taat kepada pimpinan walaupun diktator"
+    },
+    {
+      "question": "Seseorang yang memegang kekuasaan politik wajib hukumnya untuk memiliki keterampilan mengkomunikasikan ide-ide yang tersusun dalam sebuah rencana yang baik dan matang untuk dapat memaksimalkan potensi setiap warganya untuk mencapai tujuan bersama, merupakan implementasi dari sifat....",
+      "choices": ["shidiq", "amanah", "tabligh", "fathanah"],
+      "answer": "tabligh"
+    },
+    {
+      "question": "Persatuan dan persamaan yang diajarkan Islam bukan berarti setiap orang boleh dipaksa agar menjadi sama atau seragam, tetapi mereka tetap memiliki kebebasan, berikut ini merupakan pernyataan yang benar tentang persatuan dan persamaan yang diajarkan oleh Islam, kecuali....",
+      "choices": [
+        "memeluk dan menjalankan keyakinan agama masing-masing",
+        "mengeluarkan pendapat dalam musyawarah bersama",
+        "melaksanakan aktivitas positif yang menjadi profesi dan kompetensinya",
+        "melaksanakan apapun yang menjadi kehendaknya"
+      ],
+      "answer": "melaksanakan apapun yang menjadi kehendaknya"
+    },
+    {
+      "question": "Agama yang benar dan diridhoi oleh Allah SWT adalah agama Islam, hal tersebut termaktub dalam surat...",
+      "choices": [
+        "An-Nur ayat 11-18",
+        "Ali-Imran ayat 19 dan 85",
+        "Al-An’am ayat 38",
+        "Al-A’raf ayat 127"
+      ],
+      "answer": "Ali-Imran ayat 19 dan 85"
+    },
+    {
+      "question": "Supaya manusia tidak keliru dalam mengaktualkan fitrahnya, maka Allah....",
+      "choices": [
+        "menciptakan langit dan bumi",
+        "mengutus para rasul dengan membawa wahyu Allah yang berisi tuntutan agama",
+        "menciptakan jin dan manusia supaya beribadah",
+        "menciptakan alam semesta sebagai perwujudan kekuasanNya"
+      ],
+      "answer": "mengutus para rasul dengan membawa wahyu Allah yang berisi tuntutan agama"
+    },
+    {
+      "question": "Fitrah terkait dengan Agama islam, ketika fitrah dipandang dalam hubungannya dengan syahadat, dalam pengertian ini fitrah merupakan....",
+      "choices": [
+        "kemampuan yang telah Allah ciptakan dalam diri manusia untuk mengenal Allah",
+        "kemampuan yang telah Allah ciptakan dalam diri manusia untuk berinteraksi dengan sesama manusia",
+        "kemampuan yang telah Allah ciptakan dalam diri manusia sebagai khalifah di bumi",
+        "kemampuan yang telah Allah ciptakan dalam diri manusia untuk berbuat baik"
+      ],
+      "answer": "kemampuan yang telah Allah ciptakan dalam diri manusia untuk mengenal Allah"
+    },
+    {
+      "question": "“Shibghah Allah dan siapakah yang lebih baik shibghahnya dari pada Allah? Dan hanya kepadanya lah kami menyembah” terdapat dalam surat....",
+      "choices": [
+        "An-Nur 11-18",
+        "Al-Baqarah ayat 138",
+        "Al-An’am ayat 38",
+        "Al-A’raf ayat 127"
+      ],
+      "answer": "An-Nur 11-18"
+    },
+    {
+      "question": "Pandangan yang menyatakan bahwa tauhid (Islam) telah menyatu dengan fitrah manusia terdapat dalam surat....",
+      "choices": [
+        "An-Nur ayat 11-18",
+        "Al-Qalam ayat 4",
+        "Al-An’am ayat 38",
+        "Al-A’raf ayat 7"
+      ],
+      "answer": "Al-A’raf ayat 7"
+    },
+    {
+      "question": "Kebebasan manusia mengandung makna tanggung jawab, petunjuk yang jelas tentang hal tersebut terdapat dalam...",
+      "choices": [
+        "An-Nur ayat 11-18",
+        "Al-Qalam ayat 4",
+        "Al-An’am ayat 38",
+        "Al-Ahzab ayat 72"
+      ],
+      "answer": "Al-Ahzab ayat 72"
+    },
+    {
+      "question": "Dalam surat Al-Hujurat ayat 11 dan 12 terdapat kode etik warga masyarakat muslim, diantaranya adalah, kecuali..",
+      "choices": [
+        "bahwa mereka tidak boleh saling melecehkan dan menghina",
+        "sesama orang beriman tidak boleh saling berprasangka buruk",
+        "menegakkan perdamaian",
+        "yang muda harus mengikuti pendapat yang lebih tua"
+      ],
+      "answer": "yang muda harus mengikuti pendapat yang lebih tua"
+    },
+    {
+      "question": "Yang merupakan hikmah salat adalah membentuk sifat….\n1) disiplin\n2) menghapus dosa\n3) mencegah perbuatan dzalim",
+      "choices": [
+        "1) DAN 2) BENAR",
+        "1) DAN 3) BENAR",
+        "2) DAN 3) BENAR",
+        "1), 2), DAN 3) SEMUANYA BENAR"
+      ],
+      "answer": "1), 2), DAN 3) SEMUANYA BENAR"
+    },
+    {
+      "question": "Penyampaian wahyu yang melalui perantara utusan (malaikat jibril) merupakan bentuk wahyu yang tertinggi karena....\n1) wahyu yang disampaikan harus disebarkan kepada orang lain\n2) harus dapat membaca wahyu yang berbentuk tulisan\n3) harus cepat mengerti dan dihapalkan",
+      "choices": [
+        "1) DAN 2) BENAR",
+        "1) DAN 3) BENAR",
+        "2) DAN 3) BENAR",
+        "1), 2), DAN 3) SEMUANYA BENAR"
+      ],
+      "answer": "1), 2), DAN 3) SEMUANYA BENAR"
+    },
+    {
+      "question": "Sikap adil yang dibicarakan dalam Al-qur’an, tidak hanya pada proses penetapan hukum atau terhadap pihak yang berselisih melainkan menyangkut berbagai aspek kehidupan beragama, diantaranya adalah....\n1) aspek aqidah\n2) aspek syari’ah\n3) aspek akhlaq",
+      "choices": [
+        "1) DAN 2) BENAR",
+        "1) DAN 3) BENAR",
+        "2) DAN 3) BENAR",
+        "1), 2), DAN 3) SEMUANYA BENAR"
+      ],
+      "answer": "1) DAN 2) BENAR"
+    },
+    {
+      "question": "Sikap amanah adalah sendi utama dalam berinteraksi sosial terutama dalam bidang kekuasaan politik. Seorang muslim yang menggunakan hak pilihnya pada pelaksanaan PEMILU KADA, perbuatan tersebut termasuk perbuatan amanah pada....\n1) bidang politik hukum\n2) bidang sosial budaya\n3) bidang pendidikan politik",
+      "choices": [
+        "1) DAN 2) BENAR",
+        "1) DAN 3) BENAR",
+        "2) DAN 3) BENAR",
+        "1), 2), DAN 3) SEMUANYA BENAR"
+      ],
+      "answer": "1) DAN 2) BENAR"
+    },
+    {
+      "question": "“Sesungguhnya agama yang (diridhai) di sisi Allah hanyalah Islam”. Penjelasan tersebut terdapat dalam....\n1) Al-qur’an\n2) Al-hadits\n3) Al-kitab",
+      "choices": [
+        "1) DAN 2) BENAR",
+        "1) DAN 3) BENAR",
+        "2) DAN 3) BENAR",
+        "1), 2), DAN 3) SEMUANYA BENAR"
+      ],
+      "answer": "1) DAN 2) BENAR"
+    }
+  ],
+  "bahasaindonesia": [
+    {
+      "question": "Alasan mengapa bahasa Melayu menjadi dasar lahirnya bahasa Indonesia adalah karena ...",
+      "choices": [
+        "merupakan bahasa para raja",
+        "sudah dikenal di banyak wilayah Nusantara",
+        "memiliki fonem lebih banyak dibandingkan dengan bahasa lain",
+        "memiliki sifat bersahaja"
+      ],
+      "answer": "sudah dikenal di banyak wilayah Nusantara"
+    },
+    {
+      "question": "Butir pertama Sumpah Pemuda berbunyi “Kami putra dan putri Indonesia mengaku bertumpah darah yang satu, tanah Indonesia.” Butir ketiga berbunyi ...",
+      "choices": [
+        "Kami putra dan putri Indonesia mengaku berbangsa yang satu, bangsa Indonesia.",
+        "Kami putra dan putri Indonesia mengaku bernegara yang satu, negara Indonesia.",
+        "Kami putra dan putri Indonesia mengaku berbahasa yang satu, bahasa Indonesia.",
+        "Kami putra dan putri Indonesia menjunjung bahasa persatuan, bahasa Indonesia."
+      ],
+      "answer": "Kami putra dan putri Indonesia menjunjung bahasa persatuan, bahasa Indonesia."
+    },
+    {
+      "question": "Bahasa Indonesia memiliki kedudukan sebagai bahasa nasional dengan fungsi sebagai ...",
+      "choices": [
+        "lambang kebanggaan nasional",
+        "lambang identitas nasional",
+        "alat pemersatu berbagai suku bangsa",
+        "alat perhubungan antardaerah dan antarbudaya"
+      ],
+      "answer": "lambang kebanggaan nasional"
+    },
+    {
+      "question": "Contoh penggunaan kata yang benar dan berkaitan dengan pengetahuan agama adalah ...",
+      "choices": [
+        "Ka’bah adalah bangunan berbentuk kubus yang berada di Masjidilharam di Mekah.",
+        "Kaabah adalah bangunan suci yang terletak di dalam Masjidilharam di Mekah.",
+        "Kabah adalah bangunan yang dikelilingi umat Islam ketika melakukan tawaf.",
+        "Kakbah adalah kiblat umat Islam ketika melakukan salat, bukan bangunan yang disembah."
+      ],
+      "answer": "Kakbah adalah kiblat umat Islam ketika melakukan salat, bukan bangunan yang disembah."
+    },
+    {
+      "question": "Pernyataan yang menyatakan bahwa pada hakikatnya bahasa adalah ujar atau lisan adalah ...",
+      "choices": [
+        "ragam bahasa terdiri atas ragam lisan dan ragam tulis",
+        "komunikasi sudah terjadi sejak manusia pertama ada ketika itu belum ada bahasa tulis",
+        "orang lebih banyak menggunakan bahasa lisan ketika berkomunikasi dibandingkan dengan bahasa tulis",
+        "bahasa tulis hanya dapat digunakan oleh orang-orang terpelajar"
+      ],
+      "answer": "komunikasi sudah terjadi sejak manusia pertama ada ketika itu belum ada bahasa tulis"
+    },
+    {
+      "question": "Sebagai alat komunikasi, bahasa baru dikatakan efektif jika dipahami oleh pelaku komunikasi. Hal ini berarti bahwa bahasa adalah ...",
+      "choices": ["ujaran", "tulisan", "memiliki makna", "memiliki fungsi"],
+      "answer": "memiliki makna"
+    },
+    {
+      "question": "Sondang yang berasal dari Batak belum dapat melafalkan fonem /e/ menjadi /?/., kata 'apel' selalu dilafalkan [apel]. Hal ini menunjukkan bahwa bahasa memiliki sifat ...",
+      "choices": ["dinamis", "variatif", "konvensional", "arbitrer"],
+      "answer": "variatif"
+    },
+    {
+      "question": "Mengapa hewan kecil yang hidup bergerombol di lubang disebut semut bukan nyamuk atau gajah? Hal ini menunjukkan bahwa bahasa memiliki sifat ...",
+      "choices": ["variatif", "dinamis", "manusiawi", "arbitrer"],
+      "answer": "arbitrer"
+    },
+    {
+      "question": "Menyimak dan membaca merupakan keterampilan berbahasa yang bersifat reseptif. Arti reseptif di sini adalah keterampilan yang berupa kegiatan ...",
+      "choices": [
+        "menerapkan sebuah pengetahuan",
+        "memahami pesan atau gagasan",
+        "menyampaikan pesan atau gagasan",
+        "mengolah pengetahuan dengan teknik tertentu"
+      ],
+      "answer": "memahami pesan atau gagasan"
+    },
+    {
+      "question": "Menyimak yang dalam kurikulum mata pelajaran bahasa Indonesia sering disebut mendengarkan adalah kegiatan ...",
+      "choices": [
+        "memahami pesan atau gagasan yang disampaikan secara lisan",
+        "memahami pesan atau gagasan yang disampaikan secara tertulis",
+        "menyampaikan pesan atau gagasan yang disampaikan secara lisan",
+        "menyampaikan pesan atau gagasan yang disampaikan secara tertulis"
+      ],
+      "answer": "memahami pesan atau gagasan yang disampaikan secara lisan"
+    },
+    {
+      "question": "Ilustrasi ini menunjukkan adanya hubungan antara keterampilan menulis dengan membaca.",
+      "choices": [
+        "Amin sedang menulis garis-garis besar pembicaraan yang akan disampaikan pada acara pembukaan yayasan TPA As-Salam.",
+        "Rakhmat sedang membaca buku yang berisi tentang falsafah hidup yang akan disampaikan dalam ceramahnya besok pagi.",
+        "Ridwan sedang menyelesaikan artikelnya, sesekali ia berhenti menulis untuk membaca buku-buku yang berserakan di meja kerjanya.",
+        "Erni mendengarkan ceramah agama sambil mencatat hal-hal yang dianggapnya penting."
+      ],
+      "answer": "Ridwan sedang menyelesaikan artikelnya, sesekali ia berhenti menulis untuk membaca buku-buku yang berserakan di meja kerjanya."
+    },
+    {
+      "question": "Faktor intelegensi sangat berpengaruh terhadap daya simak kemampuan menyimak seseorang. Hal ini disebabkan oleh ...",
+      "choices": [
+        "menyimak sebagai suatu keterampilan",
+        "menyimak merupakan suatu kegiatan yang sulit",
+        "banyaknya unsur bahasa yang harus dipahami oleh seorang penyimak",
+        "menyimak adalah kegiatan yang dilakukan oleh para pelajar"
+      ],
+      "answer": "banyaknya unsur bahasa yang harus dipahami oleh seorang penyimak"
+    },
+    {
+      "question": "Faktor kemampuan menarik kesimpulan sangat berpengaruh terhadap daya simak seseorang. Artinya orang yang memiliki kemampuan menyimak yang baik akan ...",
+      "choices": [
+        "memberikan kesimpulan yang salah pada akhir kegiatan menyimak",
+        "menjelaskan isi simakan yang berbeda dengan bahan simakan",
+        "memberikan kesimpulan sesuai dengan bahan yang disimaknya",
+        "menulis rangkuman yang tidak sesuai dengan bahan simakan"
+      ],
+      "answer": "memberikan kesimpulan sesuai dengan bahan yang disimaknya"
+    },
+    {
+      "question": "Kakak teman Pak Gatot dari Jember baru datang tadi pagi. Kalimat tersebut diucapkan oleh seorang adik kepada kakaknya dengan intonasi yang salah. Intonasi yang tepat adalah ...",
+      "choices": [
+        "Kakak/ teman Pak Gatot dari Jember baru/ datang tadi pagi.",
+        "Kakak teman Pak Gatot/ dari Jember baru datang/ tadi pagi.",
+        "alat pemersatu berbagai suku bangsa",
+        "Kakak teman Pak Gatot/ dari Jember/ baru datang tadi pagi."
+      ],
+      "answer": "Kakak teman Pak Gatot/ dari Jember/ baru datang tadi pagi."
+    },
+    {
+      "question": "Bonar sedang mencuci motor, ketika sebuah stasiun radio memperdengarkan lagu ‘Arti Sahabat’ yang dinyanyikan oleh kelompok Nidji, Bonar makin semangat mencuci motor sambil menyanyi. Jenis menyimak yang dilakukan Bonar adalah menyimak ...",
+      "choices": ["estetis", "kritis", "kreatif", "sekunder"],
+      "answer": "sekunder"
+    },
+    {
+      "question": "Para siswa dengan penuh perhatian mendengarkan pembacaan petunjuk yang dibacakan guru. Jenis kegiatan menyimak yang dilakukan para siswa adalah menyimak ...",
+      "choices": ["interaktif", "pasif", "estetis", "konsentratif"],
+      "answer": "konsentratif"
+    },
+    {
+      "question": "Membaca merupakan suatu proses merekonstruksi makna. Artinya membaca adalah kegiatan ...",
+      "choices": [
+        "mengubah lambang visual (katon) menjadi lambang bunyi",
+        "mengubah kode-kode atau lambang-lambang verbal menjadi bunyi-bunyi bahasa yang dapat dipahami",
+        "menangkap informasi atau makna sesuai dengan informasi yang disampaikan penulis",
+        "menjelaskan informasi sesuai dengan informasi yang disampaikan penulis"
+      ],
+      "answer": "menangkap informasi atau makna sesuai dengan informasi yang disampaikan penulis"
+    },
+    {
+      "question": "Beberapa kemampuan mikro yang harus dimiliki seorang pembaca intensif adalah sebagai berikut, kecuali ...",
+      "choices": [
+        "mengenali lambang-lambang tulis",
+        "memahami makna tersirat",
+        "memahami kata-kata sulit",
+        "memahami informasi tersurat"
+      ],
+      "answer": "memahami makna tersirat"
+    },
+    {
+      "question": "Pengertian pemahaman literal dalam kegiatan membaca adalah kemampuan pembaca dalam memahami ...",
+      "choices": [
+        "makna kata yang digunakan penulis",
+        "makna kata-kata sulit yang terdapat dalam bacaan",
+        "makna atau pesan secara tersurat",
+        "makna di balik pesan yang terdapat di dalam bacaan"
+      ],
+      "answer": "makna atau pesan secara tersurat"
+    },
+    {
+      "question": "Untuk memperoleh informasi dari karya-karya ilmiah pendek, teknik CATU tepat digunakan dengan cara ...",
+      "choices": [
+        "catat dan tulis kembali",
+        "catat, tulis-kembali, dan uji",
+        "catat, tanya, dan ulang",
+        "catat atau tuliskan"
+      ],
+      "answer": "catat, tulis-kembali, dan uji"
+    },
+    {
+      "question": "Salah satu karakteristik membaca ekstensif berkaitan dengan pembaca, adalah ...",
+      "choices": [
+        "bahan bacaan sesuai dengan minat atau keperluan pembaca",
+        "cakupannya lebih luas, lebih banyak, dan lebih variatif",
+        "kegiatannya bersifat individual",
+        "waktu membaca tidak mengikat"
+      ],
+      "answer": "bahan bacaan sesuai dengan minat atau keperluan pembaca"
+    },
+    {
+      "question": "Tujuan membaca cepat dengan teknik skimming adalah ...",
+      "choices": [
+        "mengisi waktu luang",
+        "memahami isi bacaan secara mendalam",
+        "mencari informasi tertentu dari sebuah bacaan",
+        "menghayati isi bacaan agar dapat menceritakan isinya dengan baik"
+      ],
+      "answer": "mencari informasi tertentu dari sebuah bacaan"
+    },
+    {
+      "question": "Karakteristik karya ilmiah populer adalah ...",
+      "choices": [
+        "bentuknya lebih kecil dari karya ilmiah murni",
+        "isinya lebih sederhana dibandingkan karya ilmiah murni",
+        "bahasanya lebih ringan, mudah dimengerti, dan enak dibaca",
+        "ilustrasinya lebih banyak sehingga maksudnya menjadi lebih jelas"
+      ],
+      "answer": "bahasanya lebih ringan, mudah dimengerti, dan enak dibaca"
+    },
+    {
+      "question": "Tesis adalah sebuah karya ilmiah yang disusun oleh seorang ...",
+      "choices": [
+        "calon mahasiswa",
+        "mahasiswa program S1",
+        "mahasiswa program S2",
+        "mahasiswa program S3"
+      ],
+      "answer": "mahasiswa program S2"
+    },
+    {
+      "question": "Contoh karya ilmiah populer berbentuk deskriptif-ekspositoris adalah ...",
+      "choices": [
+        "sejarah berdirinya Candi Borobudur",
+        "hasil penelitian tentang ragam bahasa Betawi",
+        "jenis-jenis ikan hias lokal",
+        "kisah 26 Desember 2004"
+      ],
+      "answer": "sejarah berdirinya Candi Borobudur"
+    },
+    {
+      "question": "Kemampuan tertinggi yang dimiliki pembaca dengan pemahaman literal adalah ...",
+      "choices": [
+        "menghubungkan simbol-simbol bahasa menjadi kata yang bermakna",
+        "merekonstruksi makna-makna menjadi suatu informasi yang utuh",
+        "menangkap pesan atau informasi yang terdapat dalam bacaan",
+        "menangkap makna di balik informasi yang dituangkan dalam bacaan"
+      ],
+      "answer": "menangkap pesan atau informasi yang terdapat dalam bacaan"
+    },
+    {
+      "question": "Seorang pembaca yang memiliki tingkat pemahaman interpretatif mampu ...",
+      "choices": [
+        "menangkap makna kata-kata",
+        "menangkap makna tersurat",
+        "menangkap makna tersirat",
+        "menilai isi bacaan"
+      ],
+      "answer": "menangkap makna tersirat"
+    },
+    {
+      "question": "”Tsunami yang menimpa Aceh terjadi pada tanggal 25 Desember 2004.” Seorang pembaca kritis yang membaca wacana tersebut akan ...",
+      "choices": [
+        "menangkap informasi tersebut apa adanya",
+        "menangkap makna di balik kejadian yang terdapat dalam bacaan tersebut",
+        "membuat cerita atau puisi berdasarkan bacaan tersebut",
+        "memperbaiki kesalahan yang terdapat dalam wacana itu"
+      ],
+      "answer": "memperbaiki kesalahan yang terdapat dalam wacana itu"
+    },
+    {
+      "question": "Setelah membaca bacaan yang berisi tingkah laku seekor hewan yang lucu, Anggi membuat sebuah puisi tentang kebesaran Allah. Dalam hal ini Anggi tergolong pembaca dengan tingkat pemahaman ...",
+      "choices": ["literal", "interpretatif", "kritis", "kreatif"],
+      "answer": "kreatif"
+    },
+    {
+      "question": "Peletak dasar utama teknologi pertelevisian adalah Paul Nipkow dari Jerman. Pada tahun 1884 ia menemukan sebuah alat, kemudian disebut sebagai Jantra Nipkow. Penemuan tersebut telah melahirkan electrische teleskop atau televisi elektris. Isi paragraf di atas adalah ...",
+      "choices": [
+        "kehidupan Paul Nipkow",
+        "penemu televisi elektris",
+        "stasiun televisi di Jerman",
+        "teknologi pertelevisian"
+      ],
+      "answer": "penemu televisi elektris"
+    },
+    {
+      "question": "Rina membaca sebuah wacana yang terdiri atas 1200 kata dalam waktu 3 menit. Ia menjawab dengan benar 7 dari 10 pertanyaan bacaan yang diajukan. Dengan demikian, dikatakan Rina memiliki kemampuan efektif membaca (KEM) yaitu ...",
+      "choices": ["240 KPM", "260 KPM", "280 KPM", "300 KPM"],
+      "answer": "280 KPM"
+    },
+    {
+      "question": "Salah satu cara untuk mengetahui baik buruknya sebuah tulisan adalah menilai organisasi tulisan yaitu ...",
+      "choices": [
+        "pendahuluan, isi, dan penutup",
+        "pilihan kata, penyusunan kalimat, dan penyusunan paragraf",
+        "daftar isi, kata pengantar, dan isi",
+        "daftar isi, isi, dan daftar pustaka"
+      ],
+      "answer": "pendahuluan, isi, dan penutup"
+    },
+    {
+      "question": "Dengan berbicara seseorang dapat menyatakan perasaan dan pikirannya. Pernyataan ini menjelaskan bahwa berbicara merupakan kegiatan ...",
+      "choices": [
+        "yang dilakukan secara lisan",
+        "mengekspresikan diri",
+        "yang bersifat produktif",
+        "berbahasa yang unik"
+      ],
+      "answer": "mengekspresikan diri"
+    },
+    {
+      "question": "Salah satu contoh konteks fisik yang berpengaruh terhadap kegiatan berbicara nonformal adalah ...",
+      "choices": [
+        "peserta komunikasi",
+        "emosi para pelaku komunikasi",
+        "karakteristik budaya",
+        "malam hari"
+      ],
+      "answer": "peserta komunikasi"
+    },
+    {
+      "question": "Para pahlawan nasional yang gugur di medan perang tergolong orang-orang yang mati sah",
+      "choices": ["gugur", "meninggal", "wafat", "mati"],
+      "answer": "gugur"
+    },
+    {
+      "question": "Pandangan mata sebagai faktor nonkebahasaan sangat penting dalam kegiatan berbicara formal, karena ...",
+      "choices": [
+        "dapat membantu pendengar dalam memahami apa yang dibicarakan",
+        "menumbuhkan hubungan psikologis antara pembicara dengan pendengar",
+        "dapat mengundang perhatian pendengar sehingga menjadi lebih fokus",
+        "akan membangun penampilan dan percaya diri pembicara"
+      ],
+      "answer": "menumbuhkan hubungan psikologis antara pembicara dengan pendengar"
+    },
+    {
+      "question": "Hal yang pertama dan sangat penting, harus dilakukan seorang pembicara adalah ...",
+      "choices": [
+        "membuat persiapan",
+        "mencari referensi",
+        "berlatih",
+        "membuat simpulan"
+      ],
+      "answer": "membuat persiapan"
+    },
+    {
+      "question": "Isi bagian pembuka sebuah tulisan yang baik adalah ...",
+      "choices": [
+        "pengantar menuju inti persoalan yang hendak disajikannya pada bagian isi",
+        "pengalaman hidup si penulis",
+        "paparan pokok-pokok inti tulisan",
+        "simpulan, keinginan-keinginan, atau harapan-harapan yang ingin dicapai"
+      ],
+      "answer": "pengantar menuju inti persoalan yang hendak disajikannya pada bagian isi"
+    },
+    {
+      "question": "Satu dari beberapa syarat kalimat efektif adalah memiliki bentuk yang sejajar, contohnya adalah ...",
+      "choices": [
+        "Dia belajar dengan sungguh-sungguh agar memperoleh nilai yang baik.",
+        "Dia sangat tidak suka dengan orang yang membuang sampah tidak pada tempatnya.",
+        "Dia yang mencari uang, membeli bahan makanan, memasak, dan menyajikan makanan tersebut untuk keluarganya.",
+        "Dia orang yang tidak pernah mengeluh, apapun masalah yang menimpanya dihadapinya dengan sabar."
+      ],
+      "answer": "Dia yang mencari uang, membeli bahan makanan, memasak, dan menyajikan makanan tersebut untuk keluarganya."
+    },
+    {
+      "question": "Sebuah tulisan dikatakan baik jika kalimat-kalimatnya disusun secara efektif. Kalimat yang tidak efektif akan membuat pembaca menjadi bingung dan dapat menimbulkan salah penafsiran, seperti contoh berikut ini “Gempa bumi di Tasikmalaya banyak memakan korban, 60 orang meninggal, tetapi tidak ada yang melapor.” Jenis paragraf di atas adalah ...",
+      "choices": ["narasi", "argumentasi", "deskripsi", "persuasi"],
+      "answer": "argumentasi"
+    },
+    {
+      "question": "Unsur-unsur bahasa berikut ini terdapat dalam sebuah paragraf yang memenuhi syarat kepaduan, kecuali ...",
+      "choices": [
+        "repetisi atau pengulangan kata kunci",
+        "kata ganti (orang, tunjuk)",
+        "semua kalimat saling berkaitan satu dengan lainnya",
+        "kata transisi dan paralelisme"
+      ],
+      "answer": "semua kalimat saling berkaitan satu dengan lainnya"
+    },
+    {
+      "question": "Predikat adalah bagian kalimat yang memberitahukan hal-hal yang berkenaan dengan subjek. Subjek adalah bagian kalimat yang bertindak sebagai pelaku. Predikat dapat berupa kata atau frasa, sebagian besar berkelas verba atau adjektiva. Letak predikat tidak pernah berjauhan dengan subjek. Paragraf tersebut tidak memenuhi syarat kesatuan. Hal ini disebabkan oleh adanya kalimat ...",
+      "choices": ["pertama", "kedua", "ketiga", "keempat"],
+      "answer": "kedua"
+    },
+    {
+      "question": "Predikat adalah bagian kalimat yang memberitahukan hal-hal yang berkenaan dengan subjek. Predikat dapat berupa kata atau frasa, sebagian besar berkelas verba atau adjektiva. Letak predikat tidak pernah berjauhan dengan subjek. Ia juga senantiasa diikuti oleh objek. Teknik yang digunakan dalam mengembangkan paragraf di atas adalah pengembangan ...",
+      "choices": ["secara alamiah", "klimaks", "perbandingan", "sebab akibat"],
+      "answer": "secara alamiah"
+    },
+    {
+      "question": "Indonesia merupakan satu-satunya negara paling aneh di dunia. Orang Barat terheran-heran mendengarkan nada-nada musik tradisional Indonesia yang pentatonis itu, tidak dapat diukur oleh garpu tala. Orang-orang dari negara tetangga juga heran melihat perilaku bangsa ini yang katanya murah senyum, tetapi sering kali bersikap anarkis (tawuran, merusak, membunuh) dan kekerasan yang lain. Katanya 90% penduduknya penganut agama yang baik, tetapi senang sekali menyusahkan orang lain. Negaranya sangat kaya dengan hasil pertanian/perkebunan, barang tambang, dan hasil hutan kayu, rotan, dan tumbuhan obat-obatan, tetapi rakyatnya banyak yang kelaparan. Peringkat orang kaya meningkat, tetapi jumlah si miskinnya bertambah. Teknik pengembangan yang digunakan dalam menyusun paragraf tersebut adalah pengembangan ...",
+      "choices": ["analogi", "contoh-contoh", "perbandingan", "sebab akibat"],
+      "answer": "contoh-contoh"
+    },
+    {
+      "question": "Bogor dikenal dengan sebutannya sebagai Kota Hujan. Bogor memang berada di ketinggian beberapa ribu kaki di atas permukaan laut. Letaknya yang tinggi ini membuat awan-awan tebal di atas kota Bogor cepat mencair menjadi hujan. Di samping itu, Bogor juga dikelilingi gunung dan perbukitan dengan hutannya yang masih rimbun. Keadaan alam inilah yang sering kali mampu menahan awan-awan tebal untuk kemudian menghasilkan curahan hujan yang cukup banyak. Teknik pengembangan yang digunakan dalam menyusun paragraf di atas adalah pengembangan ...",
+      "choices": ["deduktif", "induktif", "klimaks", "antiklimaks"],
+      "answer": "deduktif"
+    },
+    {
+      "question": "Membaca adalah kegiatan yang pertama kali harus dilakukan oleh seorang penulis ringkasan. Kegiatan ini dilakukan untuk ...",
+      "choices": [
+        "mengenali pengarang secara lebih dalam",
+        "memilah-milah bagian inti dan bukan inti",
+        "mengetahui tujuan penulis, pokok masalah atau tema tulisan",
+        "gaya yang digunakan penulis dalam tulisannya"
+      ],
+      "answer": "mengetahui tujuan penulis, pokok masalah atau tema tulisan"
+    },
+    {
+      "question": "Abstrak adalah ringkasan sebuah karya ilmiah yang disusun dengan memenuhi kriteria sebagai berikut, kecuali ...",
+      "choices": [
+        "disajikan dalam bentuk paparan informatif",
+        "bahasa yang digunakan lugas, singkat, padat, dan jelas",
+        "sekurang-kurangnya berisi masalah, tujuan, kesimpulan dan saran",
+        "riwayat hidup penulis"
+      ],
+      "answer": "riwayat hidup penulis"
+    },
+    {
+      "question": "Resensi dapat diartikan sebagai ...",
+      "choices": [
+        "tulisan dalam bentuk buku",
+        "tulisan yang berisi ulasan mengenai nilai sebuah buku",
+        "lukisan/gambar yang digunakan sebagai ilustrasi sebuah buku",
+        "lukisan/gambar yang digunakan sebagai sampul depan sebuah buku"
+      ],
+      "answer": "tulisan yang berisi ulasan mengenai nilai sebuah buku"
+    },
+    {
+      "question": "Resensi biasanya disusun dengan menggunakan pola sebagai berikut ...",
+      "choices": [
+        "judul, perwajahan, pembukaan, pembahasan, penutup, identitas peresensi",
+        "perwajahan, judul, pembukaan, pembahasan, penutup, identitas peresensi",
+        "pembukaan, judul, perwajahan, pembahasan, penutup, identitas peresensi",
+        "identitas peresensi, judul, perwajahan, pembukaan, pembahasan, penutup"
+      ],
+      "answer": "judul, perwajahan, pembukaan, pembahasan, penutup, identitas peresensi"
+    },
+    {
+      "question": "Teknik cutting and glueing dalam pembuatan resensi adalah ...",
+      "choices": [
+        "memotong-motong bagian-bagian buku yang sedang diresensi",
+        "memotong bagian-bagian penting dan menarik dari isi buku dan merekatkan satu dengan yang lainnya",
+        "mengambil bagian penting isi buku dan memadukannya dengan isi buku lain yang bertema sama",
+        "mengambil bagian yang sangat penting dalam buku yang sedang diresensi"
+      ],
+      "answer": "memotong bagian-bagian penting dan menarik dari isi buku dan merekatkan satu dengan yang lainnya"
+    },
+    {
+      "question": "Penulisan resensi yang berfokus pada bagian yang sangat penting atau sangat menarik adalah penulisan yang menggunakan teknik ...",
+      "choices": ["cutting and glueing", "comparing", "focusing", "scanning"],
+      "answer": "focusing"
+    },
+    {
+      "question": "Pengertian kerangka karangan dalam proses menulis adalah ...",
+      "choices": [
+        "bahan-bahan yang akan digunakan di dalam kegiatan menulis",
+        "alat-alat yang akan digunakan di dalam kegiatan menulis",
+        "rencana atau rancangan yang berisi topik dan subtopik yang disusun secara sistematis",
+        "ide atau gagasan yang akan dikembangkan menjadi sebuah masalah yang akan ditulis"
+      ],
+      "answer": "rencana atau rancangan yang berisi topik dan subtopik yang disusun secara sistematis"
+    },
+    {
+      "question": "Akhmadi, M. 1990. Dasar-dasar Komposisi Bahasa Indonesia. Malang: Yayasan Asih Asah Asuh. (1990). Penulisan daftar pustaka tersebut tidak tepat, yang tepat adalah ...",
+      "choices": [
+        "M., Akhmadi. 1990. Dasar-dasar Komposisi Bahasa Indonesia. Malang: Yayasan Asih Asah Asuh.",
+        "M., Akhmadi. Dasar-dasar Komposisi Bahasa Indonesia. Malang: Yayasan Asih Asah Asuh. (1990).",
+        "Akhmadi, M. Dasar-dasar Komposisi Bahasa Indonesia. Malang: Yayasan Asih Asah Asuh. (1990).",
+        "Akhmadi, M. 1990. Dasar-dasar Komposisi Bahasa Indonesia. Malang: Yayasan Asih Asah Asuh."
+      ],
+      "answer": "Akhmadi, M. 1990. Dasar-dasar Komposisi Bahasa Indonesia. Malang: Yayasan Asih Asah Asuh."
+    },
+    {
+      "question": "”Retorika merupakan seni berbicara yang wajib dipelajari oleh para profesional muda”. Jika ini sebuah kutipan langsung, maka terdapat beberapa kesalahan, seharusnya adalah ...",
+      "choices": [
+        "Lis berpendapat bahwa, “Retorika merupakan seni berbicara yang wajib dipelajari oleh para profesional muda”.",
+        "Lis berpendapat (2000: 14); “Retorika merupakan seni berbicara yang wajib dipelajari oleh para profesional muda”.",
+        "Lis berpendapat bahwa “Retorika merupakan seni berbicara yang wajib dipelajari oleh para profesional muda”.",
+        "Lis (2000: 14) berpendapat bahwa “Retorika merupakan seni berbicara yang wajib dipelajari oleh para profesional muda”."
+      ],
+      "answer": "Lis (2000: 14) berpendapat bahwa “Retorika merupakan seni berbicara yang wajib dipelajari oleh para profesional muda”."
+    }
+  ],
+  "ppkn": [
+    {
+      "question": "Manifestasi dari kedaulatan yang dimiliki sebuah negara tercermin dalam berbagai sifat, diantaranya....",
+      "choices": [
+        "A. oligopoli",
+        "B. mencakup semua",
+        "C. tidak memaksa",
+        "D. berkonsep konkrit"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Tujuan pendidikan kewarganegaraan diarahkan pada....",
+      "choices": [
+        "A. kelangsungan hidup satu generasi bangsa",
+        "B. pendidikan fisik",
+        "C. pendidikan militer bagi kaum pelajar",
+        "D. pembinaan sikap dan kemampuan bela negara"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Pembangunan nasional sebagai wujud cinta tanah air, kesadaran berbangsa dan bernegara dalam kerangka ketahanan nasional, diwujudkan sesuai dengan arahan kebijaksanaan dan strategi perencanaan dan pelaksanaan pembangunan nasional Republik Indonesia yang dirumuskan dengan jelas dalam...",
+      "choices": [
+        "A. propenas",
+        "B. pendidikan kewarganegaraan",
+        "C. visi dan misi kabinet Indonesia Bersatu",
+        "D. otonomi daerah"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Dalam ikrar Sumpah Pemuda 28 Oktober 1928, ‘Bertanah air satu tanah air Indonesia’, secara hakikat menggambarkan konsep satu kesatuan...",
+      "choices": [
+        "A. biologis",
+        "B. geografi",
+        "C. politik",
+        "D. sosial budaya"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Perwujudan kepulauan nusantara sebagai satu kesatuan politik diantaranya adalah....",
+      "choices": [
+        "A. tingkat perkembangan ekonomi harus seimbang di seluruh daerah",
+        "B. terdapatnya tingkat kemajuan masyarakat yang sama",
+        "C. secara psikologis bangsa Indonesia mempunyai satu tekad mencapai cita-cita bangsa",
+        "D. tiap warga negara mempunyai hak dan kewajiban sama dalam membela negara"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Munculnya Angkatan “penegas” Sumpah Pemuda (Tahun 1928) menandai perubahan strategi perjuangan dalam melawan penjajah yakni dari strategi perlawanan bersenjata secara lokal menjadi strategi perjuangan dengan jalan....",
+      "choices": [
+        "A. pendidikan",
+        "B. sosialisasi lembaga koperasi",
+        "C. penyebaran agama Islam",
+        "D. asimilasi budaya melalui perkawinan antar ras atau suku bangsa"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Kualitas yang menunjukkan kekuatan sebagaimana dipersepsikan pihak lain, adalah makna dari salah satu kata kunci dalam konsep ketahanan nasional yaitu...",
+      "choices": [
+        "A. integritas",
+        "B. tantangan",
+        "C. keuletan",
+        "D. ketangguhan"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Dalam rangka menguatkan ketahanan gatra politik sistem ketahanan nasional, hal yang penting untuk dilakukan oleh bangsa dan negara RI adalah...",
+      "choices": [
+        "A. bersikap adil, hemat, sederhana, bekerja keras, dan menghargai hasil kerja orang lain",
+        "B. kebijaksanaan pemerintahan sesuai dengan tuntutan dan keinginan rakyat, sistem pemerintahan yang demokrasi dan politik luar negeri yang bebas dan aktif",
+        "C. landasan pembangunan nasional yang bertumpu pada kekuatan pertumbuhan perekonomian, pemerataan dan stabilitas ekonomi",
+        "D. moral dan watak bangsa dilandasi oleh ketakwaan dalam kehidupan beragama dan kepercayaan terhadap Tuhan TME"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Contoh yang paling tepat dari penerapan strategi dewasa ini yang diterapkan dalam bidang di luar bidang militer, yakni....",
+      "choices": [
+        "A. politik, memenangkan parpol dalam pemilu",
+        "B. ekonomi, meminta pengusaha swasta untuk mendanai pemenangan calon pejabat dari partai politik tertentu",
+        "C. budaya, menjual barang hasil seni kriya ke negara lain",
+        "D. ideologi, melakukan kegiatan diplomasi dengan negara lain"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Politik dan strategi nasional diimplementasikan pada pembangunan nasional dalam bentuk....",
+      "choices": [
+        "A. propenas",
+        "B. propeda",
+        "C. rencana pembangunan jangka menengah",
+        "D. rencana pembangunan jangka pendek"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Dalam pengertian demokrasi, pemerintahan oleh rakyat (government by the people) berarti pemerintahan menjalankan kekuasaan atas nama...",
+      "choices": [
+        "A. kekuasaan negara",
+        "B. kepentingan kelompok dan kepentingan pribadi",
+        "C. undang-undang",
+        "D. rakyat"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Abad pertengahan masyarakat bercirikan feodalisme, ada pertentangan antara gereja dan kepala negara, ada penindasan terhadap hak asasi individu sehingga masa tersebut terkenal sebagai abad....",
+      "choices": [
+        "A. pencerahan",
+        "B. renaissance",
+        "C. kegelapan",
+        "D. revolusi"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Dalam kurun waktu tahun 1959 – tahun 1965, pemerintahan RI melaksanakan praktik demokrasi...",
+      "choices": [
+        "A. Pancasila",
+        "B. parlementer",
+        "C. terpimpin",
+        "D. liberal"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Prinsip dasar pelaksanaan hak asasi manusia (HAM) yang dianut Indonesia sebagai amanat konstitusi, harus didasarkan kepada prinsip bahwa hak-hak sipil, politik, ekonomi, sosial budaya dan hak pembangunan merupakan...",
+      "choices": [
+        "A. hak yang terpisah satu sama lain dalam penerapan, pelaksanaan dan pemantauannya",
+        "B. hak yang mempunyai landasan hukum turunan dari UUD’45 dalam penerapan, pelaksanaannya, tetapi tidak pada pemantauannya",
+        "C. hak yang dalam penerapan, pelaksanaan dan pemantauannya tunduk sepenuhnya pada kemauan politik masyarakat tanpa campur tangan pemerintah",
+        "D. satu kesatuan yang tidak dapat dipisah-pisahkan baik dalam penerapan, pelaksanaan dan pemantauannya"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Salah satu hak yang termasuk sebagai hak ekonomi adalah hak...",
+      "choices": [
+        "A. hidup",
+        "B. jaminan sosial",
+        "C. kesehatan",
+        "D. kemerdekaan mengeluarkan pikiran dengan lisan dan tulisan"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Implementasi demokrasi dan HAM tidak akan bermakna dalam kehidupan berbangsa, bernegara dan bermasyarakat apabila tidak ditunjang dengan penegakan hukum dalam bidangnya, untuk itu, harus diciptakan budaya...",
+      "choices": [
+        "A. disiplin",
+        "B. hukum",
+        "C. pembelajar",
+        "D. politik"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Pemerintahan oleh, dari, dan untuk rakyat di bagian wilayah suatu negara bangsa melalui lembaga-lembaga pemerintahan formal yang berada di luar pemerintah pusat, adalah definisi dari....",
+      "choices": [
+        "A. desentralisasi",
+        "B. otonomi daerah",
+        "C. dekonsentrasi",
+        "D. tugas pembantuan"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Menurut paradigma politik, otonomi birokrasi publik tidak mungkin ada dan tidak akan berkembang karena dari rezim yang berkuasa ada kepentingan....",
+      "choices": [
+        "A. sosial",
+        "B. budaya",
+        "C. keilmuan",
+        "D. politik"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Dalam pemerintahah RI, paradigma birokrasi yang sentralistik telah terbina begitu lama dan mendalam bagi beberapa aparat kunci di instansi pemerintah daerah; untuk itu perlu dilakukan....",
+      "choices": [
+        "A. kebijakan pemilihan kepala daerah (pilkada) hanya mengizinkan dari kalangan konsultan atau akademisi untuk memimpin daerah",
+        "B. penataan lingkungan hidup di daerah",
+        "C. penerapan sistem birokrasi mesin secara konsisten pada instansi pemerintah daerah",
+        "D. reformasi administrasi publik di daerah"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Pada era otonomi daerah maka orientasi kinerja pemerintahan sepatutnya mengedepankan kinerja pada ....",
+      "choices": [
+        "A. hasil awal",
+        "B. proses",
+        "C. input",
+        "D. tujuan"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "Salah satu subbagian dari elemen visi atau misi dalam pengembangan kapasitas pemerintahan (capacity building) adalah...",
+      "choices": [
+        "A. akuntabilitas publik",
+        "B. pengembangan moral dan etos kerja",
+        "C. penyusunan rencana strategis institusi pemerintahan",
+        "D. pengembangan jejaring Kabupaten/Kota"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Penyebab perang menurut konsep ‘dunia yang mengerut’ adalah perang dapat terjadi akibat....\n1). perubahan dalam sistem nilai dan moral\n2). perkembangan teknologi perang dengan ditemukannya senjata-senjata mutakhir\n3). lahirnya manusia-manusia baru",
+      "choices": [
+        "A. 1 dan 2",
+        "B. 1 dan 3",
+        "C. 2 dan 3",
+        "D. 1, 2 dan 3"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Tahap persiapan dalam perang pembebasan nasional meliputi ....\n1). pengadaan latihan khusus\n2). perusakan garis-garis komunikasi dan logistik\n3). pencetusan kekacauan menjadi gerakan bersenjata di setiap daerah",
+      "choices": [
+        "A. 1 dan 2",
+        "B. 1 dan 3",
+        "C. 2 dan 3",
+        "D. 1, 2 dan 3"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Berikut ini yang merupakan termasuk dalam sistem pertahanan yang berorientasi pada lingkungan suatu negara adalah berorientasi matra...\n1). psikis\n2). laut (maritim)\n3). udara (dirgantara)",
+      "choices": [
+        "A. 1 dan 2",
+        "B. 1 dan 3",
+        "C. 2 dan 3",
+        "D. 1, 2 dan 3"
+      ],
+      "answer": "C"
+    }
+  ]  
+}
