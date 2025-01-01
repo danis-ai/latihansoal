@@ -19,76 +19,73 @@ const reviewContainer = document.getElementById("review-container");
 const reviewList = document.getElementById("review-list");
 const closeReviewBtn = document.getElementById("close-review-btn");
 
-document.addEventListener('keydown', function(e) {
-    if (e.ctrlKey && (e.key === 'c' || e.key === 'u' || e.key === 'i')) {
-        e.preventDefault();
-    }
-});
-
 // Mengambil mata pelajaran dari localStorage
 const mataPelajaran = localStorage.getItem("mataPelajaran");
 
 // Jika mata pelajaran tidak dipilih, tampilkan popup
 if (!mataPelajaran) {
-    // Membuat elemen popup
-    const popup = document.createElement('div');
-    popup.id = 'popup';
-    popup.style.position = 'fixed';
-    popup.style.top = '50%';
-    popup.style.left = '50%';
-    popup.style.transform = 'translate(-50%, -50%)';
-    popup.style.backgroundColor = 'rgba(0, 0, 0, 0.6)';
-    popup.style.zIndex = '999';
-    popup.style.width = '100%';
-    popup.style.height = '100%';
-    popup.style.display = 'flex';
-    popup.style.justifyContent = 'center';
-    popup.style.alignItems = 'center';
-  
-    // Membuat konten popup
-    const popupContent = document.createElement('div');
-    popupContent.style.backgroundColor = '#fff';
-    popupContent.style.padding = '20px';
-    popupContent.style.borderRadius = '5px';
-    popupContent.style.textAlign = 'center';
-  
-    // Membuat pesan di dalam popup
-    const message = document.createElement('p');
-    message.innerText = 'Mata pelajaran tidak dipilih.';
-    popupContent.appendChild(message);
-  
-    // Membuat tombol close dengan ikon dari Google Material Icons
-    const closeBtn = document.createElement('span');
-    closeBtn.classList.add('material-icons');
-    closeBtn.style.fontSize = '24px';
-    closeBtn.style.cursor = 'pointer';
-    closeBtn.style.position = 'absolute';
-    closeBtn.style.top = '10px';
-    closeBtn.style.right = '10px';
-    closeBtn.innerText = 'close';
-    popupContent.appendChild(closeBtn);
-  
-    // Menambahkan konten ke dalam popup
-    popup.appendChild(popupContent);
-  
-    // Menambahkan popup ke dalam body
-    document.body.appendChild(popup);
-  
-    // Menangani klik pada tombol close
-    closeBtn.addEventListener('click', function() {
-      document.body.removeChild(popup);
-      window.location.href = "index.html"; // Arahkan kembali ke halaman pemilihan
-    });
-  
-    // Memastikan ikon Google Material Icons ditambahkan di head jika belum ada
-    if (!document.querySelector('link[href="https://fonts.googleapis.com/icon?family=Material+Icons"]')) {
-      const iconLink = document.createElement('link');
-      iconLink.rel = 'stylesheet';
-      iconLink.href = 'https://fonts.googleapis.com/icon?family=Material+Icons';
-      document.head.appendChild(iconLink);
-    }
+  // Membuat elemen popup
+  const popup = document.createElement("div");
+  popup.id = "popup";
+  popup.style.position = "fixed";
+  popup.style.top = "50%";
+  popup.style.left = "50%";
+  popup.style.transform = "translate(-50%, -50%)";
+  popup.style.backgroundColor = "rgba(0, 0, 0, 0.6)";
+  popup.style.zIndex = "999";
+  popup.style.width = "100%";
+  popup.style.height = "100%";
+  popup.style.display = "flex";
+  popup.style.justifyContent = "center";
+  popup.style.alignItems = "center";
+
+  // Membuat konten popup
+  const popupContent = document.createElement("div");
+  popupContent.style.backgroundColor = "#fff";
+  popupContent.style.padding = "20px";
+  popupContent.style.borderRadius = "5px";
+  popupContent.style.textAlign = "center";
+
+  // Membuat pesan di dalam popup
+  const message = document.createElement("p");
+  message.innerText = "Mata pelajaran tidak dipilih.";
+  popupContent.appendChild(message);
+
+  // Membuat tombol close dengan ikon dari Google Material Icons
+  const closeBtn = document.createElement("span");
+  closeBtn.classList.add("material-icons");
+  closeBtn.style.fontSize = "24px";
+  closeBtn.style.cursor = "pointer";
+  closeBtn.style.position = "absolute";
+  closeBtn.style.top = "10px";
+  closeBtn.style.right = "10px";
+  closeBtn.innerText = "close";
+  popupContent.appendChild(closeBtn);
+
+  // Menambahkan konten ke dalam popup
+  popup.appendChild(popupContent);
+
+  // Menambahkan popup ke dalam body
+  document.body.appendChild(popup);
+
+  // Menangani klik pada tombol close
+  closeBtn.addEventListener("click", function () {
+    document.body.removeChild(popup);
+    window.location.href = "index.html"; // Arahkan kembali ke halaman pemilihan
+  });
+
+  // Memastikan ikon Google Material Icons ditambahkan di head jika belum ada
+  if (
+    !document.querySelector(
+      'link[href="https://fonts.googleapis.com/icon?family=Material+Icons"]'
+    )
+  ) {
+    const iconLink = document.createElement("link");
+    iconLink.rel = "stylesheet";
+    iconLink.href = "https://fonts.googleapis.com/icon?family=Material+Icons";
+    document.head.appendChild(iconLink);
   }
-  
+}
 
 // Memuat soal dari file JSON berdasarkan mata pelajaran yang dipilih
 fetch("questions.json")
@@ -155,9 +152,11 @@ function updateSidebar() {
 function showQuestion() {
   resetState();
   let currentQuestion = questions[currentQuestionIndex];
-  
+
   // Menampilkan soal
-  questionEl.innerHTML = `<strong>${currentQuestionIndex + 1}</strong>. ${currentQuestion.question}`;
+  questionEl.innerHTML = `<strong>${currentQuestionIndex + 1}</strong>. ${
+    currentQuestion.question
+  }`;
 
   // Update sidebar
   updateSidebar();
@@ -169,7 +168,8 @@ function showQuestion() {
     currentQuestion.shuffled = true;
   } else {
     // Jika sudah, gunakan pilihan jawaban yang sudah diacak
-    currentQuestion.shuffledChoices = currentQuestion.shuffledChoices || shuffleArray(currentQuestion.choices);
+    currentQuestion.shuffledChoices =
+      currentQuestion.shuffledChoices || shuffleArray(currentQuestion.choices);
   }
 
   // Tampilkan pilihan jawaban
@@ -192,7 +192,6 @@ function showQuestion() {
     nextBtn.disabled = false;
   }
 }
-
 
 // Reset tampilan sebelum menampilkan soal baru
 function resetState() {
@@ -365,3 +364,23 @@ function navigateToQuestion(index) {
   currentQuestionIndex = index;
   showQuestion();
 }
+
+// Fungsi untuk menutup modal
+function closeModal() {
+  document.getElementById("myModal").style.display = "none";
+}
+
+// Tampilkan modal setelah 1 detik (1000 milidetik) setelah halaman dimuat
+window.onload = function () {
+  setTimeout(function () {
+    document.getElementById("myModal").style.display = "flex";
+  }, 1000);
+};
+
+// Tambahkan event listener ke tombol close
+document.querySelector(".close-button").addEventListener("click", closeModal);
+
+// Tutup modal jika pengguna mengklik di mana saja pada halaman
+window.addEventListener("click", function (event) {
+  closeModal();
+});
